@@ -14,7 +14,7 @@ p,li{color:var(--ink)}.muted{color:var(--muted);font-size:14px}a{color:var(--acc
 <ul>
 <li><strong>YouTube (YouTube API Services):</strong> permission to upload videos to, and read basic statistics (subscribers, views, video count) of, the channel owner's own channels.</li>
 <li><strong>Instagram (Instagram API):</strong> permission to publish Reels to, and read basic profile statistics (followers, post count) of, the owner's own Instagram accounts.</li>
-<li><strong>Video files:</strong> the owner's own episode videos, downloaded from links the owner has shared.</li>
+<li><strong>Video files:</strong> the owner's own episode videos, read from the owner's private Google Drive folder through a read-only service account that has been given access to that folder only.</li>
 </ul>
 <h2>What it stores</h2>
 <p>Access tokens are stored only as encrypted secrets in the tool's GitHub repository and are used only to publish scheduled posts and read the statistics above. The tool keeps a log of each scheduled post (time, caption, status and the link to the published video). It does not collect, store or process personal data about viewers or any other person.</p>

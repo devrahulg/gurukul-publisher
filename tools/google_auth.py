@@ -26,10 +26,10 @@ SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.readonly",
 ]
-# Drive access is not requested: the episode videos are shared "anyone with the link",
-# so the publisher downloads them without a Google login. That keeps the app on
-# YouTube's "sensitive" scopes only (Drive read access is a "restricted" scope, which
-# needs a paid security assessment to verify).
+# Drive access is not requested here. The publisher reads the private Drive folder
+# through a separate service account (GOOGLE_SA_KEY, see SETUP.md step 3b). That
+# keeps this app on YouTube's "sensitive" scopes only; Drive read access is a
+# "restricted" scope, which Google verifies only after a paid security assessment.
 AUTH = "https://accounts.google.com/o/oauth2/v2/auth"
 TOKEN = "https://oauth2.googleapis.com/token"
 

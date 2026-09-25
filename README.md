@@ -13,7 +13,7 @@ Claude (connector in mcp_server/)  reads and edits the queue, starts runs, reads
 ```
 
 - **One file per post** in `queue/`, named `<date>T<time>_<account>_ep<NNN>.json`. The publisher updates each file's `status` (`queued → scheduled/published`, or `failed`, `missed`, `cancelled`), the live URL and a short history.
-- **Videos come from Google Drive** (the "theAIgurukul - Kiro Episode Videos" folder) through the Drive API, so nothing large is stored in this repository.
+- **Videos come from your private Google Drive folder** ("theAIgurukul - Kiro Episode Videos") through a read-only service account that the folder is shared with. The folder needs no public link, and nothing large is stored in this repository. Each Reel is placed on GitHub Pages under a random file name only minutes before Instagram publishes it.
 - **Secrets** (Google and Instagram tokens) live only in the repository's Actions secrets, never in files.
 - **Stats**: every morning at 08:00 IST the `stats` workflow writes followers, subscribers and views to `stats/latest.json`. On Sundays it also extends the Instagram tokens.
 
@@ -30,7 +30,7 @@ Both languages are queued from Oct 1 to Dec 12, 2026: 292 posts, 146 in English 
 | `en_ig` | English Instagram @theai_gurukul | `IG_TOKEN_EN` |
 | `en_yt` | English YouTube channel | `YT_REFRESH_EN` |
 
-Also required: `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`. `GH_ADMIN_TOKEN` is needed for automatic Instagram token renewal. An account whose secret isn't set yet is simply skipped, so you can connect them one at a time.
+Also required: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` and `GOOGLE_SA_KEY` (the service account key for private Drive access). `GH_ADMIN_TOKEN` is needed for automatic Instagram token renewal. An account whose secret isn't set yet is simply skipped, so you can connect them one at a time.
 
 ## Limits to know
 

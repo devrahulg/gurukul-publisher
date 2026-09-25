@@ -12,6 +12,7 @@ import argparse
 import datetime as dt
 import os
 import pathlib
+import secrets
 import shutil
 import sys
 import tempfile
@@ -81,9 +82,15 @@ def fail(p: Post, err: Exception, s: dict) -> None:
 
 
 def drive_token(accts: dict) -> str | None:
-    """Drive API access is optional. By default videos come from their public
-    ("anyone with the link") Drive URLs; set "drive_api": true in settings.json
-    only if the Google token was granted the drive.readonly scope."""
+    """How the publisher reads the private Drive folder:
+    1. a service account (GOOGLE_SA_KEY), the recommended way;
+    2. a channel's user token, only if "drive_api": true in settings.json and the
+       token was granted drive.readonly;
+    3. otherwise None, and downloads use public links (only works if the files
+       are shared "anyone with the link")."""
+    sa = g.service_account_token()
+    if sa:
+        return sa
     if not settings().get("drive_api", False):
         return None
     for acct in accts.values():
@@ -130,10 +137,13 @@ def cmd_prepare(site: pathlib.Path, static_only: bool = False) -> int:
     staged = []
     token = drive_token(accts) if due else None
     for p in due:
-        dest = site / "media" / f"{p['id']}.mp4"
+        # Random, unguessable file name. The file is public only from now until
+        # the next Pages deploy, and by then it is already live on Instagram.
+        name = f"media/{secrets.token_urlsafe(18)}.mp4"
+        dest = site / name
         try:
             fetch_video(p, dest, token)
-            staged.append({"id": p["id"], "file": f"media/{p['id']}.mp4"})
+            staged.append({"id": p["id"], "file": name})
             log(f"staged {p['id']} ({dest.stat().st_size // 1024} KB)")
         except ApiError as exc:
             log(f"could not stage {p['id']}: {exc}")

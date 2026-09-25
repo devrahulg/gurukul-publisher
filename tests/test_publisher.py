@@ -183,3 +183,37 @@ def test_mcp_server_handshake_and_tools():
     assert "not configured" in json.dumps(replies[2]["result"])
     # path traversal ids are rejected
     assert replies[3]["result"]["isError"] is True
+
+
+def test_service_account_absent_and_bad_key(monkeypatch):
+    monkeypatch.delenv("GOOGLE_SA_KEY", raising=False)
+    assert g.service_account_token() is None
+    monkeypatch.setenv("GOOGLE_SA_KEY", '{"type": "service_account", "private_key": "SECRET-KEY-TEXT"}')
+    with pytest.raises(run.ApiError) as err:
+        g.service_account_token()
+    assert "SECRET-KEY-TEXT" not in str(err.value)
+
+
+def test_private_drive_uses_api_only(monkeypatch, tmp_path):
+    seen = []
+
+    class R:
+        def iter_content(self, n):
+            yield b"\0\0\0\x18ftypmp42" + b"0" * 20000
+    monkeypatch.setattr(g, "http", lambda m, url, **k: seen.append((url, k.get("headers"))) or R())
+    g.drive_download("FILE1", tmp_path / "v.mp4", token="AT")
+    assert len(seen) == 1 and seen[0][0].endswith("/files/FILE1")
+    assert seen[0][1]["Authorization"] == "Bearer AT"
+
+
+def test_staged_media_names_are_unguessable(qdir, monkeypatch, tmp_path):
+    put(qdir, "2026-10-02T1030_hi_ig_ep008", "hi_ig", "2026-10-02T10:30:00+05:30")
+    monkeypatch.setenv("PUBLISHER_NOW", "2026-10-02T10:20:00+05:30")
+    monkeypatch.setattr(run, "accounts", lambda: ACCTS)
+    monkeypatch.setattr(run, "drive_token", lambda a: "AT")
+    monkeypatch.setattr(run, "fetch_video", lambda p, dest, tok: dest.write_bytes(b"x") or dest)
+    site = tmp_path / "site"
+    run.cmd_prepare(site)
+    items = json.loads((tmp_path / "manifest.json").read_text())["items"]
+    assert len(items) == 1 and "ep008" not in items[0]["file"] and len(items[0]["file"]) > 25
+    assert (site / items[0]["file"]).exists()

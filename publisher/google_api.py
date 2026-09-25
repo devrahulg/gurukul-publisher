@@ -35,6 +35,28 @@ def access_token(refresh_env: str) -> str:
     return token
 
 
+DRIVE_READ_SCOPE = "https://www.googleapis.com/auth/drive.readonly"
+
+
+def service_account_token() -> str | None:
+    """Drive access through a service account (secret GOOGLE_SA_KEY = the key
+    JSON). The Drive folder stays private and is shared only with the service
+    account's email, as Viewer. No user sign-in, no token that expires weekly."""
+    raw = os.environ.get("GOOGLE_SA_KEY", "").strip()
+    if not raw:
+        return None
+    try:
+        from google.auth.transport.requests import Request
+        from google.oauth2 import service_account
+        info = json.loads(raw)
+        creds = service_account.Credentials.from_service_account_info(info, scopes=[DRIVE_READ_SCOPE])
+        creds.refresh(Request())
+        return creds.token
+    except Exception as exc:  # noqa: BLE001  (never echo key material)
+        raise ApiError(f"Service account sign-in failed ({type(exc).__name__}). "
+                       "Check that GOOGLE_SA_KEY holds the full key JSON.") from None
+
+
 def _looks_like_mp4(path: pathlib.Path) -> bool:
     if not path.exists() or path.stat().st_size < 10_000:
         return False
@@ -44,15 +66,18 @@ def _looks_like_mp4(path: pathlib.Path) -> bool:
 
 
 def drive_download(file_id: str, dest: pathlib.Path, token: str | None = None) -> pathlib.Path:
-    """Download a Drive file. Tries the Drive API (with the channel's token),
-    then the public link (works when the file is shared 'anyone with the link')."""
+    """Download a Drive file. With a token (service account, or a user token
+    with drive.readonly) it uses the Drive API, which works on private files.
+    Without one it tries the public link, which only works for files shared
+    'anyone with the link'."""
     dest.parent.mkdir(parents=True, exist_ok=True)
     attempts = []
     if token:
         attempts.append((f"{DRIVE}/files/{file_id}", {"alt": "media", "supportsAllDrives": "true"},
                          {"Authorization": f"Bearer {token}"}))
-    attempts.append(("https://drive.usercontent.google.com/download",
-                     {"id": file_id, "export": "download", "confirm": "t"}, {}))
+    else:
+        attempts.append(("https://drive.usercontent.google.com/download",
+                         {"id": file_id, "export": "download", "confirm": "t"}, {}))
     errors = []
     for url, params, headers in attempts:
         try:
@@ -62,7 +87,7 @@ def drive_download(file_id: str, dest: pathlib.Path, token: str | None = None) -
                     fh.write(chunk)
             if _looks_like_mp4(dest):
                 return dest
-            errors.append("downloaded file is not an MP4 (check sharing on the Drive file)")
+            errors.append("downloaded file is not an MP4 (is the folder shared with the service account?)")
         except ApiError as exc:
             errors.append(str(exc))
     raise ApiError(f"Could not download Drive file {file_id}: " + " | ".join(errors))
