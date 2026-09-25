@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19T1600_hi_yt_ep057",
+  "account": "hi_yt",
+  "publish_at": "2026-11-19T16:00:00+05:30",
+  "language": "hi",
+  "episode": 57,
+  "video": {
+    "drive_file_id": "1fv9CC3SRf9iXuphhzfAoNi172n46Wwb5",
+    "file_name": "Kiro-Ep057-HI.mp4"
+  },
+  "caption": "MCP से Kiro को किसी बाहरी टूल से जोड़ना\n\nKiro से नया टूल जोड़ने में घंटों नहीं, बस मिनट लगते हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 57.\n\n#MCPSetup #ToolIntegration #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "MCP से Kiro को किसी बाहरी टूल से जोड़ना #Shorts",
+    "description": "MCP से Kiro को किसी बाहरी टूल से जोड़ना\n\nKiro से नया टूल जोड़ने में घंटों नहीं, बस मिनट लगते हैं।\nअपने चाहे टूल की ओर इशारा करता एक MCP सर्वर कॉन्फ़िग जोड़िए।\nअब Kiro के एजेंट्स टास्क के दौरान उस टूल को सीधे कॉल कर सकते हैं।\nआपकी तरफ से कोई कस्टम इंटीग्रेशन कोड नहीं चाहिए।\n\nKiro हिंदी सीरीज़ का एपिसोड 57। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#MCPSetup #ToolIntegration #KiroHindi #theAIgurukul",
+    "tags": [
+      "MCPSetup",
+      "ToolIntegration",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

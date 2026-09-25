@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-01T1600_hi_yt_ep039",
+  "account": "hi_yt",
+  "publish_at": "2026-11-01T16:00:00+05:30",
+  "language": "hi",
+  "episode": 39,
+  "video": {
+    "drive_file_id": "1Y6NKGVz9K0ykDb7MoNBDQ9MVqtFyKmNz",
+    "file_name": "Kiro-Ep039-HI.mp4"
+  },
+  "caption": "मैनुअल हुक्स: डिमांड पर एक टास्क चलाना\n\nहर ऑटोमेशन अपने आप नहीं चलना चाहिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 39.\n\n#ManualHooks #KiroAutomation #DevWorkflow #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "मैनुअल हुक्स: डिमांड पर एक टास्क चलाना #Shorts",
+    "description": "मैनुअल हुक्स: डिमांड पर एक टास्क चलाना\n\nहर ऑटोमेशन अपने आप नहीं चलना चाहिए।\nमैनुअल हुक्स तैयार बैठे रहते हैं पर सिर्फ तब फायर होते हैं जब आप उन्हें ट्रिगर करें।\nपूरे टेस्ट सूट या डिप्लॉय जैसे महंगे टास्क्स के लिए बिल्कुल सही।\nपूरी टर्मिनल कमांड सीक्वेंस की बजाय बस एक क्लिक।\n\nKiro हिंदी सीरीज़ का एपिसोड 39। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#ManualHooks #KiroAutomation #DevWorkflow #KiroHindi #theAIgurukul",
+    "tags": [
+      "ManualHooks",
+      "KiroAutomation",
+      "DevWorkflow",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

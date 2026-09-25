@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-11T1030_hi_ig_ep018",
+  "account": "hi_ig",
+  "publish_at": "2026-10-11T10:30:00+05:30",
+  "language": "hi",
+  "episode": 18,
+  "video": {
+    "drive_file_id": "10rajZlMHRdsjwzPen5o2QbbuVQxaeRIW",
+    "file_name": "Kiro-Ep018-HI.mp4"
+  },
+  "caption": "Kiro का Open VSX एक्सटेंशन सपोर्ट समझाया गया\n\nआपके पसंदीदा VS Code एक्सटेंशन्स? शायद अभी भी काम करते हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 18.\n\n#OpenVSX #Extensions #KiroSetup #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

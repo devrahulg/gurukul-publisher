@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-12T1030_hi_ig_ep019",
+  "account": "hi_ig",
+  "publish_at": "2026-10-12T10:30:00+05:30",
+  "language": "hi",
+  "episode": 19,
+  "video": {
+    "drive_file_id": "11AgmO4d0Rlhtl4xI2QQOPL9ly7B8VzgA",
+    "file_name": "Kiro-Ep019-HI.mp4"
+  },
+  "caption": "अपना पहला Kiro हुक सेट करना\n\nयह एक ऑटोमेशन हर हफ्ते घंटों बचाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 19.\n\n#AgentHooks #Automation #FirstHook #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

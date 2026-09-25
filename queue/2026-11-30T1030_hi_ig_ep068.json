@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-30T1030_hi_ig_ep068",
+  "account": "hi_ig",
+  "publish_at": "2026-11-30T10:30:00+05:30",
+  "language": "hi",
+  "episode": 68,
+  "video": {
+    "drive_file_id": "1RV2fUA9pvxcRcEMNVimc4i1sEB91jTVU",
+    "file_name": "Kiro-Ep068-HI.mp4"
+  },
+  "caption": "आपकी CI/CD पाइपलाइन में Kiro\n\nKiro सिर्फ आपकी लोकल मशीन के लिए नहीं है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 68.\n\n#KiroCICD #DevOps #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

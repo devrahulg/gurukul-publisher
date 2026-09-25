@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-28T1600_hi_yt_ep035",
+  "account": "hi_yt",
+  "publish_at": "2026-10-28T16:00:00+05:30",
+  "language": "hi",
+  "episode": 35,
+  "video": {
+    "drive_file_id": "1A_oLrpbP_x2cK-rUc2S2FY9DdjuHYgom",
+    "file_name": "Kiro-Ep035-HI.mp4"
+  },
+  "caption": "स्पेक्स रीकैप: पूरी रिक्वायरमेंट्स-टू-टास्क्स पाइपलाइन\n\nपूरी स्पेक पाइपलाइन, 30 सेकंड में।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 35.\n\n#SpecsRecap #SpecDriven #Module3 #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "स्पेक्स रीकैप: पूरी रिक्वायरमेंट्स-टू-टास्क्स पाइपलाइन #Shorts",
+    "description": "स्पेक्स रीकैप: पूरी रिक्वायरमेंट्स-टू-टास्क्स पाइपलाइन\n\nपूरी स्पेक पाइपलाइन, 30 सेकंड में।\nप्रॉम्प्ट, EARS एक्सेप्टेंस क्राइटेरिया के साथ requirements.md बन जाती है।\nरिक्वायरमेंट्स, डायग्राम्स और स्कीमास के साथ design.md बन जाती हैं।\nडिज़ाइन बन जाता है tasks.md — सीक्वेंस्ड, टेस्टेड, बनाने के लिए तैयार।\n\nKiro हिंदी सीरीज़ का एपिसोड 35। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SpecsRecap #SpecDriven #Module3 #KiroHindi #theAIgurukul",
+    "tags": [
+      "SpecsRecap",
+      "SpecDriven",
+      "Module3",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

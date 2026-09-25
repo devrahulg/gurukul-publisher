@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-07T1600_hi_yt_ep045",
+  "account": "hi_yt",
+  "publish_at": "2026-11-07T16:00:00+05:30",
+  "language": "hi",
+  "episode": 45,
+  "video": {
+    "drive_file_id": "1226WEvtXWi9nGPDgEVrzWxvRtVIzv5Xq",
+    "file_name": "Kiro-Ep045-HI.mp4"
+  },
+  "caption": "हुक्स रीकैप: Kiro में बैकग्राउंड ऑटोमेशन\n\n30 सेकंड में हुक्स जो कुछ भी कर सकते हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 45.\n\n#HooksRecap #KiroAutomation #Module4 #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "हुक्स रीकैप: Kiro में बैकग्राउंड ऑटोमेशन #Shorts",
+    "description": "हुक्स रीकैप: Kiro में बैकग्राउंड ऑटोमेशन\n\n30 सेकंड में हुक्स जो कुछ भी कर सकते हैं।\nहुक्स सेव, क्रिएट, डिलीट पर, या मैनुअली ट्रिगर होते हैं।\nये टेस्ट्स, डॉक्स, लिंटिंग और भी बहुत कुछ ऑटोमेट करते हैं।\nइन्हें चेन कीजिए और Kiro आपकी बिज़ीवर्क संभाल लेता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 45। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#HooksRecap #KiroAutomation #Module4 #KiroHindi #theAIgurukul",
+    "tags": [
+      "HooksRecap",
+      "KiroAutomation",
+      "Module4",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13T1600_hi_yt_ep051",
+  "account": "hi_yt",
+  "publish_at": "2026-11-13T16:00:00+05:30",
+  "language": "hi",
+  "episode": 51,
+  "video": {
+    "drive_file_id": "1HxHYXelt46mrG2dVEFMIc91pKoEaorr_",
+    "file_name": "Kiro-Ep051-HI.mp4"
+  },
+  "caption": "Skills.md: Kiro को कस्टम कैपेबिलिटी सिखाना\n\nKiro को एक बिल्कुल नई स्किल दीजिए जो वह पहले से नहीं जानता।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 51.\n\n#SkillsMd #KiroCustomization #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Skills.md: Kiro को कस्टम कैपेबिलिटी सिखाना #Shorts",
+    "description": "Skills.md: Kiro को कस्टम कैपेबिलिटी सिखाना\n\nKiro को एक बिल्कुल नई स्किल दीजिए जो वह पहले से नहीं जानता।\nSkills.md से आप Kiro के एजेंट्स के लिए कस्टम कैपेबिलिटीज़ डिफाइन कर सकते हैं।\nएक वर्कफ़्लो को एक बार डॉक्यूमेंट कीजिए, और Kiro इसे मांगने पर चला सकता है।\nयह Kiro को उसके डिफॉल्ट्स से आगे बढ़ाने का तरीका है।\n\nKiro हिंदी सीरीज़ का एपिसोड 51। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SkillsMd #KiroCustomization #KiroHindi #theAIgurukul",
+    "tags": [
+      "SkillsMd",
+      "KiroCustomization",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-08T1600_hi_yt_ep015",
+  "account": "hi_yt",
+  "publish_at": "2026-10-08T16:00:00+05:30",
+  "language": "hi",
+  "episode": 15,
+  "video": {
+    "drive_file_id": "1Q2qiBV5f4s-LEs3QBk0Ae9Ldkqrx3Huj",
+    "file_name": "Kiro-Ep015-HI.mp4"
+  },
+  "caption": "Kiro में अपनी पहली प्रॉम्प्ट लिखना\n\nKiro को प्रॉम्प्ट करने का तरीका अलग है — वजह जानिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 15.\n\n#KiroPrompting #FirstPrompt #PromptTips #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro में अपनी पहली प्रॉम्प्ट लिखना #Shorts",
+    "description": "Kiro में अपनी पहली प्रॉम्प्ट लिखना\n\nKiro को प्रॉम्प्ट करने का तरीका अलग है — वजह जानिए।\nसिर्फ कोड मत मांगिए। नतीजा और शर्तें बताइए।\nKiro उसे इम्प्लीमेंटेशन शुरू करने से पहले स्ट्रक्चर्ड रिक्वायरमेंट्स में बदल देता है।\nयहां एक बेहतर प्रॉम्प्ट का मतलब है बाद में एक बेहतर स्पेक।\n\nKiro हिंदी सीरीज़ का एपिसोड 15। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroPrompting #FirstPrompt #PromptTips #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroPrompting",
+      "FirstPrompt",
+      "PromptTips",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

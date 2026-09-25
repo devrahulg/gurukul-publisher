@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-04T1600_hi_yt_ep010",
+  "account": "hi_yt",
+  "publish_at": "2026-10-04T16:00:00+05:30",
+  "language": "hi",
+  "episode": 10,
+  "video": {
+    "drive_file_id": "11-Z-Ju2kEP5B9dFGo37DrveyqxtQ-QTV",
+    "file_name": "Kiro-Ep010-HI.mp4"
+  },
+  "caption": "30 सेकंड में Kiro: पूरा आइडिया रीकैप\n\nKiro के बारे में सब कुछ, एक वीडियो में।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 10.\n\n#KiroRecap #KiroBasics #Module1 #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "30 सेकंड में Kiro: पूरा आइडिया रीकैप #Shorts",
+    "description": "30 सेकंड में Kiro: पूरा आइडिया रीकैप\n\nKiro के बारे में सब कुछ, एक वीडियो में।\nKiro एक एजेंटिक IDE है जो Code OSS पर बना है।\nयह कोड लिखने से पहले spec-driven development — रिक्वायरमेंट्स, डिज़ाइन, टास्क्स — यूज़ करता है।\nयह सोलो डेवलपर से लेकर एंटरप्राइज़ तक स्केल करता है, साथ में hooks, MCP और multi-agent पावर।\n\nKiro हिंदी सीरीज़ का एपिसोड 10। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroRecap #KiroBasics #Module1 #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroRecap",
+      "KiroBasics",
+      "Module1",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

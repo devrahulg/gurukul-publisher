@@ -1,0 +1,14 @@
+{
+  "id": "2026-12-01T1030_hi_ig_ep069",
+  "account": "hi_ig",
+  "publish_at": "2026-12-01T10:30:00+05:30",
+  "language": "hi",
+  "episode": 69,
+  "video": {
+    "drive_file_id": "1pjBnSwrH3h9Yv5du_-F7eG0EjDmYS84E",
+    "file_name": "Kiro-Ep069-HI.mp4"
+  },
+  "caption": "Agent Client Protocol (ACP): हर जगह Kiro\n\nKiro के एजेंट्स सिर्फ Kiro के अपने IDE तक सीमित नहीं हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 69.\n\n#ACP #AgentClientProtocol #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

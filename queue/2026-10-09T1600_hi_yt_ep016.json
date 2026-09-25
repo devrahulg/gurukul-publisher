@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-09T1600_hi_yt_ep016",
+  "account": "hi_yt",
+  "publish_at": "2026-10-09T16:00:00+05:30",
+  "language": "hi",
+  "episode": 16,
+  "video": {
+    "drive_file_id": "1E-iK5PjwKY1FZrUwR6UFiEUYyawhkaSj",
+    "file_name": "Kiro-Ep016-HI.mp4"
+  },
+  "caption": "प्रॉम्प्ट से स्पेक तक: आगे क्या होता है\n\nआप एंटर दबाते हैं। यहां देखिए Kiro पर्दे के पीछे क्या करता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 16.\n\n#PromptToSpec #EARS #KiroWorkflow #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "प्रॉम्प्ट से स्पेक तक: आगे क्या होता है #Shorts",
+    "description": "प्रॉम्प्ट से स्पेक तक: आगे क्या होता है\n\nआप एंटर दबाते हैं। यहां देखिए Kiro पर्दे के पीछे क्या करता है।\nKiro कॉन्टेक्स्ट के लिए आपके कोडबेस का विश्लेषण करता है।\nयह EARS-नोटेशन एक्सेप्टेंस क्राइटेरिया के साथ requirements.md तैयार करता है।\nफिर डिज़ाइन पर बढ़ने से पहले यह आपके रिव्यू का इंतज़ार करता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 16। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#PromptToSpec #EARS #KiroWorkflow #KiroHindi #theAIgurukul",
+    "tags": [
+      "PromptToSpec",
+      "EARS",
+      "KiroWorkflow",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

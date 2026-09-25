@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-10T1600_hi_yt_ep048",
+  "account": "hi_yt",
+  "publish_at": "2026-11-10T16:00:00+05:30",
+  "language": "hi",
+  "episode": 48,
+  "video": {
+    "drive_file_id": "1fUVc6VApElQfaRpo3_erCIJNDIUIo6U3",
+    "file_name": "Kiro-Ep048-HI.mp4"
+  },
+  "caption": "स्टीयरिंग रूल्स जो कोड स्टाइल लागू करते हैं\n\nहर प्रॉम्प्ट में वही बात दोहराना बंद कीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 48.\n\n#CodeStyle #KiroCustomization #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "स्टीयरिंग रूल्स जो कोड स्टाइल लागू करते हैं #Shorts",
+    "description": "स्टीयरिंग रूल्स जो कोड स्टाइल लागू करते हैं\n\nहर प्रॉम्प्ट में वही बात दोहराना बंद कीजिए।\nहर बार 'टैब्स नहीं, स्पेसेज़ इस्तेमाल करो' कहने की बजाय, एक बार स्टीयर कर दीजिए।\nKiro उस रूल को हर फाइल पर लागू करता है जिसे वह छूता है।\nबार-बार याद दिलाए बिना कंसिस्टेंसी।\n\nKiro हिंदी सीरीज़ का एपिसोड 48। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#CodeStyle #KiroCustomization #KiroHindi #theAIgurukul",
+    "tags": [
+      "CodeStyle",
+      "KiroCustomization",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

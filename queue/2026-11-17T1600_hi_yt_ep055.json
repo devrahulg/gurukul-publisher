@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-17T1600_hi_yt_ep055",
+  "account": "hi_yt",
+  "publish_at": "2026-11-17T16:00:00+05:30",
+  "language": "hi",
+  "episode": 55,
+  "video": {
+    "drive_file_id": "13xCBNAHWF5DhDRxcXS0AYF2LUMImsXgj",
+    "file_name": "Kiro-Ep055-HI.mp4"
+  },
+  "caption": "स्टीयरिंग रीकैप: Kiro का व्यवहार तय करना\n\nस्टीयरिंग, AGENTS.md, और Skills.md — 30 सेकंड में।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 55.\n\n#SteeringRecap #KiroCustomization #Module5 #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "स्टीयरिंग रीकैप: Kiro का व्यवहार तय करना #Shorts",
+    "description": "स्टीयरिंग रीकैप: Kiro का व्यवहार तय करना\n\nस्टीयरिंग, AGENTS.md, और Skills.md — 30 सेकंड में।\nस्टीयरिंग रूल्स आपके पूरे प्रोजेक्ट में व्यवहार तय करते हैं।\nAGENTS.md और Skills.md, Kiro जो कर सकता है उसे पोर्टेबल तरीके से बढ़ाते हैं।\nइसे IDE, CLI और Web में सिंक कीजिए।\n\nKiro हिंदी सीरीज़ का एपिसोड 55। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SteeringRecap #KiroCustomization #Module5 #KiroHindi #theAIgurukul",
+    "tags": [
+      "SteeringRecap",
+      "KiroCustomization",
+      "Module5",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

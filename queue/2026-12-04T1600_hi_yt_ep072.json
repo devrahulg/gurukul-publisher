@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-04T1600_hi_yt_ep072",
+  "account": "hi_yt",
+  "publish_at": "2026-12-04T16:00:00+05:30",
+  "language": "hi",
+  "episode": 72,
+  "video": {
+    "drive_file_id": "1GlNFYcwMRFEsF88amVh3i0o9SgN1DnSO",
+    "file_name": "Kiro-Ep072-HI.mp4"
+  },
+  "caption": "Autopilot असल में आपके लिए क्या चुनता है\n\nAutopilot रैंडम नहीं चुन रहा — यहाँ है असली लॉजिक।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 72.\n\n#KiroAutopilot #ModelSelection #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Autopilot असल में आपके लिए क्या चुनता है #Shorts",
+    "description": "Autopilot असल में आपके लिए क्या चुनता है\n\nAutopilot रैंडम नहीं चुन रहा — यहाँ है असली लॉजिक।\nAutopilot हर टास्क के लिए अपने आप सबसे अच्छा मॉडल चुनता है।\nयह कॉम्प्लेक्सिटी, ज़रूरी क्वालिटी, लेटेंसी और कॉस्ट को ध्यान में रखता है।\nहर बार मैन्युअली स्विच किए बिना आपको सही मॉडल मिलता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 72। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroAutopilot #ModelSelection #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroAutopilot",
+      "ModelSelection",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

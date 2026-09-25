@@ -1,0 +1,26 @@
+{
+  "hi_ig": {
+    "platform": "instagram",
+    "label": "Hindi Instagram",
+    "token_secret": "IG_TOKEN_HI",
+    "enabled": true
+  },
+  "hi_yt": {
+    "platform": "youtube",
+    "label": "Hindi YouTube channel",
+    "refresh_secret": "YT_REFRESH_HI",
+    "enabled": true
+  },
+  "en_ig": {
+    "platform": "instagram",
+    "label": "English Instagram @theai_gurukul (still on Metricool)",
+    "token_secret": "IG_TOKEN_EN",
+    "enabled": false
+  },
+  "en_yt": {
+    "platform": "youtube",
+    "label": "English YouTube channel (still on Metricool)",
+    "refresh_secret": "YT_REFRESH_EN",
+    "enabled": false
+  }
+}

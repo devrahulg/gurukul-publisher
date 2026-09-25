@@ -1,0 +1,30 @@
+{
+  "id": "2026-12-07T1600_hi_yt_ep075",
+  "account": "hi_yt",
+  "publish_at": "2026-12-07T16:00:00+05:30",
+  "language": "hi",
+  "episode": 75,
+  "video": {
+    "drive_file_id": "1AqirYQAi-fJB8Dy_CoxTAdKXApZApbJ5",
+    "file_name": "Kiro-Ep075-HI.mp4"
+  },
+  "caption": "Kiro में Claude, Deepseek और MiniMax में चुनाव\n\nKiro आपको AI मॉडल्स का असली चुनाव देता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 75.\n\n#KiroModels #ClaudeAI #ModelChoice #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro में Claude, Deepseek और MiniMax में चुनाव #Shorts",
+    "description": "Kiro में Claude, Deepseek और MiniMax में चुनाव\n\nKiro आपको AI मॉडल्स का असली चुनाव देता है।\nKiro Claude Opus, Sonnet, और Haiku के साथ-साथ Deepseek v3.2 और MiniMax M2.5 भी सपोर्ट करता है।\nकिसी खास टास्क के लिए मैन्युअली चुनें, या Auto मोड को चुनने दें।\nअलग-अलग मॉडल्स, अलग-अलग ट्रेडऑफ़्स — Kiro आपको एक तक सीमित नहीं रखता।\n\nKiro हिंदी सीरीज़ का एपिसोड 75। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroModels #ClaudeAI #ModelChoice #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroModels",
+      "ClaudeAI",
+      "ModelChoice",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-04T1600_hi_yt_ep042",
+  "account": "hi_yt",
+  "publish_at": "2026-11-04T16:00:00+05:30",
+  "language": "hi",
+  "episode": 42,
+  "video": {
+    "drive_file_id": "1yhG4mIpMLvizOZw30bOAA9Nu98xbWnea",
+    "file_name": "Kiro-Ep042-HI.mp4"
+  },
+  "caption": "Kiro हुक से डॉक्स अपडेट्स को ऑटोमेट करना\n\nआपके डॉक्स फिर कभी पुराने नहीं पड़ते।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 42.\n\n#DocsAutomation #KiroHooks #Changelog #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro हुक से डॉक्स अपडेट्स को ऑटोमेट करना #Shorts",
+    "description": "Kiro हुक से डॉक्स अपडेट्स को ऑटोमेट करना\n\nआपके डॉक्स फिर कभी पुराने नहीं पड़ते।\nटास्क पूरा होने पर चेंजलॉग या README सेक्शन रीजेनरेट करने के लिए एक हुक सेट कीजिए।\nयह सीधे आपके tasks.md अपडेट्स से डेटा लेता है।\nडॉक्यूमेंटेशन डेट चुपचाप जमा होना बंद हो जाता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 42। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#DocsAutomation #KiroHooks #Changelog #KiroHindi #theAIgurukul",
+    "tags": [
+      "DocsAutomation",
+      "KiroHooks",
+      "Changelog",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

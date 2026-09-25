@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-12T1600_hi_yt_ep050",
+  "account": "hi_yt",
+  "publish_at": "2026-11-12T16:00:00+05:30",
+  "language": "hi",
+  "episode": 50,
+  "video": {
+    "drive_file_id": "1wOpuSr3RvLl3F0rF6vfW-9-rUA3lPAys",
+    "file_name": "Kiro-Ep050-HI.mp4"
+  },
+  "caption": "AGENTS.md: वह ओपन स्टैंडर्ड जो Kiro सपोर्ट करता है\n\nयह फाइल सिर्फ Kiro से कहीं ज़्यादा जगह काम करती है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 50.\n\n#AGENTSmd #OpenStandard #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "AGENTS.md: वह ओपन स्टैंडर्ड जो Kiro सपोर्ट करता है #Shorts",
+    "description": "AGENTS.md: वह ओपन स्टैंडर्ड जो Kiro सपोर्ट करता है\n\nयह फाइल सिर्फ Kiro से कहीं ज़्यादा जगह काम करती है।\nAGENTS.md एजेंट कैपेबिलिटीज़ डिफाइन करने का एक ओपन स्टैंडर्ड है।\nKiro इसे वैसे ही पढ़ता है जैसे बाकी एजेंटिक टूल्स पढ़ते हैं।\nएक बार लिखिए, और यह Kiro से आगे भी पोर्टेबल है।\n\nKiro हिंदी सीरीज़ का एपिसोड 50। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#AGENTSmd #OpenStandard #KiroHindi #theAIgurukul",
+    "tags": [
+      "AGENTSmd",
+      "OpenStandard",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

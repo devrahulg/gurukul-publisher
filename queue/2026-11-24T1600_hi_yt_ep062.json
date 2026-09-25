@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-24T1600_hi_yt_ep062",
+  "account": "hi_yt",
+  "publish_at": "2026-11-24T16:00:00+05:30",
+  "language": "hi",
+  "episode": 62,
+  "video": {
+    "drive_file_id": "1sAKmVhz3Kdb0Cywt1xv1SXAibq64XBU_",
+    "file_name": "Kiro-Ep062-HI.mp4"
+  },
+  "caption": "Kiro + Stripe: पेमेंट्स तेज़ी से तैयार\n\nपेमेंट्स इंटीग्रेशन में आमतौर पर एक दिन लगता है। यह देखिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 62.\n\n#KiroStripe #PaymentsIntegration #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Stripe: पेमेंट्स तेज़ी से तैयार #Shorts",
+    "description": "Kiro + Stripe: पेमेंट्स तेज़ी से तैयार\n\nपेमेंट्स इंटीग्रेशन में आमतौर पर एक दिन लगता है। यह देखिए।\nStripe पावर से Kiro पहली बार में ही सही पेमेंट फ्लो बना देता है।\nडॉक्यूमेंटेशन पढ़ने में कम समय, चेकआउट शिप करने में ज़्यादा।\n\nKiro हिंदी सीरीज़ का एपिसोड 62। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroStripe #PaymentsIntegration #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroStripe",
+      "PaymentsIntegration",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

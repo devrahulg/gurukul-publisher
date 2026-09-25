@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-29T1030_hi_ig_ep067",
+  "account": "hi_ig",
+  "publish_at": "2026-11-29T10:30:00+05:30",
+  "language": "hi",
+  "episode": 67,
+  "video": {
+    "drive_file_id": "1wAKNMRb33vir0Jl-kW132VHZJJTcKDXK",
+    "file_name": "Kiro-Ep067-HI.mp4"
+  },
+  "caption": "Kiro + Terraform: इन्फ्रास्ट्रक्चर भी असली कोड\n\nKiro सिर्फ एप्लिकेशन कोड पर नहीं रुकता।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 67.\n\n#KiroTerraform #InfrastructureAsCode #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

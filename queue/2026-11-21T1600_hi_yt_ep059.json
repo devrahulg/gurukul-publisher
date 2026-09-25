@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-21T1600_hi_yt_ep059",
+  "account": "hi_yt",
+  "publish_at": "2026-11-21T16:00:00+05:30",
+  "language": "hi",
+  "episode": 59,
+  "video": {
+    "drive_file_id": "1nA1UKLwqoTQWP3BWLry6AxbzmHaxQWWa",
+    "file_name": "Kiro-Ep059-HI.mp4"
+  },
+  "caption": "Kiro + Postman: आपके IDE के अंदर API टेस्टिंग\n\nAPI टेस्ट करने के लिए टैब बदलना बंद कीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 59.\n\n#KiroPostman #APITesting #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Postman: आपके IDE के अंदर API टेस्टिंग #Shorts",
+    "description": "Kiro + Postman: आपके IDE के अंदर API टेस्टिंग\n\nAPI टेस्ट करने के लिए टैब बदलना बंद कीजिए।\nPostman पावर API टेस्टिंग को सीधे Kiro में ले आता है।\nKiro एंडपॉइंट्स बनाते-बनाते उन्हें कॉल कर सकता है, जाँच सकता है, सुधार सकता है।\nआपका पूरा API वर्कफ़्लो एक ही जगह रहता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 59। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroPostman #APITesting #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroPostman",
+      "APITesting",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

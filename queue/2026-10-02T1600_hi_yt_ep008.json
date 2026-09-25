@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-02T1600_hi_yt_ep008",
+  "account": "hi_yt",
+  "publish_at": "2026-10-02T16:00:00+05:30",
+  "language": "hi",
+  "episode": 8,
+  "video": {
+    "drive_file_id": "1oCdZgBprM_WMSDFOMtQdLin-EdPE9AoP",
+    "file_name": "Kiro-Ep008-HI.mp4"
+  },
+  "caption": "Kiro किसके लिए है? (सोलो डेवलपर से एंटरप्राइज़ तक)\n\nKiro सिर्फ बड़ी इंजीनियरिंग टीमों के लिए नहीं है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 8.\n\n#WhoUsesKiro #EnterpriseAI #StartupTools #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro किसके लिए है? (सोलो डेवलपर से एंटरप्राइज़ तक) #Shorts",
+    "description": "Kiro किसके लिए है? (सोलो डेवलपर से एंटरप्राइज़ तक)\n\nKiro सिर्फ बड़ी इंजीनियरिंग टीमों के लिए नहीं है।\nसोलो डेवलपर्स इसे स्ट्रक्चर खोए बिना तेज़ी से आगे बढ़ने के लिए यूज़ करते हैं।\nस्टार्टअप्स बिना बड़ी टीम के प्रोडक्शन तक पहुंचने के लिए इसे यूज़ करते हैं।\nएंटरप्राइज़ेज़ इसे गवर्नेंस, SSO और IP इंडेमनिटी के लिए बड़े स्केल पर यूज़ करते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 8। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#WhoUsesKiro #EnterpriseAI #StartupTools #KiroHindi #theAIgurukul",
+    "tags": [
+      "WhoUsesKiro",
+      "EnterpriseAI",
+      "StartupTools",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-18T1600_hi_yt_ep025",
+  "account": "hi_yt",
+  "publish_at": "2026-10-18T16:00:00+05:30",
+  "language": "hi",
+  "episode": 25,
+  "video": {
+    "drive_file_id": "1-nf2cGHdFz_ESmSECitE8Huv_wkCdp2H",
+    "file_name": "Kiro-Ep025-HI.mp4"
+  },
+  "caption": "डिज़ाइन से पहले Kiro आपका कोडबेस कैसे पढ़ता है\n\nKiro खालीपन में डिज़ाइन नहीं करता।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 25.\n\n#CodebaseAnalysis #KiroDesign #AIEngineering #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "डिज़ाइन से पहले Kiro आपका कोडबेस कैसे पढ़ता है #Shorts",
+    "description": "डिज़ाइन से पहले Kiro आपका कोडबेस कैसे पढ़ता है\n\nKiro खालीपन में डिज़ाइन नहीं करता।\ndesign.md लिखने से पहले, Kiro आपके मौजूदा कोड स्ट्रक्चर का विश्लेषण करता है।\nयह नए फीचर्स को आपके मौजूदा पैटर्न्स और कन्वेंशन्स से मैच करता है।\nइसीलिए इसके सुझाव जेनेरिक AI आउटपुट नहीं, आपके अपने कोड जैसे लगते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 25। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#CodebaseAnalysis #KiroDesign #AIEngineering #KiroHindi #theAIgurukul",
+    "tags": [
+      "CodebaseAnalysis",
+      "KiroDesign",
+      "AIEngineering",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

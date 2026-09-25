@@ -1,0 +1,30 @@
+{
+  "id": "2026-12-02T1600_hi_yt_ep070",
+  "account": "hi_yt",
+  "publish_at": "2026-12-02T16:00:00+05:30",
+  "language": "hi",
+  "episode": 70,
+  "video": {
+    "drive_file_id": "11Woa17DJNJjSvhnzV6eZhK-XTYH3alNr",
+    "file_name": "Kiro-Ep070-HI.mp4"
+  },
+  "caption": "Powers रीकैप: Kiro का इंटीग्रेशन इकोसिस्टम\n\nKiro की सारी पावर्स, 30 सेकंड में।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 70.\n\n#PowersRecap #Module6 #KiroIntegrations #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Powers रीकैप: Kiro का इंटीग्रेशन इकोसिस्टम #Shorts",
+    "description": "Powers रीकैप: Kiro का इंटीग्रेशन इकोसिस्टम\n\nKiro की सारी पावर्स, 30 सेकंड में।\nMCP से Kiro जुड़ता है Figma, Postman, Datadog, Stripe, Supabase और भी बहुत कुछ से।\nGitHub, GitLab और Terraform इसे डिप्लॉयमेंट और इन्फ्रास्ट्रक्चर तक बढ़ाते हैं।\nACP का मतलब है ये एजेंट्स Kiro के अपने IDE से आगे भी काम करते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 70। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#PowersRecap #Module6 #KiroIntegrations #KiroHindi #theAIgurukul",
+    "tags": [
+      "PowersRecap",
+      "Module6",
+      "KiroIntegrations",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

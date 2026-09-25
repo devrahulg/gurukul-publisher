@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-01T1600_hi_yt_ep007",
+  "account": "hi_yt",
+  "publish_at": "2026-10-01T16:00:00+05:30",
+  "language": "hi",
+  "episode": 7,
+  "video": {
+    "drive_file_id": "1c6zRONCOJEArxaInB8IN7fKyA19GxvrH",
+    "file_name": "Kiro-Ep007-HI.mp4"
+  },
+  "caption": "Vibe Coding बनाम Spec Coding — फर्क क्या है?\n\nVibe coding से डेमो बन गया। प्रोड तक नहीं पहुंचाएगा।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 7.\n\n#VibeCoding #SpecCoding #KiroWorkflow #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Vibe Coding बनाम Spec Coding — फर्क क्या है? #Shorts",
+    "description": "Vibe Coding बनाम Spec Coding — फर्क क्या है?\n\nVibe coding से डेमो बन गया। प्रोड तक नहीं पहुंचाएगा।\nVibe coding मतलब तब तक प्रॉम्प्ट करते रहना जब तक कुछ काम न करे।\nSpec coding में पहले रिक्वायरमेंट्स और डिज़ाइन डॉक्यूमेंट होते हैं, ताकि AI एक वैलिडेटेड प्लान की तरफ बढ़े।\nKiro दोनों सपोर्ट करता है — पर असली काम के लिए दूसरे वाले की तरफ धकेलता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 7। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#VibeCoding #SpecCoding #KiroWorkflow #KiroHindi #theAIgurukul",
+    "tags": [
+      "VibeCoding",
+      "SpecCoding",
+      "KiroWorkflow",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

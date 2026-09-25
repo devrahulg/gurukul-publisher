@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-03T1030_hi_ig_ep041",
+  "account": "hi_ig",
+  "publish_at": "2026-11-03T10:30:00+05:30",
+  "language": "hi",
+  "episode": 41,
+  "video": {
+    "drive_file_id": "1sVINASYiuv6N7QyoWpihRmhQJ84ismb1",
+    "file_name": "Kiro-Ep041-HI.mp4"
+  },
+  "caption": "Kiro हुक से टेस्ट्स को ऑटोमेट करना\n\nअपना टेस्ट सूट फिर कभी मैनुअली मत चलाइए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 41.\n\n#TestAutomation #KiroHooks #DevWorkflow #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

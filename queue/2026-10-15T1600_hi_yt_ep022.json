@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-15T1600_hi_yt_ep022",
+  "account": "hi_yt",
+  "publish_at": "2026-10-15T16:00:00+05:30",
+  "language": "hi",
+  "episode": 22,
+  "video": {
+    "drive_file_id": "1tRM4JwtigbuADGQa4Gu48Vf73_6d6gCp",
+    "file_name": "Kiro-Ep022-HI.mp4"
+  },
+  "caption": "requirements.md, 30 सेकंड में समझाया गया\n\nयह एक फाइल तय करती है कि आपका फीचर सही बनेगा या नहीं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 22.\n\n#RequirementsMd #EARS #SpecDriven #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "requirements.md, 30 सेकंड में समझाया गया #Shorts",
+    "description": "requirements.md, 30 सेकंड में समझाया गया\n\nयह एक फाइल तय करती है कि आपका फीचर सही बनेगा या नहीं।\nrequirements.md में आपकी प्रॉम्प्ट से ऑटो-जनरेटेड यूज़र स्टोरीज़ होती हैं।\nहर एक को EARS-नोटेशन में एक्सेप्टेंस क्राइटेरिया मिलता है।\nइसे आपके और AI के बीच एक कॉन्ट्रैक्ट की तरह पढ़िए।\n\nKiro हिंदी सीरीज़ का एपिसोड 22। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#RequirementsMd #EARS #SpecDriven #KiroHindi #theAIgurukul",
+    "tags": [
+      "RequirementsMd",
+      "EARS",
+      "SpecDriven",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

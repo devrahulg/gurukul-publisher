@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-10T1600_hi_yt_ep017",
+  "account": "hi_yt",
+  "publish_at": "2026-10-10T16:00:00+05:30",
+  "language": "hi",
+  "episode": 17,
+  "video": {
+    "drive_file_id": "1yqjiYLL7q2YQSON9QzYQ1iD2_v1Llx2s",
+    "file_name": "Kiro-Ep017-HI.mp4"
+  },
+  "caption": "कोडिंग शुरू होने से पहले Kiro के बनाए स्पेक को रिव्यू करना\n\nयह स्टेप कभी मत छोड़िए। कभी नहीं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 17.\n\n#SpecReview #KiroBestPractice #QualityControl #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "कोडिंग शुरू होने से पहले Kiro के बनाए स्पेक को रिव्यू करना #Shorts",
+    "description": "कोडिंग शुरू होने से पहले Kiro के बनाए स्पेक को रिव्यू करना\n\nयह स्टेप कभी मत छोड़िए। कभी नहीं।\nअप्रूव करने से पहले हमेशा रिक्वायरमेंट्स पढ़िए।\nदेखिए कि डिज़ाइन डॉक का डेटा फ्लो और API चॉइसेज़ आपकी सोच से मेल खाते हैं।\nयहां एक गलत असम्पशन पकड़ना बाद में घंटों की रीवर्क बचाता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 17। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SpecReview #KiroBestPractice #QualityControl #KiroHindi #theAIgurukul",
+    "tags": [
+      "SpecReview",
+      "KiroBestPractice",
+      "QualityControl",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-20T1600_hi_yt_ep058",
+  "account": "hi_yt",
+  "publish_at": "2026-11-20T16:00:00+05:30",
+  "language": "hi",
+  "episode": 58,
+  "video": {
+    "drive_file_id": "1J3gUtNXjyL2GXzyJghTwV8rYafJ_0GNx",
+    "file_name": "Kiro-Ep058-HI.mp4"
+  },
+  "caption": "Kiro + Figma: डिज़ाइन से कोड तक\n\nआपकी Figma फाइल अभी-अभी असली कोड की शुरुआत बन गई।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 58.\n\n#KiroFigma #DesignToCode #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Figma: डिज़ाइन से कोड तक #Shorts",
+    "description": "Kiro + Figma: डिज़ाइन से कोड तक\n\nआपकी Figma फाइल अभी-अभी असली कोड की शुरुआत बन गई।\nFigma पावर से Kiro आपकी डिज़ाइन फाइलें सीधे पढ़ पाता है।\nयह पिक्सल वैल्यूज़ का अंदाज़ा लगाने के बजाय मिलते-जुलते कंपोनेंट्स बनाता है।\nडिज़ाइन हैंडऑफ अब बहुत कम दर्दभरा हो जाता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 58। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroFigma #DesignToCode #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroFigma",
+      "DesignToCode",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

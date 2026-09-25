@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11T1600_hi_yt_ep049",
+  "account": "hi_yt",
+  "publish_at": "2026-11-11T16:00:00+05:30",
+  "language": "hi",
+  "episode": 49,
+  "video": {
+    "drive_file_id": "16kf_BYVsiWH4veL8Ha8YtnR4wU-DzzKO",
+    "file_name": "Kiro-Ep049-HI.mp4"
+  },
+  "caption": "पूरी टीम के Kiro सेटअप में स्टीयरिंग\n\nअपनी पूरी टीम के Kiro एजेंट्स को एक ही पेज पर लाइए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 49.\n\n#TeamSteering #KiroCustomization #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "पूरी टीम के Kiro सेटअप में स्टीयरिंग #Shorts",
+    "description": "पूरी टीम के Kiro सेटअप में स्टीयरिंग\n\nअपनी पूरी टीम के Kiro एजेंट्स को एक ही पेज पर लाइए।\nस्टीयरिंग फाइल्स को शेयर और वर्ज़न-कंट्रोल किया जा सकता है, आपके रीपो के साथ।\nदस अलग-अलग AI आदतों की बजाय एक शेयर्ड स्टैंडर्ड।\n\nKiro हिंदी सीरीज़ का एपिसोड 49। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#TeamSteering #KiroCustomization #KiroHindi #theAIgurukul",
+    "tags": [
+      "TeamSteering",
+      "KiroCustomization",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

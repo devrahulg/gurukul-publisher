@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-09T1600_hi_yt_ep047",
+  "account": "hi_yt",
+  "publish_at": "2026-11-09T16:00:00+05:30",
+  "language": "hi",
+  "episode": 47,
+  "video": {
+    "drive_file_id": "1gQ1v9s2n2Eoz_trUrYPKmwtMYihHVLsz",
+    "file_name": "Kiro-Ep047-HI.mp4"
+  },
+  "caption": "अपनी पहली स्टीयरिंग फाइल लिखना\n\nआपकी पहली स्टीयरिंग फाइल 2 मिनट से भी कम में बन जाती है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 47.\n\n#SteeringFile #KiroCustomization #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "अपनी पहली स्टीयरिंग फाइल लिखना #Shorts",
+    "description": "अपनी पहली स्टीयरिंग फाइल लिखना\n\nआपकी पहली स्टीयरिंग फाइल 2 मिनट से भी कम में बन जाती है।\nअपने पसंदीदा पैटर्न बताते हुए एक स्टीयरिंग फाइल बनाइए।\nनेमिंग कन्वेंशन, एरर हैंडलिंग स्टाइल, पसंदीदा लाइब्रेरीज़ — सब लिख दीजिए।\nKiro इसे हर आने वाले स्पेक और टास्क पर अपने आप लागू करता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 47। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SteeringFile #KiroCustomization #KiroHindi #theAIgurukul",
+    "tags": [
+      "SteeringFile",
+      "KiroCustomization",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

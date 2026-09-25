@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-03T1600_hi_yt_ep009",
+  "account": "hi_yt",
+  "publish_at": "2026-10-03T16:00:00+05:30",
+  "language": "hi",
+  "episode": 9,
+  "video": {
+    "drive_file_id": "1PekhVIlK-RRVsHxfbu2t2wjK2inE_v-T",
+    "file_name": "Kiro-Ep009-HI.mp4"
+  },
+  "caption": "Kiro की शुरुआती समस्या: प्रोटोटाइप जो कभी शिप नहीं होते\n\nजाना-पहचाना लगता है? शानदार डेमो, मरा हुआ प्रोजेक्ट।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 9.\n\n#PrototypeToProduction #AIEngineering #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro की शुरुआती समस्या: प्रोटोटाइप जो कभी शिप नहीं होते #Shorts",
+    "description": "Kiro की शुरुआती समस्या: प्रोटोटाइप जो कभी शिप नहीं होते\n\nजाना-पहचाना लगता है? शानदार डेमो, मरा हुआ प्रोजेक्ट।\nAI ने प्रोटोटाइपिंग को बेहद आसान बना दिया — पर ज़्यादातर AI-बिल्ट प्रोटोटाइप कभी प्रोडक्शन तक नहीं पहुंचते।\nन डॉक्स, न डिज़ाइन डिसीज़न्स की क्लैरिटी, न वैलिडेटेड रिक्वायरमेंट्स।\nKiro का पूरा मकसद ठीक इसी फेलियर पॉइंट को ठीक करना है।\n\nKiro हिंदी सीरीज़ का एपिसोड 9। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#PrototypeToProduction #AIEngineering #KiroHindi #theAIgurukul",
+    "tags": [
+      "PrototypeToProduction",
+      "AIEngineering",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

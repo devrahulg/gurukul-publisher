@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-17T1600_hi_yt_ep024",
+  "account": "hi_yt",
+  "publish_at": "2026-10-17T16:00:00+05:30",
+  "language": "hi",
+  "episode": 24,
+  "video": {
+    "drive_file_id": "1uMrzXDq6dltohPWzG6OJPBxRbCSfGbkS",
+    "file_name": "Kiro-Ep024-HI.mp4"
+  },
+  "caption": "design.md: Kiro की टेक्निकल ब्लूप्रिंट फाइल\n\nयहीं Kiro अपना काम दिखाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 24.\n\n#DesignMd #TechnicalBlueprint #KiroSpecs #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "design.md: Kiro की टेक्निकल ब्लूप्रिंट फाइल #Shorts",
+    "description": "design.md: Kiro की टेक्निकल ब्लूप्रिंट फाइल\n\nयहीं Kiro अपना काम दिखाता है।\ndesign.md में टेक्निकल प्लान होता है — डेटा फ्लो डायग्राम्स, TypeScript इंटरफेसेस, डेटाबेस स्कीमास, API एंडपॉइंट्स।\nयह आपके असली कोडबेस के एनालिसिस से जनरेट होता है, अंदाज़े से नहीं।\nइम्प्लीमेंटेशन का एक भी कोड लिखे जाने से पहले इसे रिव्यू कीजिए।\n\nKiro हिंदी सीरीज़ का एपिसोड 24। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#DesignMd #TechnicalBlueprint #KiroSpecs #KiroHindi #theAIgurukul",
+    "tags": [
+      "DesignMd",
+      "TechnicalBlueprint",
+      "KiroSpecs",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

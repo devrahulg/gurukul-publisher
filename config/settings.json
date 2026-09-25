@@ -1,0 +1,9 @@
+{
+  "timezone": "Asia/Kolkata",
+  "due_window_minutes": 20,
+  "max_late_minutes": 180,
+  "youtube_lead_hours": 36,
+  "max_attempts": 3,
+  "max_youtube_uploads_per_run": 6,
+  "ig_api_version": "v25.0"
+}

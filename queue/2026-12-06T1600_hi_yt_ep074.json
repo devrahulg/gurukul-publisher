@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-06T1600_hi_yt_ep074",
+  "account": "hi_yt",
+  "publish_at": "2026-12-06T16:00:00+05:30",
+  "language": "hi",
+  "episode": 74,
+  "video": {
+    "drive_file_id": "1X-Qxi7xKoUYDtKCwMZijGPejFipkoywP",
+    "file_name": "Kiro-Ep074-HI.mp4"
+  },
+  "caption": "Kiro के एजेंट्स सेशंस के पार कैसे सीखते हैं\n\nKiro के एजेंट्स आपकी सोच से ज़्यादा याद रखते हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 74.\n\n#AgentLearning #KiroAgents #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro के एजेंट्स सेशंस के पार कैसे सीखते हैं #Shorts",
+    "description": "Kiro के एजेंट्स सेशंस के पार कैसे सीखते हैं\n\nKiro के एजेंट्स आपकी सोच से ज़्यादा याद रखते हैं।\nKiro में पैरेलल एजेंट्स सेशंस के पार सीख को आगे ले जाते हैं।\nएक टास्क के पैटर्न्स अगले टास्क की परफॉर्मेंस सुधार सकते हैं।\nयह हर बार ज़ीरो से शुरू नहीं होता।\n\nKiro हिंदी सीरीज़ का एपिसोड 74। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#AgentLearning #KiroAgents #KiroHindi #theAIgurukul",
+    "tags": [
+      "AgentLearning",
+      "KiroAgents",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

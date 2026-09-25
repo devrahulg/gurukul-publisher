@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-18T1600_hi_yt_ep056",
+  "account": "hi_yt",
+  "publish_at": "2026-11-18T16:00:00+05:30",
+  "language": "hi",
+  "episode": 56,
+  "video": {
+    "drive_file_id": "1OOmGsM3ZGWtisBCp3cN1_VZd57uxTEIw",
+    "file_name": "Kiro-Ep056-HI.mp4"
+  },
+  "caption": "MCP क्या है और Kiro इसे क्यों इस्तेमाल करता है\n\nयही प्रोटोकॉल है जिससे Kiro लगभग किसी भी टूल से बात कर पाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 56.\n\n#MCP #ModelContextProtocol #KiroIntegrations #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "MCP क्या है और Kiro इसे क्यों इस्तेमाल करता है #Shorts",
+    "description": "MCP क्या है और Kiro इसे क्यों इस्तेमाल करता है\n\nयही प्रोटोकॉल है जिससे Kiro लगभग किसी भी टूल से बात कर पाता है।\nMCP — मॉडल कॉन्टेक्स्ट प्रोटोकॉल — Kiro को बाहरी टूल्स और डेटा से जोड़ता है।\nयह एक ओपन स्टैंडर्ड है, सिर्फ Kiro की अपनी तरकीब नहीं।\nइसी तरह एक IDE दर्जनों असली सर्विसेज़ तक पहुँच पाता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 56। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#MCP #ModelContextProtocol #KiroIntegrations #KiroHindi #theAIgurukul",
+    "tags": [
+      "MCP",
+      "ModelContextProtocol",
+      "KiroIntegrations",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

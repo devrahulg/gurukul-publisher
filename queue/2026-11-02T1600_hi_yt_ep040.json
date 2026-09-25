@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-02T1600_hi_yt_ep040",
+  "account": "hi_yt",
+  "publish_at": "2026-11-02T16:00:00+05:30",
+  "language": "hi",
+  "episode": 40,
+  "video": {
+    "drive_file_id": "1FRUoJ4v9AUNU40D1-tsrTXn33BmINNaT",
+    "file_name": "Kiro-Ep040-HI.mp4"
+  },
+  "caption": "आपके प्रोजेक्ट के लिए 3 हुक आइडियाज़\n\nये 3 हुक्स चुरा लीजिए — ये आपका असली समय बचाएंगे।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 40.\n\n#HookIdeas #KiroTips #Automation #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "आपके प्रोजेक्ट के लिए 3 हुक आइडियाज़ #Shorts",
+    "description": "आपके प्रोजेक्ट के लिए 3 हुक आइडियाज़\n\nये 3 हुक्स चुरा लीजिए — ये आपका असली समय बचाएंगे।\nसेव पर टेस्ट्स ऑटो-रन कीजिए।\nटास्क पूरा होने पर अपना चेंजलॉग ऑटो-अपडेट कीजिए।\nहर कमिट से पहले ऑटो-लिंट और फॉर्मेट कीजिए।\n\nKiro हिंदी सीरीज़ का एपिसोड 40। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#HookIdeas #KiroTips #Automation #KiroHindi #theAIgurukul",
+    "tags": [
+      "HookIdeas",
+      "KiroTips",
+      "Automation",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

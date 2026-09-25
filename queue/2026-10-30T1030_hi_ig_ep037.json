@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-30T1030_hi_ig_ep037",
+  "account": "hi_ig",
+  "publish_at": "2026-10-30T10:30:00+05:30",
+  "language": "hi",
+  "episode": 37,
+  "video": {
+    "drive_file_id": "1WF1hWNpTV6OPiXffhppcn1k9grTwzpoH",
+    "file_name": "Kiro-Ep037-HI.mp4"
+  },
+  "caption": "वो हुक्स जो फाइल सेव पर ट्रिगर होते हैं\n\nहर बार जब आप सेव दबाते हैं, यह अपने आप चल सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 37.\n\n#FileSaveHook #Automation #KiroHooks #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

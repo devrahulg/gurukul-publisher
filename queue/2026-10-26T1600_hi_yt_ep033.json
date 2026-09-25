@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-26T1600_hi_yt_ep033",
+  "account": "hi_yt",
+  "publish_at": "2026-10-26T16:00:00+05:30",
+  "language": "hi",
+  "episode": 33,
+  "video": {
+    "drive_file_id": "15rGT06BvGFTVdHQYWIOlfzd7yl6avped",
+    "file_name": "Kiro-Ep033-HI.mp4"
+  },
+  "caption": "प्रॉपर्टी टेस्ट्स वो बग्स कैसे पकड़ते हैं जो यूनिट टेस्ट्स छोड़ देते हैं\n\nआपके यूनिट टेस्ट्स पास हो गए। फिर भी आपके कोड में बग था।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 33.\n\n#PropertyTesting #UnitTests #KiroQuality #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "प्रॉपर्टी टेस्ट्स वो बग्स कैसे पकड़ते हैं जो यूनिट टेस्ट्स छोड़ देते हैं #Shorts",
+    "description": "प्रॉपर्टी टेस्ट्स वो बग्स कैसे पकड़ते हैं जो यूनिट टेस्ट्स छोड़ देते हैं\n\nआपके यूनिट टेस्ट्स पास हो गए। फिर भी आपके कोड में बग था।\nयूनिट टेस्ट्स वही केसेज़ चेक करते हैं जो आपने सोचे थे।\nप्रॉपर्टी टेस्ट्स वो केसेज़ चेक करते हैं जो आपने नहीं सोचे थे।\nKiro दोनों को साथ यूज़ करता है, ताकि एज केसेज़ प्रोडक्शन तक न पहुंचें।\n\nKiro हिंदी सीरीज़ का एपिसोड 33। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#PropertyTesting #UnitTests #KiroQuality #KiroHindi #theAIgurukul",
+    "tags": [
+      "PropertyTesting",
+      "UnitTests",
+      "KiroQuality",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-31T1030_hi_ig_ep038",
+  "account": "hi_ig",
+  "publish_at": "2026-10-31T10:30:00+05:30",
+  "language": "hi",
+  "episode": 38,
+  "video": {
+    "drive_file_id": "1VYJLfKCpG1VNr2M-wM79FE8PK-hCtdRc",
+    "file_name": "Kiro-Ep038-HI.mp4"
+  },
+  "caption": "वो हुक्स जो फाइल क्रिएट या डिलीट पर ट्रिगर होते हैं\n\nएक फाइल डिलीट करना पूरी क्लीनअप रूटीन चला सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 38.\n\n#FileLifecycle #KiroHooks #Automation #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

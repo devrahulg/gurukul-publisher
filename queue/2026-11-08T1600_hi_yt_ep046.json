@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-08T1600_hi_yt_ep046",
+  "account": "hi_yt",
+  "publish_at": "2026-11-08T16:00:00+05:30",
+  "language": "hi",
+  "episode": 46,
+  "video": {
+    "drive_file_id": "1L6QoM32Z5KxF6XoeR1jBcECv1Wh-fgur",
+    "file_name": "Kiro-Ep046-HI.mp4"
+  },
+  "caption": "Kiro में स्टीयरिंग रूल्स क्या हैं?\n\nयह Kiro को आपकी टीम जैसा बनाने का तरीका है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 46.\n\n#SteeringRules #KiroCustomization #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro में स्टीयरिंग रूल्स क्या हैं? #Shorts",
+    "description": "Kiro में स्टीयरिंग रूल्स क्या हैं?\n\nयह Kiro को आपकी टीम जैसा बनाने का तरीका है।\nस्टीयरिंग रूल्स गाइडलाइंस हैं जो Kiro के एजेंट्स के व्यवहार को तय करते हैं।\nये आपके पूरे प्रोजेक्ट पर लागू होते हैं, सिर्फ एक प्रॉम्प्ट पर नहीं।\nइसे AI के लिए हमेशा-ऑन स्टाइल गाइड समझिए।\n\nKiro हिंदी सीरीज़ का एपिसोड 46। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SteeringRules #KiroCustomization #KiroHindi #theAIgurukul",
+    "tags": [
+      "SteeringRules",
+      "KiroCustomization",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

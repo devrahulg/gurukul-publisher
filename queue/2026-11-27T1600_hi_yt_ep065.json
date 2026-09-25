@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-27T1600_hi_yt_ep065",
+  "account": "hi_yt",
+  "publish_at": "2026-11-27T16:00:00+05:30",
+  "language": "hi",
+  "episode": 65,
+  "video": {
+    "drive_file_id": "1MQeZf4KOExIVOMXgjG6EtkM6k2LRbX23",
+    "file_name": "Kiro-Ep065-HI.mp4"
+  },
+  "caption": "Kiro + Google Firebase: मोबाइल बैकएंड शिप करना\n\nआपका मोबाइल बैकएंड, Kiro से जुड़ा हुआ।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 65.\n\n#KiroFirebase #MobileBackend #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Google Firebase: मोबाइल बैकएंड शिप करना #Shorts",
+    "description": "Kiro + Google Firebase: मोबाइल बैकएंड शिप करना\n\nआपका मोबाइल बैकएंड, Kiro से जुड़ा हुआ।\nFirebase पावर Kiro को ऑथ, डेटाबेस और होस्टिंग से जोड़ता है।\nयह एक ही स्पेक से मोबाइल-रेडी बैकएंड बना देता है।\nकम बॉयलरप्लेट, चलते ऐप तक तेज़ी से पहुँच।\n\nKiro हिंदी सीरीज़ का एपिसोड 65। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroFirebase #MobileBackend #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroFirebase",
+      "MobileBackend",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

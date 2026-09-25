@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-24T1030_hi_ig_ep062",
+  "account": "hi_ig",
+  "publish_at": "2026-11-24T10:30:00+05:30",
+  "language": "hi",
+  "episode": 62,
+  "video": {
+    "drive_file_id": "1sAKmVhz3Kdb0Cywt1xv1SXAibq64XBU_",
+    "file_name": "Kiro-Ep062-HI.mp4"
+  },
+  "caption": "Kiro + Stripe: पेमेंट्स तेज़ी से तैयार\n\nपेमेंट्स इंटीग्रेशन में आमतौर पर एक दिन लगता है। यह देखिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 62.\n\n#KiroStripe #PaymentsIntegration #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-16T1600_hi_yt_ep023",
+  "account": "hi_yt",
+  "publish_at": "2026-10-16T16:00:00+05:30",
+  "language": "hi",
+  "episode": 23,
+  "video": {
+    "drive_file_id": "1DrT3aGv1V5g2w4rUhsai2FgKJXdSoeLM",
+    "file_name": "Kiro-Ep023-HI.mp4"
+  },
+  "caption": "EARS नोटेशन: Kiro रिक्वायरमेंट्स कैसे लिखता है\n\nEARS कोई टाइपो नहीं है — यह Kiro के रूल्स लिखने का तरीका है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 23.\n\n#EARSNotation #Requirements #KiroSpecs #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "EARS नोटेशन: Kiro रिक्वायरमेंट्स कैसे लिखता है #Shorts",
+    "description": "EARS नोटेशन: Kiro रिक्वायरमेंट्स कैसे लिखता है\n\nEARS कोई टाइपो नहीं है — यह Kiro के रूल्स लिखने का तरीका है।\nEARS का मतलब है Easy Approach to Requirements Syntax।\nयह एक्सेप्टेंस क्राइटेरिया को साफ if-this-then-that स्टेटमेंट्स में लिखता है।\nकोई अस्पष्टता नहीं — AI और आप दोनों एक ही रूल एक जैसे पढ़ते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 23। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#EARSNotation #Requirements #KiroSpecs #KiroHindi #theAIgurukul",
+    "tags": [
+      "EARSNotation",
+      "Requirements",
+      "KiroSpecs",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

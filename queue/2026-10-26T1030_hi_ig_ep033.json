@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-26T1030_hi_ig_ep033",
+  "account": "hi_ig",
+  "publish_at": "2026-10-26T10:30:00+05:30",
+  "language": "hi",
+  "episode": 33,
+  "video": {
+    "drive_file_id": "15rGT06BvGFTVdHQYWIOlfzd7yl6avped",
+    "file_name": "Kiro-Ep033-HI.mp4"
+  },
+  "caption": "प्रॉपर्टी टेस्ट्स वो बग्स कैसे पकड़ते हैं जो यूनिट टेस्ट्स छोड़ देते हैं\n\nआपके यूनिट टेस्ट्स पास हो गए। फिर भी आपके कोड में बग था।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 33.\n\n#PropertyTesting #UnitTests #KiroQuality #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

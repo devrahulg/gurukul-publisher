@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-01T1030_hi_ig_ep007",
+  "account": "hi_ig",
+  "publish_at": "2026-10-01T10:30:00+05:30",
+  "language": "hi",
+  "episode": 7,
+  "video": {
+    "drive_file_id": "1c6zRONCOJEArxaInB8IN7fKyA19GxvrH",
+    "file_name": "Kiro-Ep007-HI.mp4"
+  },
+  "caption": "Vibe Coding बनाम Spec Coding — फर्क क्या है?\n\nVibe coding से डेमो बन गया। प्रोड तक नहीं पहुंचाएगा।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 7.\n\n#VibeCoding #SpecCoding #KiroWorkflow #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-29T1600_hi_yt_ep067",
+  "account": "hi_yt",
+  "publish_at": "2026-11-29T16:00:00+05:30",
+  "language": "hi",
+  "episode": 67,
+  "video": {
+    "drive_file_id": "1wAKNMRb33vir0Jl-kW132VHZJJTcKDXK",
+    "file_name": "Kiro-Ep067-HI.mp4"
+  },
+  "caption": "Kiro + Terraform: इन्फ्रास्ट्रक्चर भी असली कोड\n\nKiro सिर्फ एप्लिकेशन कोड पर नहीं रुकता।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 67.\n\n#KiroTerraform #InfrastructureAsCode #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Terraform: इन्फ्रास्ट्रक्चर भी असली कोड #Shorts",
+    "description": "Kiro + Terraform: इन्फ्रास्ट्रक्चर भी असली कोड\n\nKiro सिर्फ एप्लिकेशन कोड पर नहीं रुकता।\nTerraform इंटीग्रेशन से Kiro असली इन्फ्रास्ट्रक्चर-एज़-कोड लिखता है।\nस्पेक्स फीचर्स की तरह ही इन्फ्रा रिक्वायरमेंट्स भी डिफाइन कर सकते हैं।\nआपका ऐप और उसका इन्फ्रास्ट्रक्चर एक ही पाइपलाइन से शिप होते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 67। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroTerraform #InfrastructureAsCode #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroTerraform",
+      "InfrastructureAsCode",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

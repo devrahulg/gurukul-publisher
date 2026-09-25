@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-28T1030_hi_ig_ep066",
+  "account": "hi_ig",
+  "publish_at": "2026-11-28T10:30:00+05:30",
+  "language": "hi",
+  "episode": 66,
+  "video": {
+    "drive_file_id": "12VVc_w51L-ouD63gEo73U6-mHNQY8ElL",
+    "file_name": "Kiro-Ep066-HI.mp4"
+  },
+  "caption": "Kiro + GitHub और GitLab: आपके IDE से PRs\n\nKiro आपके लिए पुल रिक्वेस्ट खोल सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 66.\n\n#KiroGitHub #KiroGitLab #PRAutomation #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

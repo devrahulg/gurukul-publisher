@@ -1,0 +1,14 @@
+{
+  "id": "2026-12-11T1030_hi_ig_ep079",
+  "account": "hi_ig",
+  "publish_at": "2026-12-11T10:30:00+05:30",
+  "language": "hi",
+  "episode": 79,
+  "video": {
+    "drive_file_id": "1I0mAPS6yv1tB4-sKDx8s1JSe8kYLM--L",
+    "file_name": "Kiro-Ep079-HI.mp4"
+  },
+  "caption": "Autopilot की जगह Supervised Mode कब इस्तेमाल करें\n\nAutopilot तेज़ है। कभी-कभी यह गलत चुनाव होता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 79.\n\n#SupervisedMode #KiroBestPractice #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

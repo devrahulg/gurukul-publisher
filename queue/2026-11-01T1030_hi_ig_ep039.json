@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-01T1030_hi_ig_ep039",
+  "account": "hi_ig",
+  "publish_at": "2026-11-01T10:30:00+05:30",
+  "language": "hi",
+  "episode": 39,
+  "video": {
+    "drive_file_id": "1Y6NKGVz9K0ykDb7MoNBDQ9MVqtFyKmNz",
+    "file_name": "Kiro-Ep039-HI.mp4"
+  },
+  "caption": "मैनुअल हुक्स: डिमांड पर एक टास्क चलाना\n\nहर ऑटोमेशन अपने आप नहीं चलना चाहिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 39.\n\n#ManualHooks #KiroAutomation #DevWorkflow #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

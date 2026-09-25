@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-03T1600_hi_yt_ep041",
+  "account": "hi_yt",
+  "publish_at": "2026-11-03T16:00:00+05:30",
+  "language": "hi",
+  "episode": 41,
+  "video": {
+    "drive_file_id": "1sVINASYiuv6N7QyoWpihRmhQJ84ismb1",
+    "file_name": "Kiro-Ep041-HI.mp4"
+  },
+  "caption": "Kiro हुक से टेस्ट्स को ऑटोमेट करना\n\nअपना टेस्ट सूट फिर कभी मैनुअली मत चलाइए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 41.\n\n#TestAutomation #KiroHooks #DevWorkflow #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro हुक से टेस्ट्स को ऑटोमेट करना #Shorts",
+    "description": "Kiro हुक से टेस्ट्स को ऑटोमेट करना\n\nअपना टेस्ट सूट फिर कभी मैनुअली मत चलाइए।\nअपने सेव इवेंट पर एक हुक लगाइए जो आपकी टेस्ट कमांड चलाए।\nफेल्योर्स तुरंत Kiro के पैनल में दिख जाते हैं।\nआपका फीडबैक लूप मिनटों से सेकंड्स तक सिकुड़ जाता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 41। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#TestAutomation #KiroHooks #DevWorkflow #KiroHindi #theAIgurukul",
+    "tags": [
+      "TestAutomation",
+      "KiroHooks",
+      "DevWorkflow",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-07T1600_hi_yt_ep014",
+  "account": "hi_yt",
+  "publish_at": "2026-10-07T16:00:00+05:30",
+  "language": "hi",
+  "episode": 14,
+  "video": {
+    "drive_file_id": "1_2C4t-xPog967eb7i_23rbUIwWCQOHxn",
+    "file_name": "Kiro-Ep014-HI.mp4"
+  },
+  "caption": "Kiro इंटरफेस: एक क्विक टूर\n\n30 सेकंड में Kiro का हर पैनल देखिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 14.\n\n#KiroInterface #KiroTour #IDEWalkthrough #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro इंटरफेस: एक क्विक टूर #Shorts",
+    "description": "Kiro इंटरफेस: एक क्विक टूर\n\n30 सेकंड में Kiro का हर पैनल देखिए।\nएडिटर पेन बिल्कुल VS Code जैसा दिखता है।\nस्पेक पैनल रिक्वायरमेंट्स, डिज़ाइन और टास्क्स को साथ-साथ दिखाता है।\nएजेंट चैट हमेशा आपके सवालों के लिए तैयार रहती है।\n\nKiro हिंदी सीरीज़ का एपिसोड 14। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroInterface #KiroTour #IDEWalkthrough #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroInterface",
+      "KiroTour",
+      "IDEWalkthrough",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

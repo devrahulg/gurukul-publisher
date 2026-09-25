@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-25T1030_hi_ig_ep063",
+  "account": "hi_ig",
+  "publish_at": "2026-11-25T10:30:00+05:30",
+  "language": "hi",
+  "episode": 63,
+  "video": {
+    "drive_file_id": "1Y4u4kBJrdO_3_OgALlccbawS4U01cGZ2",
+    "file_name": "Kiro-Ep063-HI.mp4"
+  },
+  "caption": "Kiro + Supabase: मिनटों में बैकएंड\n\nआपकी कॉफ़ी ठंडी होने से पहले एक चलता-फिरता बैकएंड।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 63.\n\n#KiroSupabase #BackendDev #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

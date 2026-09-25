@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-22T1600_hi_yt_ep060",
+  "account": "hi_yt",
+  "publish_at": "2026-11-22T16:00:00+05:30",
+  "language": "hi",
+  "episode": 60,
+  "video": {
+    "drive_file_id": "1ASh3Odi3bbE8Q88TP8BWeeOLLV3GOK_F",
+    "file_name": "Kiro-Ep060-HI.mp4"
+  },
+  "caption": "Kiro + Datadog: एडिटर छोड़े बिना मॉनिटरिंग\n\nअपना एडिटर छोड़े बिना प्रोडक्शन इश्यूज़ देखिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 60.\n\n#KiroDatadog #Monitoring #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Datadog: एडिटर छोड़े बिना मॉनिटरिंग #Shorts",
+    "description": "Kiro + Datadog: एडिटर छोड़े बिना मॉनिटरिंग\n\nअपना एडिटर छोड़े बिना प्रोडक्शन इश्यूज़ देखिए।\nDatadog पावर मॉनिटरिंग डेटा को Kiro के अंदर ही दिखा देता है।\nएजेंट्स असली एरर रेट्स को अगली फिक्स में शामिल कर सकते हैं।\nअंदाज़ा नहीं, बल्कि लाइव प्रोडक्शन कॉन्टेक्स्ट के साथ डीबगिंग।\n\nKiro हिंदी सीरीज़ का एपिसोड 60। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroDatadog #Monitoring #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroDatadog",
+      "Monitoring",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-20T1600_hi_yt_ep027",
+  "account": "hi_yt",
+  "publish_at": "2026-10-20T16:00:00+05:30",
+  "language": "hi",
+  "episode": 27,
+  "video": {
+    "drive_file_id": "1xgEbR9IzUyDOIvDbD5eFBOUpPaG3VzZu",
+    "file_name": "Kiro-Ep027-HI.mp4"
+  },
+  "caption": "Kiro टास्क्स को अपने आप कैसे सीक्वेंस करता है\n\nKiro तय करता है क्या पहले बनाना है — और यह अक्सर सही होता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 27.\n\n#TaskSequencing #KiroWorkflow #SpecDriven #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro टास्क्स को अपने आप कैसे सीक्वेंस करता है #Shorts",
+    "description": "Kiro टास्क्स को अपने आप कैसे सीक्वेंस करता है\n\nKiro तय करता है क्या पहले बनाना है — और यह अक्सर सही होता है।\nटास्क्स डिपेंडेंसी के हिसाब से ऑर्डर होते हैं, अंदाज़े से नहीं।\nफाउंडेशनल हिस्से — स्कीमास, कोर लॉजिक — UI पॉलिश से पहले आते हैं।\nआप री-ऑर्डर कर सकते हैं, पर डिफॉल्ट सीक्वेंस पहले से ही ज़्यादातर रीवर्क बचाता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 27। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#TaskSequencing #KiroWorkflow #SpecDriven #KiroHindi #theAIgurukul",
+    "tags": [
+      "TaskSequencing",
+      "KiroWorkflow",
+      "SpecDriven",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

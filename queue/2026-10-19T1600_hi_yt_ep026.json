@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-19T1600_hi_yt_ep026",
+  "account": "hi_yt",
+  "publish_at": "2026-10-19T16:00:00+05:30",
+  "language": "hi",
+  "episode": 26,
+  "video": {
+    "drive_file_id": "1iOS4Ns0pjvf8EpUXFuF5_Ik-ERrE9qAk",
+    "file_name": "Kiro-Ep026-HI.mp4"
+  },
+  "caption": "tasks.md: डिज़ाइन को करने-लायक स्टेप्स में बदलना\n\nइस अगली फाइल के बिना डिज़ाइन डॉक्स बेकार हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 26.\n\n#TasksMd #SpecDriven #KiroWorkflow #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "tasks.md: डिज़ाइन को करने-लायक स्टेप्स में बदलना #Shorts",
+    "description": "tasks.md: डिज़ाइन को करने-लायक स्टेप्स में बदलना\n\nइस अगली फाइल के बिना डिज़ाइन डॉक्स बेकार हैं।\ntasks.md, डिज़ाइन को सीक्वेंस्ड इम्प्लीमेंटेशन वर्क आइटम्स में तोड़ता है।\nहर टास्क उस रिक्वायरमेंट से लिंक होता है जिसे वह पूरा करता है।\nटेस्टिंग और एक्सेसिबिलिटी के भी अपने टास्क होते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 26। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#TasksMd #SpecDriven #KiroWorkflow #KiroHindi #theAIgurukul",
+    "tags": [
+      "TasksMd",
+      "SpecDriven",
+      "KiroWorkflow",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

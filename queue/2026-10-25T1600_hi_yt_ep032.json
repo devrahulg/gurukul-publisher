@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-25T1600_hi_yt_ep032",
+  "account": "hi_yt",
+  "publish_at": "2026-10-25T16:00:00+05:30",
+  "language": "hi",
+  "episode": 32,
+  "video": {
+    "drive_file_id": "14h9cvKqqKsZoZhnNl_af1h_ZToSQBxM3",
+    "file_name": "Kiro-Ep032-HI.mp4"
+  },
+  "caption": "प्रॉपर्टी-बेस्ड टेस्टिंग: Kiro का सीक्रेट हथियार\n\nयह टेस्टिंग मेथड वो बग्स पकड़ता है जो आपके यूनिट टेस्ट्स कभी नहीं पकड़ेंगे।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 32.\n\n#PropertyTesting #KiroTesting #QualityAssurance #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "प्रॉपर्टी-बेस्ड टेस्टिंग: Kiro का सीक्रेट हथियार #Shorts",
+    "description": "प्रॉपर्टी-बेस्ड टेस्टिंग: Kiro का सीक्रेट हथियार\n\nयह टेस्टिंग मेथड वो बग्स पकड़ता है जो आपके यूनिट टेस्ट्स कभी नहीं पकड़ेंगे।\nप्रॉपर्टी-बेस्ड टेस्टिंग करेक्टनेस के लिए फज़-टेस्टिंग स्टाइल चेक्स यूज़ करती है।\nएक इनपुट की बजाय, यह आपके कोड पर सैकड़ों एज केसेज़ फेंकती है।\nKiro इन्हें आपकी रिक्वायरमेंट्स से अपने आप जनरेट कर सकता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 32। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#PropertyTesting #KiroTesting #QualityAssurance #KiroHindi #theAIgurukul",
+    "tags": [
+      "PropertyTesting",
+      "KiroTesting",
+      "QualityAssurance",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

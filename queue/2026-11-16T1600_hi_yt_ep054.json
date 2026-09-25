@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-16T1600_hi_yt_ep054",
+  "account": "hi_yt",
+  "publish_at": "2026-11-16T16:00:00+05:30",
+  "language": "hi",
+  "episode": 54,
+  "video": {
+    "drive_file_id": "1IeaD026tKimeXfXtUgQ46QOoN74YxH9a",
+    "file_name": "Kiro-Ep054-HI.mp4"
+  },
+  "caption": "स्टीयरिंग बनाम स्पेक्स: क्या फर्क है?\n\nलोग इन्हें अक्सर मिला देते हैं। असली फर्क यह है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 54.\n\n#SteeringVsSpecs #KiroCustomization #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "स्टीयरिंग बनाम स्पेक्स: क्या फर्क है? #Shorts",
+    "description": "स्टीयरिंग बनाम स्पेक्स: क्या फर्क है?\n\nलोग इन्हें अक्सर मिला देते हैं। असली फर्क यह है।\nस्पेक्स डिफाइन करते हैं कि एक खास फीचर को क्या करना चाहिए।\nस्टीयरिंग डिफाइन करता है कि Kiro को हर फीचर में कैसे बर्ताव करना चाहिए।\nएक पर-टास्क है, दूसरा हमेशा-ऑन।\n\nKiro हिंदी सीरीज़ का एपिसोड 54। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SteeringVsSpecs #KiroCustomization #KiroHindi #theAIgurukul",
+    "tags": [
+      "SteeringVsSpecs",
+      "KiroCustomization",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-12T1600_hi_yt_ep019",
+  "account": "hi_yt",
+  "publish_at": "2026-10-12T16:00:00+05:30",
+  "language": "hi",
+  "episode": 19,
+  "video": {
+    "drive_file_id": "11AgmO4d0Rlhtl4xI2QQOPL9ly7B8VzgA",
+    "file_name": "Kiro-Ep019-HI.mp4"
+  },
+  "caption": "अपना पहला Kiro हुक सेट करना\n\nयह एक ऑटोमेशन हर हफ्ते घंटों बचाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 19.\n\n#AgentHooks #Automation #FirstHook #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "अपना पहला Kiro हुक सेट करना #Shorts",
+    "description": "अपना पहला Kiro हुक सेट करना\n\nयह एक ऑटोमेशन हर हफ्ते घंटों बचाता है।\nएजेंट हुक्स इवेंट्स पर ट्रिगर होते हैं — जैसे फाइल सेव करना।\nएक हुक सेट कीजिए जो हर सेव पर आपके टेस्ट्स अपने आप चला दे।\nयह बैकग्राउंड में चलता है जबकि आप कोडिंग करते रहते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 19। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#AgentHooks #Automation #FirstHook #KiroHindi #theAIgurukul",
+    "tags": [
+      "AgentHooks",
+      "Automation",
+      "FirstHook",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

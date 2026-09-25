@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-06T1600_hi_yt_ep044",
+  "account": "hi_yt",
+  "publish_at": "2026-11-06T16:00:00+05:30",
+  "language": "hi",
+  "episode": 44,
+  "video": {
+    "drive_file_id": "14vOlmeiHeTJK6xiHg6aACbSI8fAdnZG-",
+    "file_name": "Kiro-Ep044-HI.mp4"
+  },
+  "caption": "वो हुक डीबग करना जो फायर नहीं हो रहा\n\nआपका हुक नहीं चल रहा? पहले ये चेक कीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 44.\n\n#HookDebugging #KiroTroubleshooting #Automation #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "वो हुक डीबग करना जो फायर नहीं हो रहा #Shorts",
+    "description": "वो हुक डीबग करना जो फायर नहीं हो रहा\n\nआपका हुक नहीं चल रहा? पहले ये चेक कीजिए।\nकन्फर्म कीजिए कि ट्रिगर इवेंट सच में आपके फाइल पैटर्न से मैच करता है।\nचेक कीजिए कि हुक इनेबल्ड है, सिर्फ सेव नहीं हुआ।\nसही फेलियर वजह के लिए Kiro के हुक लॉग्स देखिए।\n\nKiro हिंदी सीरीज़ का एपिसोड 44। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#HookDebugging #KiroTroubleshooting #Automation #KiroHindi #theAIgurukul",
+    "tags": [
+      "HookDebugging",
+      "KiroTroubleshooting",
+      "Automation",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-13T1600_hi_yt_ep020",
+  "account": "hi_yt",
+  "publish_at": "2026-10-13T16:00:00+05:30",
+  "language": "hi",
+  "episode": 20,
+  "video": {
+    "drive_file_id": "147MwnbDw129bhgCmNZjagQbL5nbVFRTj",
+    "file_name": "Kiro-Ep020-HI.mp4"
+  },
+  "caption": "पहले दिन बदलने लायक 5 Kiro सेटिंग्स\n\nअपने पहले असली प्रोजेक्ट से पहले ये 5 सेटिंग्स बदल लीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 20.\n\n#KiroSettings #DayOneSetup #Module2 #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "पहले दिन बदलने लायक 5 Kiro सेटिंग्स #Shorts",
+    "description": "पहले दिन बदलने लायक 5 Kiro सेटिंग्स\n\nअपने पहले असली प्रोजेक्ट से पहले ये 5 सेटिंग्स बदल लीजिए।\nAutopilot में अपना डिफ़ॉल्ट मॉडल चुनिए।\nकोड स्टाइल के लिए अपने स्टीयरिंग रूल्स सेट कीजिए।\nजो हुक्स आप वाकई इस्तेमाल करेंगे उन्हें ऑन कीजिए, बाकी हटा दीजिए।\n\nKiro हिंदी सीरीज़ का एपिसोड 20। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroSettings #DayOneSetup #Module2 #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroSettings",
+      "DayOneSetup",
+      "Module2",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

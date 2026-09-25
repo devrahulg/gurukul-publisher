@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-05T1600_hi_yt_ep043",
+  "account": "hi_yt",
+  "publish_at": "2026-11-05T16:00:00+05:30",
+  "language": "hi",
+  "episode": 43,
+  "video": {
+    "drive_file_id": "1nfDFeNQ4dfnfqvio-8VP2yHZMsdQ3FaV",
+    "file_name": "Kiro-Ep043-HI.mp4"
+  },
+  "caption": "कई हुक्स को एक साथ चेन करना\n\nएक इवेंट, कई ऑटोमेटेड स्टेप्स। यहां देखिए कैसे।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 43.\n\n#HookChaining #KiroAutomation #Workflow #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "कई हुक्स को एक साथ चेन करना #Shorts",
+    "description": "कई हुक्स को एक साथ चेन करना\n\nएक इवेंट, कई ऑटोमेटेड स्टेप्स। यहां देखिए कैसे।\nहुक्स एक ही ट्रिगर से सीक्वेंस में चल सकते हैं।\nसेव, लिंट को ट्रिगर करता है, फिर टेस्ट, फिर एक चेंजलॉग नोट।\nआप चेन को एक बार डिज़ाइन करते हैं, फिर यह बस चलता रहता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 43। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#HookChaining #KiroAutomation #Workflow #KiroHindi #theAIgurukul",
+    "tags": [
+      "HookChaining",
+      "KiroAutomation",
+      "Workflow",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

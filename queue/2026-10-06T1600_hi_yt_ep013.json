@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-06T1600_hi_yt_ep013",
+  "account": "hi_yt",
+  "publish_at": "2026-10-06T16:00:00+05:30",
+  "language": "hi",
+  "episode": 13,
+  "video": {
+    "drive_file_id": "1KSGKoIJeOO54l3TisgJvXpx5qwzoORPU",
+    "file_name": "Kiro-Ep013-HI.mp4"
+  },
+  "caption": "अपना मौजूदा VS Code सेटअप Kiro में इम्पोर्ट करें\n\nअपना सेटअप दोबारा मत बनाइए। उसे इम्पोर्ट कीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 13.\n\n#VSCodeMigration #OpenVSX #KiroSetup #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "अपना मौजूदा VS Code सेटअप Kiro में इम्पोर्ट करें #Shorts",
+    "description": "अपना मौजूदा VS Code सेटअप Kiro में इम्पोर्ट करें\n\nअपना सेटअप दोबारा मत बनाइए। उसे इम्पोर्ट कीजिए।\nक्योंकि Kiro, Code OSS पर बना है, ज़्यादातर VS Code सेटिंग्स सीधे ट्रांसफर हो जाती हैं।\nआपके Open VSX-कम्पैटिबल एक्सटेंशन्स अभी भी काम करते हैं।\nआपकी मसल मेमोरी बनी रहती है, बस आपको spec-driven एजेंट्स मिल जाते हैं।\n\nKiro हिंदी सीरीज़ का एपिसोड 13। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#VSCodeMigration #OpenVSX #KiroSetup #KiroHindi #theAIgurukul",
+    "tags": [
+      "VSCodeMigration",
+      "OpenVSX",
+      "KiroSetup",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

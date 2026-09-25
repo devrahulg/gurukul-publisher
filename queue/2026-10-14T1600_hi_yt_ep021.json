@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-14T1600_hi_yt_ep021",
+  "account": "hi_yt",
+  "publish_at": "2026-10-14T16:00:00+05:30",
+  "language": "hi",
+  "episode": 21,
+  "video": {
+    "drive_file_id": "19qTc-x7UIbnvHKUaEe2guy7btTOiyVnc",
+    "file_name": "Kiro-Ep021-HI.mp4"
+  },
+  "caption": "Kiro में \"स्पेक\" का मतलब क्या है?\n\n'स्पेक' शब्द का Kiro में एक खास मतलब है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 21.\n\n#KiroSpecs #SpecDriven #AIWorkflow #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro में \"स्पेक\" का मतलब क्या है? #Shorts",
+    "description": "Kiro में \"स्पेक\" का मतलब क्या है?\n\n'स्पेक' शब्द का Kiro में एक खास मतलब है।\nस्पेक वह डॉक्यूमेंटेड आर्टिफैक्ट है जो हर Kiro फीचर के पीछे होता है।\nयह एक ही जगह पर रिक्वायरमेंट्स, डिज़ाइन डिसीज़न्स और टास्क्स को कैप्चर करता है।\nयही वह चीज़ है जो AI एजेंट्स को आपके असली मतलब से अलाइन रखती है।\n\nKiro हिंदी सीरीज़ का एपिसोड 21। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroSpecs #SpecDriven #AIWorkflow #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroSpecs",
+      "SpecDriven",
+      "AIWorkflow",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

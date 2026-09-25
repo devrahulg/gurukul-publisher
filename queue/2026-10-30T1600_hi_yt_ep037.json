@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-30T1600_hi_yt_ep037",
+  "account": "hi_yt",
+  "publish_at": "2026-10-30T16:00:00+05:30",
+  "language": "hi",
+  "episode": 37,
+  "video": {
+    "drive_file_id": "1WF1hWNpTV6OPiXffhppcn1k9grTwzpoH",
+    "file_name": "Kiro-Ep037-HI.mp4"
+  },
+  "caption": "वो हुक्स जो फाइल सेव पर ट्रिगर होते हैं\n\nहर बार जब आप सेव दबाते हैं, यह अपने आप चल सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 37.\n\n#FileSaveHook #Automation #KiroHooks #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "वो हुक्स जो फाइल सेव पर ट्रिगर होते हैं #Shorts",
+    "description": "वो हुक्स जो फाइल सेव पर ट्रिगर होते हैं\n\nहर बार जब आप सेव दबाते हैं, यह अपने आप चल सकता है।\nएक सेव-ट्रिगर्ड हुक तुरंत लिंटिंग, फॉर्मेटिंग या टेस्ट्स चला सकता है।\nकोई मैनुअल स्टेप नहीं, इसे चलाना भूलने का डर नहीं।\nयह ठीक उसी पल होता है जब आपकी फाइल डिस्क पर सेव होती है।\n\nKiro हिंदी सीरीज़ का एपिसोड 37। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#FileSaveHook #Automation #KiroHooks #KiroHindi #theAIgurukul",
+    "tags": [
+      "FileSaveHook",
+      "Automation",
+      "KiroHooks",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

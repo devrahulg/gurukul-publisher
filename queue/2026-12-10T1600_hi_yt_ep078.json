@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-10T1600_hi_yt_ep078",
+  "account": "hi_yt",
+  "publish_at": "2026-12-10T16:00:00+05:30",
+  "language": "hi",
+  "episode": 78,
+  "video": {
+    "drive_file_id": "16wuH5sKWF5Kewd5X1cFKY6nI5L6Zui8T",
+    "file_name": "Kiro-Ep078-HI.mp4"
+  },
+  "caption": "Kiro को फाइल्स, URLs और डॉक्स से कॉन्टेक्स्ट दें\n\nKiro सिर्फ आपका कोड नहीं, उससे ज़्यादा पढ़ सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 78.\n\n#ContextProviders #KiroChat #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro को फाइल्स, URLs और डॉक्स से कॉन्टेक्स्ट दें #Shorts",
+    "description": "Kiro को फाइल्स, URLs और डॉक्स से कॉन्टेक्स्ट दें\n\nKiro सिर्फ आपका कोड नहीं, उससे ज़्यादा पढ़ सकता है।\nआप Kiro को एक फाइल, एक URL, या एक डॉक्यूमेंट कॉन्टेक्स्ट के तौर पर दे सकते हैं।\nयह इसे सीधे अपने अगले जवाब या स्पेक में शामिल करता है।\nबेहतर कॉन्टेक्स्ट अंदर, तो बेहतर रिज़ल्ट बाहर।\n\nKiro हिंदी सीरीज़ का एपिसोड 78। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#ContextProviders #KiroChat #KiroHindi #theAIgurukul",
+    "tags": [
+      "ContextProviders",
+      "KiroChat",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

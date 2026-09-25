@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-21T1600_hi_yt_ep028",
+  "account": "hi_yt",
+  "publish_at": "2026-10-21T16:00:00+05:30",
+  "language": "hi",
+  "episode": 28,
+  "video": {
+    "drive_file_id": "1p1XEu3m-WnMi-Gv1CrO5lmkn_5iMPnOE",
+    "file_name": "Kiro-Ep028-HI.mp4"
+  },
+  "caption": "ऑटोमेटेड रीज़निंग: Kiro कॉन्ट्रडिक्शन्स जल्दी पकड़ता है\n\nKiro एक खराब रिक्वायरमेंट को आपका पूरा दिन बर्बाद करने से पहले पकड़ सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 28.\n\n#AutomatedReasoning #SpecQuality #KiroAI #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "ऑटोमेटेड रीज़निंग: Kiro कॉन्ट्रडिक्शन्स जल्दी पकड़ता है #Shorts",
+    "description": "ऑटोमेटेड रीज़निंग: Kiro कॉन्ट्रडिक्शन्स जल्दी पकड़ता है\n\nKiro एक खराब रिक्वायरमेंट को आपका पूरा दिन बर्बाद करने से पहले पकड़ सकता है।\nऑटोमेटेड रीज़निंग, इम्प्लीमेंटेशन शुरू होने से पहले रिक्वायरमेंट्स में कॉन्ट्रडिक्शन्स और गैप्स चेक करता है।\nयह कॉन्फ्लिक्टिंग एक्सेप्टेंस क्राइटेरिया जैसी चीज़ों को अपने आप फ्लैग करता है।\nइसे स्पेक स्टेज पर पकड़ना, कोड रिव्यू में पकड़ने से कहीं सस्ता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 28। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#AutomatedReasoning #SpecQuality #KiroAI #KiroHindi #theAIgurukul",
+    "tags": [
+      "AutomatedReasoning",
+      "SpecQuality",
+      "KiroAI",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-06T1030_hi_ig_ep044",
+  "account": "hi_ig",
+  "publish_at": "2026-11-06T10:30:00+05:30",
+  "language": "hi",
+  "episode": 44,
+  "video": {
+    "drive_file_id": "14vOlmeiHeTJK6xiHg6aACbSI8fAdnZG-",
+    "file_name": "Kiro-Ep044-HI.mp4"
+  },
+  "caption": "वो हुक डीबग करना जो फायर नहीं हो रहा\n\nआपका हुक नहीं चल रहा? पहले ये चेक कीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 44.\n\n#HookDebugging #KiroTroubleshooting #Automation #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

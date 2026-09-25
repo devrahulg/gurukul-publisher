@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-31T1600_hi_yt_ep038",
+  "account": "hi_yt",
+  "publish_at": "2026-10-31T16:00:00+05:30",
+  "language": "hi",
+  "episode": 38,
+  "video": {
+    "drive_file_id": "1VYJLfKCpG1VNr2M-wM79FE8PK-hCtdRc",
+    "file_name": "Kiro-Ep038-HI.mp4"
+  },
+  "caption": "वो हुक्स जो फाइल क्रिएट या डिलीट पर ट्रिगर होते हैं\n\nएक फाइल डिलीट करना पूरी क्लीनअप रूटीन चला सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 38.\n\n#FileLifecycle #KiroHooks #Automation #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "वो हुक्स जो फाइल क्रिएट या डिलीट पर ट्रिगर होते हैं #Shorts",
+    "description": "वो हुक्स जो फाइल क्रिएट या डिलीट पर ट्रिगर होते हैं\n\nएक फाइल डिलीट करना पूरी क्लीनअप रूटीन चला सकता है।\nक्रिएट-ट्रिगर्ड हुक्स नई फाइल आते ही बॉयलरप्लेट स्कैफोल्ड कर सकते हैं।\nडिलीट-ट्रिगर्ड हुक्स जुड़े हुए टेस्ट फाइल्स या इम्पोर्ट्स को साफ कर सकते हैं।\nयह आपकी असली फाइल लाइफसाइकिल से जुड़ा ऑटोमेशन है।\n\nKiro हिंदी सीरीज़ का एपिसोड 38। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#FileLifecycle #KiroHooks #Automation #KiroHindi #theAIgurukul",
+    "tags": [
+      "FileLifecycle",
+      "KiroHooks",
+      "Automation",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

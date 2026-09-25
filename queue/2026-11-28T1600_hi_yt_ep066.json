@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-28T1600_hi_yt_ep066",
+  "account": "hi_yt",
+  "publish_at": "2026-11-28T16:00:00+05:30",
+  "language": "hi",
+  "episode": 66,
+  "video": {
+    "drive_file_id": "12VVc_w51L-ouD63gEo73U6-mHNQY8ElL",
+    "file_name": "Kiro-Ep066-HI.mp4"
+  },
+  "caption": "Kiro + GitHub और GitLab: आपके IDE से PRs\n\nKiro आपके लिए पुल रिक्वेस्ट खोल सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 66.\n\n#KiroGitHub #KiroGitLab #PRAutomation #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + GitHub और GitLab: आपके IDE से PRs #Shorts",
+    "description": "Kiro + GitHub और GitLab: आपके IDE से PRs\n\nKiro आपके लिए पुल रिक्वेस्ट खोल सकता है।\nGitHub और GitLab इंटीग्रेशन से Kiro सीधे PRs मैनेज करता है।\nयह पूरे हुए टास्क से ब्रांच, कमिट और पुल रिक्वेस्ट बना सकता है।\nआपका पूरा स्पेक-से-PR फ्लो एक ही टूल में रहता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 66। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroGitHub #KiroGitLab #PRAutomation #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroGitHub",
+      "KiroGitLab",
+      "PRAutomation",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-01T1600_hi_yt_ep069",
+  "account": "hi_yt",
+  "publish_at": "2026-12-01T16:00:00+05:30",
+  "language": "hi",
+  "episode": 69,
+  "video": {
+    "drive_file_id": "1pjBnSwrH3h9Yv5du_-F7eG0EjDmYS84E",
+    "file_name": "Kiro-Ep069-HI.mp4"
+  },
+  "caption": "Agent Client Protocol (ACP): हर जगह Kiro\n\nKiro के एजेंट्स सिर्फ Kiro के अपने IDE तक सीमित नहीं हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 69.\n\n#ACP #AgentClientProtocol #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Agent Client Protocol (ACP): हर जगह Kiro #Shorts",
+    "description": "Agent Client Protocol (ACP): हर जगह Kiro\n\nKiro के एजेंट्स सिर्फ Kiro के अपने IDE तक सीमित नहीं हैं।\nACP — एजेंट क्लाइंट प्रोटोकॉल — इन एजेंट्स को कई कम्पैटिबल टूल्स में काम करने देता है।\nKiro की एजेंट पावर इस्तेमाल करने के लिए आप एक इंटरफ़ेस में बंधे नहीं हैं।\nयह एक पूरे इकोसिस्टम के लिए बना है, किसी बंद बगीचे के लिए नहीं।\n\nKiro हिंदी सीरीज़ का एपिसोड 69। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#ACP #AgentClientProtocol #KiroHindi #theAIgurukul",
+    "tags": [
+      "ACP",
+      "AgentClientProtocol",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

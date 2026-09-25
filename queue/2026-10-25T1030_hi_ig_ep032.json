@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-25T1030_hi_ig_ep032",
+  "account": "hi_ig",
+  "publish_at": "2026-10-25T10:30:00+05:30",
+  "language": "hi",
+  "episode": 32,
+  "video": {
+    "drive_file_id": "14h9cvKqqKsZoZhnNl_af1h_ZToSQBxM3",
+    "file_name": "Kiro-Ep032-HI.mp4"
+  },
+  "caption": "प्रॉपर्टी-बेस्ड टेस्टिंग: Kiro का सीक्रेट हथियार\n\nयह टेस्टिंग मेथड वो बग्स पकड़ता है जो आपके यूनिट टेस्ट्स कभी नहीं पकड़ेंगे।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 32.\n\n#PropertyTesting #KiroTesting #QualityAssurance #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-27T1030_hi_ig_ep065",
+  "account": "hi_ig",
+  "publish_at": "2026-11-27T10:30:00+05:30",
+  "language": "hi",
+  "episode": 65,
+  "video": {
+    "drive_file_id": "1MQeZf4KOExIVOMXgjG6EtkM6k2LRbX23",
+    "file_name": "Kiro-Ep065-HI.mp4"
+  },
+  "caption": "Kiro + Google Firebase: मोबाइल बैकएंड शिप करना\n\nआपका मोबाइल बैकएंड, Kiro से जुड़ा हुआ।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 65.\n\n#KiroFirebase #MobileBackend #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

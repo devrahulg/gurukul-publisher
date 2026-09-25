@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-06T1030_hi_ig_ep013",
+  "account": "hi_ig",
+  "publish_at": "2026-10-06T10:30:00+05:30",
+  "language": "hi",
+  "episode": 13,
+  "video": {
+    "drive_file_id": "1KSGKoIJeOO54l3TisgJvXpx5qwzoORPU",
+    "file_name": "Kiro-Ep013-HI.mp4"
+  },
+  "caption": "अपना मौजूदा VS Code सेटअप Kiro में इम्पोर्ट करें\n\nअपना सेटअप दोबारा मत बनाइए। उसे इम्पोर्ट कीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 13.\n\n#VSCodeMigration #OpenVSX #KiroSetup #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

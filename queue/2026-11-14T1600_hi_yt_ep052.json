@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-14T1600_hi_yt_ep052",
+  "account": "hi_yt",
+  "publish_at": "2026-11-14T16:00:00+05:30",
+  "language": "hi",
+  "episode": 52,
+  "video": {
+    "drive_file_id": "14VYGKNLRMRlyKCZIMb4_YAL6zTMoBmoL",
+    "file_name": "Kiro-Ep052-HI.mp4"
+  },
+  "caption": "Kiro IDE, CLI और Web में स्टीयरिंग रूल्स सिंक करना\n\nअपने रूल्स एक बार सेट कीजिए। वे हर जगह आपके साथ चलते हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 52.\n\n#KiroSync #KiroCustomization #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "Kiro IDE, CLI और Web में स्टीयरिंग रूल्स सिंक करना #Shorts",
+    "description": "Kiro IDE, CLI और Web में स्टीयरिंग रूल्स सिंक करना\n\nअपने रूल्स एक बार सेट कीजिए। वे हर जगह आपके साथ चलते हैं।\nस्टीयरिंग फाइल्स Kiro IDE, CLI और Web में सिंक होती हैं।\nब्राउज़र में टास्क शुरू कीजिए, टर्मिनल में खत्म कीजिए।\nहर सरफेस पर वही रूल्स, वही व्यवहार।\n\nKiro हिंदी सीरीज़ का एपिसोड 52। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#KiroSync #KiroCustomization #KiroHindi #theAIgurukul",
+    "tags": [
+      "KiroSync",
+      "KiroCustomization",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-27T1600_hi_yt_ep034",
+  "account": "hi_yt",
+  "publish_at": "2026-10-27T16:00:00+05:30",
+  "language": "hi",
+  "episode": 34,
+  "video": {
+    "drive_file_id": "1IWWZGp64MVQET-3-XmUdVxoAHSHXq0rg",
+    "file_name": "Kiro-Ep034-HI.mp4"
+  },
+  "caption": "डेटा फ्लो डायग्राम्स: Kiro आपके लिए क्या बनाता है\n\nआपके एक शब्द कोड लिखने से पहले ही Kiro आपका आर्किटेक्चर बना देता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 34.\n\n#DataFlowDiagrams #DesignMd #KiroSpecs #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "डेटा फ्लो डायग्राम्स: Kiro आपके लिए क्या बनाता है #Shorts",
+    "description": "डेटा फ्लो डायग्राम्स: Kiro आपके लिए क्या बनाता है\n\nआपके एक शब्द कोड लिखने से पहले ही Kiro आपका आर्किटेक्चर बना देता है।\ndesign.md के अंदर, Kiro अपने आप डेटा फ्लो डायग्राम्स जनरेट करता है।\nवे दिखाते हैं कि आपकी सर्विसेज़ और कॉम्पोनेंट्स के बीच जानकारी कैसे मूव करती है।\nयह वो डॉक्यूमेंटेशन है जो आप आमतौर पर खुद बनाते, अब मुफ्त में मिल जाता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 34। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#DataFlowDiagrams #DesignMd #KiroSpecs #KiroHindi #theAIgurukul",
+    "tags": [
+      "DataFlowDiagrams",
+      "DesignMd",
+      "KiroSpecs",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-12T1030_hi_ig_ep050",
+  "account": "hi_ig",
+  "publish_at": "2026-11-12T10:30:00+05:30",
+  "language": "hi",
+  "episode": 50,
+  "video": {
+    "drive_file_id": "1wOpuSr3RvLl3F0rF6vfW-9-rUA3lPAys",
+    "file_name": "Kiro-Ep050-HI.mp4"
+  },
+  "caption": "AGENTS.md: वह ओपन स्टैंडर्ड जो Kiro सपोर्ट करता है\n\nयह फाइल सिर्फ Kiro से कहीं ज़्यादा जगह काम करती है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 50.\n\n#AGENTSmd #OpenStandard #KiroHindi #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}
