@@ -1,0 +1,43 @@
+name: site
+
+# Publishes the public pages (home, privacy policy, terms) to GitHub Pages.
+# Runs when anything in pages/ changes, or on demand.
+on:
+  push:
+    paths: ["pages/**"]
+  workflow_dispatch: {}
+
+concurrency:
+  group: pages-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m publisher prepare --site site --static-only
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

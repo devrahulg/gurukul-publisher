@@ -27,24 +27,34 @@ Tokens and passwords go only into Google, Meta and GitHub's own pages. Never pas
    ```
    If git isn't available, drag the folder's contents into the repo's **Add file → Upload files** page, in two batches if needed.
 
-## 2. Turn on Pages (1 min)
+## 2. Turn on Pages (2 min)
 
-Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+1. Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+2. **Actions → site → Run workflow**. This publishes your home, privacy policy and terms pages at `https://devrahulg.github.io/gurukul-publisher/`. Google and Meta ask for these links.
 
 ## 3. Google / YouTube (15 min)
 
-1. Go to <https://console.cloud.google.com>, create a project called `gurukul-publisher`.
-2. **APIs & Services → Library**: enable **YouTube Data API v3** and **Google Drive API**.
-3. **OAuth consent screen**: set the user type to External and the app name to "Gurukul Publisher", and add your email. Add scopes `youtube.upload`, `youtube.readonly` and `drive.readonly`. Then click **Publish app** to move it to *In production*.
-   *Important:* in "Testing" mode Google expires the tokens after 7 days. When you sign in, Google shows an "unverified app" warning. That's expected for your own app: click *Advanced → Go to Gurukul Publisher*.
-4. **Credentials → Create credentials → OAuth client ID → Desktop app**. Download the JSON file. Keep it private and don't put it in the repo.
-5. On any computer with Python 3, run:
+1. Go to <https://console.cloud.google.com> and create a project called `gurukul-publisher`.
+2. **APIs & Services → Library**: enable **YouTube Data API v3**. The Drive API isn't needed, because your episode videos are already shared "anyone with the link".
+3. **Google Auth Platform → Branding** (the "OAuth consent screen"):
+   - App name: `Gurukul Publisher`. Support email and developer contact: your Gmail.
+   - **App domain** (these pages go live when you run the `site` workflow in step 2b):
+     - Application home page: `https://devrahulg.github.io/gurukul-publisher/`
+     - Application privacy policy link: `https://devrahulg.github.io/gurukul-publisher/privacy.html`
+     - Application Terms of Service link: `https://devrahulg.github.io/gurukul-publisher/terms.html`
+     - Authorised domain: `devrahulg.github.io`. If Google refuses it, leave this field empty. It's only required for full verification.
+4. **Data access → Add or remove scopes**: add only `.../auth/youtube.upload` and `.../auth/youtube.readonly`. Both are "sensitive" scopes, not "restricted" ones.
+5. **Audience → Publish app → Confirm**, so the status reads *In production*.
+   - Google may say the app "needs verification". You don't have to submit it. An unverified app still works for up to 100 users, and you are the only one. You'll see an "unverified app" warning when signing in: click **Advanced → Go to Gurukul Publisher (unsafe)**.
+   - *Why this matters:* in **Testing** mode, Google expires the sign-in after 7 days and publishing would stop every week. If you do leave it in Testing for now, add your Gmail under **Audience → Test users**. Then re-run step 3.7 every 7 days until you publish.
+6. **Clients → Create client → Desktop app**. Download the JSON file. Keep it private and don't put it in the repo.
+7. On any computer with Python 3, run:
    ```
    python tools/google_auth.py C:\path\to\client_secret.json
    ```
    Sign in and pick the **English channel** when Google asks which account or channel to use. The script prints the connected channel's name and a refresh token.
    Then run the same command a second time and pick the **Hindi channel**.
-6. In the GitHub repo, go to **Settings → Secrets and variables → Actions → New repository secret** and add:
+8. In the GitHub repo, go to **Settings → Secrets and variables → Actions → New repository secret** and add:
    - `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` (from the JSON file)
    - `YT_REFRESH_EN` (the token printed for the English channel)
    - `YT_REFRESH_HI` (the token printed for the Hindi channel)
@@ -113,8 +123,8 @@ Metricool still has the same episodes scheduled through Dec 12. Its English post
 
 | What you see | Fix |
 |---|---|
-| `secret YT_REFRESH_HI not set` (or `_EN`) in the run summary | Add the secret (step 3.6) |
-| Google `invalid_grant` | The consent screen was still in Testing. Publish it (3.3) and run `google_auth.py` again |
+| `secret YT_REFRESH_HI not set` (or `_EN`) in the run summary | Add the secret (step 3.8) |
+| Google `invalid_grant` | The app was still in Testing, so the token expired after 7 days. Publish it (3.5) and run `google_auth.py` again |
 | YouTube `uploadLimitExceeded` / `quotaExceeded` | Wait a day. The default quota is plenty for 2 videos a day |
 | Instagram `Media URL not reachable` | Pages isn't enabled (step 2). The post retries next run |
 | Instagram token error / code 190 | Generate a new token (5.3) and replace `IG_TOKEN_EN` or `IG_TOKEN_HI` |

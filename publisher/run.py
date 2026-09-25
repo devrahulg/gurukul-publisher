@@ -81,7 +81,11 @@ def fail(p: Post, err: Exception, s: dict) -> None:
 
 
 def drive_token(accts: dict) -> str | None:
-    """Any configured Google refresh token can read Drive (same Google login)."""
+    """Drive API access is optional. By default videos come from their public
+    ("anyone with the link") Drive URLs; set "drive_api": true in settings.json
+    only if the Google token was granted the drive.readonly scope."""
+    if not settings().get("drive_api", False):
+        return None
     for acct in accts.values():
         if acct.get("platform") == "youtube" and account_ready("", acct)[0]:
             try:
@@ -103,15 +107,26 @@ def fetch_video(post: Post, dest: pathlib.Path, token: str | None) -> pathlib.Pa
 
 
 # ---------------------------------------------------------------- prepare
-def cmd_prepare(site: pathlib.Path) -> int:
-    s, accts, now = settings(), accounts(), now_utc()
-    posts = load_all()
-    due = select(posts, "instagram", now, s, accts)
+def build_static(site: pathlib.Path) -> None:
+    """Public pages (home, privacy, terms) that Google and Meta link to."""
     if site.exists():
         shutil.rmtree(site)
     (site / "media").mkdir(parents=True)
     (site / ".nojekyll").write_text("")
-    (site / "index.html").write_text("<!doctype html><title>theAIgurukul media</title><p>Media staging for scheduled posts.</p>")
+    pages = ROOT / "pages"
+    for f in pages.glob("*"):
+        if f.is_file():
+            shutil.copy(f, site / f.name)
+
+
+def cmd_prepare(site: pathlib.Path, static_only: bool = False) -> int:
+    build_static(site)
+    if static_only:
+        log("static pages built")
+        return 0
+    s, accts, now = settings(), accounts(), now_utc()
+    posts = load_all()
+    due = select(posts, "instagram", now, s, accts)
     staged = []
     token = drive_token(accts) if due else None
     for p in due:
@@ -199,7 +214,7 @@ def do_youtube(posts: list[Post], now: dt.datetime, s: dict, accts: dict, work: 
             p["status"] = "uploading"
             p.note("uploading to YouTube")
             p.save()
-            path = fetch_video(p, work / f"{p['id']}.mp4", token)
+            path = fetch_video(p, work / f"{p['id']}.mp4", drive_token(accts))
             p["_publish_at"] = p.publish_at
             resource = g.build_video_resource(p, now_utc())
             video = g.youtube_upload(token, path, resource)
@@ -364,11 +379,13 @@ def main(argv: list[str] | None = None) -> int:
     for name in ("prepare", "run"):
         sp = sub.add_parser(name)
         sp.add_argument("--site", default="site")
+        if name == "prepare":
+            sp.add_argument("--static-only", action="store_true")
     for name in ("stats", "refresh-ig-tokens", "validate"):
         sub.add_parser(name)
     args = ap.parse_args(argv)
     if args.cmd == "prepare":
-        return cmd_prepare(pathlib.Path(args.site))
+        return cmd_prepare(pathlib.Path(args.site), args.static_only)
     if args.cmd == "run":
         return cmd_run(pathlib.Path(args.site))
     if args.cmd == "stats":
