@@ -34,8 +34,10 @@ def account_ready(name: str, acct: dict) -> tuple[bool, str]:
     key = acct.get("token_secret") if acct["platform"] == "instagram" else acct.get("refresh_secret")
     if not key or not os.environ.get(key, "").strip():
         return False, f"secret {key} not set"
-    if acct["platform"] == "youtube" and not (os.environ.get("GOOGLE_CLIENT_ID") and os.environ.get("GOOGLE_CLIENT_SECRET")):
-        return False, "GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET not set"
+    if acct["platform"] == "youtube" and not g.client_env_names(acct.get("client_suffix")):
+        sfx = acct.get("client_suffix")
+        return False, (f"GOOGLE_CLIENT_ID_{sfx} / GOOGLE_CLIENT_SECRET_{sfx} (or the shared pair) not set"
+                       if sfx else "GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET not set")
     return True, ""
 
 
@@ -96,7 +98,7 @@ def drive_token(accts: dict) -> str | None:
     for acct in accts.values():
         if acct.get("platform") == "youtube" and account_ready("", acct)[0]:
             try:
-                return g.access_token(acct["refresh_secret"])
+                return g.access_token(acct["refresh_secret"], acct.get("client_suffix"))
             except ApiError as exc:
                 log(f"Drive token unavailable ({exc}); falling back to public links")
     return None
@@ -219,7 +221,7 @@ def do_youtube(posts: list[Post], now: dt.datetime, s: dict, accts: dict, work: 
         acct = accts[p["account"]]
         try:
             if p["account"] not in tokens:
-                tokens[p["account"]] = g.access_token(acct["refresh_secret"])
+                tokens[p["account"]] = g.access_token(acct["refresh_secret"], acct.get("client_suffix"))
             token = tokens[p["account"]]
             p["status"] = "uploading"
             p.note("uploading to YouTube")
@@ -328,7 +330,7 @@ def cmd_stats() -> int:
             continue
         try:
             if acct["platform"] == "youtube":
-                out["accounts"][name] = g.channel_stats(g.access_token(acct["refresh_secret"]))
+                out["accounts"][name] = g.channel_stats(g.access_token(acct["refresh_secret"], acct.get("client_suffix")))
             else:
                 token = os.environ[acct["token_secret"]]
                 me = ig.whoami(token)

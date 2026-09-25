@@ -22,10 +22,27 @@ DEFAULT_CATEGORY = "27"
 MIN_SCHEDULE_AHEAD = dt.timedelta(minutes=15)
 
 
-def access_token(refresh_env: str) -> str:
+def client_env_names(suffix: str | None) -> tuple[str, str] | None:
+    """Which OAuth client a channel uses. Each channel can have its own client
+    (GOOGLE_CLIENT_ID_EN / GOOGLE_CLIENT_SECRET_EN, ..._HI); if those aren't set,
+    the shared GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET pair is used."""
+    candidates = ([(f"GOOGLE_CLIENT_ID_{suffix}", f"GOOGLE_CLIENT_SECRET_{suffix}")] if suffix else []) + \
+        [("GOOGLE_CLIENT_ID", "GOOGLE_CLIENT_SECRET")]
+    for cid, csec in candidates:
+        if os.environ.get(cid, "").strip() and os.environ.get(csec, "").strip():
+            return cid, csec
+    return None
+
+
+def access_token(refresh_env: str, client_suffix: str | None = None) -> str:
+    names = client_env_names(client_suffix)
+    if not names:
+        want = f"GOOGLE_CLIENT_ID_{client_suffix} / GOOGLE_CLIENT_SECRET_{client_suffix}" if client_suffix \
+            else "GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET"
+        raise ApiError(f"No OAuth client secrets set (expected {want})")
     resp = http("POST", TOKEN_URL, what="Google token refresh", data={
-        "client_id": secret("GOOGLE_CLIENT_ID"),
-        "client_secret": secret("GOOGLE_CLIENT_SECRET"),
+        "client_id": secret(names[0]),
+        "client_secret": secret(names[1]),
         "refresh_token": secret(refresh_env),
         "grant_type": "refresh_token",
     })

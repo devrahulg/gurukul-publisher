@@ -1,0 +1,96 @@
+name: publish
+
+# Every 15 minutes: upload YouTube videos ahead of time (YouTube releases them at
+# their scheduled time) and publish Instagram Reels that are due.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: publisher
+  cancel-in-progress: false
+
+env:
+  GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+  GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+  GOOGLE_CLIENT_ID_EN: ${{ secrets.GOOGLE_CLIENT_ID_EN }}
+  GOOGLE_CLIENT_SECRET_EN: ${{ secrets.GOOGLE_CLIENT_SECRET_EN }}
+  GOOGLE_CLIENT_ID_HI: ${{ secrets.GOOGLE_CLIENT_ID_HI }}
+  GOOGLE_CLIENT_SECRET_HI: ${{ secrets.GOOGLE_CLIENT_SECRET_HI }}
+  GOOGLE_SA_KEY: ${{ secrets.GOOGLE_SA_KEY }}
+  YT_REFRESH_HI: ${{ secrets.YT_REFRESH_HI }}
+  YT_REFRESH_EN: ${{ secrets.YT_REFRESH_EN }}
+  IG_TOKEN_HI: ${{ secrets.IG_TOKEN_HI }}
+  IG_TOKEN_EN: ${{ secrets.IG_TOKEN_EN }}
+
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+    outputs:
+      has_media: ${{ steps.prep.outputs.has_media }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - id: prep
+        run: python -m publisher prepare --site site
+      - uses: actions/upload-artifact@v4
+        with:
+          name: manifest
+          path: manifest.json
+          retention-days: 2
+      - if: steps.prep.outputs.has_media == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  pages:
+    needs: stage
+    if: needs.stage.outputs.has_media == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+  publish:
+    needs: [stage, pages]
+    if: always() && needs.stage.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: manifest
+      - run: python -m publisher run --site site
+      - name: Save queue changes
+        if: always()
+        run: |
+          git config user.name "gurukul-publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue state
+          if git diff --cached --quiet; then echo "nothing to save"; exit 0; fi
+          git commit -m "publisher: run $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1

@@ -30,7 +30,7 @@ Both languages are queued from Oct 1 to Dec 12, 2026: 292 posts, 146 in English 
 | `en_ig` | English Instagram @theai_gurukul | `IG_TOKEN_EN` |
 | `en_yt` | English YouTube channel | `YT_REFRESH_EN` |
 
-Also required: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` and `GOOGLE_SA_KEY` (the service account key for private Drive access). `GH_ADMIN_TOKEN` is needed for automatic Instagram token renewal. An account whose secret isn't set yet is simply skipped, so you can connect them one at a time.
+Also required: an OAuth client per YouTube channel (`GOOGLE_CLIENT_ID_EN`/`GOOGLE_CLIENT_SECRET_EN` and `GOOGLE_CLIENT_ID_HI`/`GOOGLE_CLIENT_SECRET_HI`, or one shared `GOOGLE_CLIENT_ID`/`GOOGLE_CLIENT_SECRET` pair), plus `GOOGLE_SA_KEY` (the service account key for private Drive access). `GH_ADMIN_TOKEN` is needed for automatic Instagram token renewal. An account whose secret isn't set yet is simply skipped, so you can connect them one at a time.
 
 ## Limits to know
 

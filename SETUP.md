@@ -47,17 +47,33 @@ Tokens and passwords go only into Google, Meta and GitHub's own pages. Never pas
 5. **Audience → Publish app → Confirm**, so the status reads *In production*.
    - Google may say the app "needs verification". You don't have to submit it. An unverified app still works for up to 100 users, and you are the only one. You'll see an "unverified app" warning when signing in: click **Advanced → Go to Gurukul Publisher (unsafe)**.
    - *Why this matters:* in **Testing** mode, Google expires the sign-in after 7 days and publishing would stop every week. If you do leave it in Testing for now, add your Gmail under **Audience → Test users**. Then re-run step 3.7 every 7 days until you publish.
-6. **Clients → Create client → Desktop app**. Download the JSON file. Keep it private and don't put it in the repo.
-7. On any computer with Python 3, run:
+6. **Clients → Create client → Desktop app**, twice: one client per channel.
+   - Name the first one `Gurukul Publisher EN` and download its JSON as `client_en.json`.
+   - Name the second one `Gurukul Publisher HI` and download its JSON as `client_hi.json`.
+   - Keep both files private and don't put them in the repo.
+7. On any computer with Python 3, get one refresh token per channel:
    ```
-   python tools/google_auth.py C:\path\to\client_secret.json
+   python tools/google_auth.py C:\path\to\client_en.json
    ```
-   Sign in and pick the **English channel** when Google asks which account or channel to use. The script prints the connected channel's name and a refresh token.
-   Then run the same command a second time and pick the **Hindi channel**.
-8. In the GitHub repo, go to **Settings → Secrets and variables → Actions → New repository secret** and add:
-   - `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` (from the JSON file)
-   - `YT_REFRESH_EN` (the token printed for the English channel)
-   - `YT_REFRESH_HI` (the token printed for the Hindi channel)
+   Sign in and pick the **English channel** when Google asks which account or channel to use. The script prints the connected channel's name, so you can confirm it's the right one, and then the refresh token. Then run:
+   ```
+   python tools/google_auth.py C:\path\to\client_hi.json
+   ```
+   This time pick the **Hindi channel**. If the Hindi channel lives under a different Google login, sign in with that login. Both clients sit in the same Cloud project, so this works either way.
+8. In the GitHub repo, go to **Settings → Secrets and variables → Actions → New repository secret** and add six secrets:
+
+   | Secret | Value |
+   |---|---|
+   | `GOOGLE_CLIENT_ID_EN` | `client_id` from `client_en.json` |
+   | `GOOGLE_CLIENT_SECRET_EN` | `client_secret` from `client_en.json` |
+   | `YT_REFRESH_EN` | token printed for the English channel |
+   | `GOOGLE_CLIENT_ID_HI` | `client_id` from `client_hi.json` |
+   | `GOOGLE_CLIENT_SECRET_HI` | `client_secret` from `client_hi.json` |
+   | `YT_REFRESH_HI` | token printed for the Hindi channel |
+
+   Then delete both JSON files from your computer.
+
+   *Simpler alternative:* one client can serve both channels. Run the script twice with the same JSON, pick a different channel each time, and save the client as `GOOGLE_CLIENT_ID` / `GOOGLE_CLIENT_SECRET`. The publisher uses a channel's own client when one is set, and otherwise falls back to the shared one.
 
 ## 3b. Keep the Drive folder private (10 min)
 

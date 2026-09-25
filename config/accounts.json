@@ -9,7 +9,8 @@
     "platform": "youtube",
     "label": "Hindi YouTube channel",
     "refresh_secret": "YT_REFRESH_HI",
-    "enabled": true
+    "enabled": true,
+    "client_suffix": "HI"
   },
   "en_ig": {
     "platform": "instagram",
@@ -21,6 +22,7 @@
     "platform": "youtube",
     "label": "English YouTube channel",
     "refresh_secret": "YT_REFRESH_EN",
-    "enabled": true
+    "enabled": true,
+    "client_suffix": "EN"
   }
 }

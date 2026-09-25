@@ -131,7 +131,7 @@ def test_interrupted_instagram_post_is_not_published_twice(qdir, monkeypatch):
 def test_youtube_upload_happy_path(qdir, monkeypatch, tmp_path):
     put(qdir, "y1", "hi_yt", "2026-10-03T16:00:00+05:30")
     monkeypatch.setenv("PUBLISHER_NOW", "2026-10-02T10:00:00+05:30")
-    monkeypatch.setattr(g, "access_token", lambda env: "AT")
+    monkeypatch.setattr(g, "access_token", lambda *a: "AT")
     monkeypatch.setattr(run, "fetch_video", lambda p, dest, tok: dest)
     seen = {}
     monkeypatch.setattr(g, "youtube_upload", lambda tok, path, res: seen.update(res) or
@@ -217,3 +217,31 @@ def test_staged_media_names_are_unguessable(qdir, monkeypatch, tmp_path):
     items = json.loads((tmp_path / "manifest.json").read_text())["items"]
     assert len(items) == 1 and "ep008" not in items[0]["file"] and len(items[0]["file"]) > 25
     assert (site / items[0]["file"]).exists()
+
+
+def test_each_channel_can_have_its_own_oauth_client(monkeypatch):
+    for k in ("GOOGLE_CLIENT_ID", "GOOGLE_CLIENT_SECRET", "GOOGLE_CLIENT_ID_EN", "GOOGLE_CLIENT_SECRET_EN",
+              "GOOGLE_CLIENT_ID_HI", "GOOGLE_CLIENT_SECRET_HI"):
+        monkeypatch.delenv(k, raising=False)
+    assert g.client_env_names("EN") is None
+    monkeypatch.setenv("GOOGLE_CLIENT_ID", "shared"); monkeypatch.setenv("GOOGLE_CLIENT_SECRET", "s")
+    assert g.client_env_names("HI") == ("GOOGLE_CLIENT_ID", "GOOGLE_CLIENT_SECRET")      # fallback
+    monkeypatch.setenv("GOOGLE_CLIENT_ID_HI", "hi"); monkeypatch.setenv("GOOGLE_CLIENT_SECRET_HI", "h")
+    assert g.client_env_names("HI") == ("GOOGLE_CLIENT_ID_HI", "GOOGLE_CLIENT_SECRET_HI")  # own client wins
+    assert g.client_env_names("EN") == ("GOOGLE_CLIENT_ID", "GOOGLE_CLIENT_SECRET")
+    sent = {}
+
+    class R:
+        def json(self):
+            return {"access_token": "AT"}
+    monkeypatch.setattr(g, "http", lambda *a, **k: sent.update(k["data"]) or R())
+    monkeypatch.setenv("YT_REFRESH_HI", "rt")
+    assert g.access_token("YT_REFRESH_HI", "HI") == "AT" and sent["client_id"] == "hi"
+
+
+def test_hindi_channel_ready_with_only_its_own_client(qdir, monkeypatch):
+    monkeypatch.delenv("GOOGLE_CLIENT_ID"); monkeypatch.delenv("GOOGLE_CLIENT_SECRET")
+    acct = {"platform": "youtube", "refresh_secret": "YT_REFRESH_HI", "enabled": True, "client_suffix": "HI"}
+    assert run.account_ready("hi_yt", acct)[0] is False
+    monkeypatch.setenv("GOOGLE_CLIENT_ID_HI", "hi"); monkeypatch.setenv("GOOGLE_CLIENT_SECRET_HI", "h")
+    assert run.account_ready("hi_yt", acct) == (True, "")
