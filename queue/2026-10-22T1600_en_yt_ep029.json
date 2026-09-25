@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-22T1600_en_yt_ep029",
+  "account": "en_yt",
+  "publish_at": "2026-10-22T16:00:00+05:30",
+  "language": "en",
+  "episode": 29,
+  "video": {
+    "drive_file_id": "1lnFRUNqsfl2k-Wp8oquohvt6GhMmWfF9",
+    "file_name": "Kiro-Ep029-EN.mp4"
+  },
+  "caption": "Spec Synchronization: Keeping Docs and Code Aligned\n\nYour docs are only useful if they stay true.\n\nOne Kiro tip a day. Episode 29.\n\n#SpecSync #LivingDocs #theAIgurukul",
+  "youtube": {
+    "title": "Spec Synchronization: Keeping Docs and Code Aligned #Shorts",
+    "description": "Spec Synchronization: Keeping Docs and Code Aligned\n\nYour docs are only useful if they stay true.\nSpec synchronization keeps requirements and design aligned as your codebase evolves.\nChange the code, and Kiro flags where the spec is now out of date.\nNo more stale documentation nobody trusts.\n\nEpisode 29 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SpecSync #LivingDocs #theAIgurukul",
+    "tags": [
+      "SpecSync",
+      "LivingDocs",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

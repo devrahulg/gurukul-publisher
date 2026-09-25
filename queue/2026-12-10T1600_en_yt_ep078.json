@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-10T1600_en_yt_ep078",
+  "account": "en_yt",
+  "publish_at": "2026-12-10T16:00:00+05:30",
+  "language": "en",
+  "episode": 78,
+  "video": {
+    "drive_file_id": "1fDWd7FCA531u4X4ErUQN9wUYF0GYenEV",
+    "file_name": "Kiro-Ep078-EN.mp4"
+  },
+  "caption": "Giving Kiro Context With Files, URLs, and Docs\n\nKiro can read more than just your code.\n\nOne Kiro tip a day. Episode 78.\n\n#ContextProviders #KiroChat #theAIgurukul",
+  "youtube": {
+    "title": "Giving Kiro Context With Files, URLs, and Docs #Shorts",
+    "description": "Giving Kiro Context With Files, URLs, and Docs\n\nKiro can read more than just your code.\nYou can hand Kiro a file, a URL, or a document as context.\nIt factors that directly into its next answer or spec.\nBetter context in means a better result out.\n\nEpisode 78 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#ContextProviders #KiroChat #theAIgurukul",
+    "tags": [
+      "ContextProviders",
+      "KiroChat",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

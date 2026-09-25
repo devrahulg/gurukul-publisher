@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-05T1030_en_ig_ep043",
+  "account": "en_ig",
+  "publish_at": "2026-11-05T10:30:00+05:30",
+  "language": "en",
+  "episode": 43,
+  "video": {
+    "drive_file_id": "1-3zJebWVryc7zTMzog9N9LBd1_VkPuMO",
+    "file_name": "Kiro-Ep043-EN.mp4"
+  },
+  "caption": "Chaining Multiple Hooks Together\n\nOne event, multiple automated steps. Here's how.\n\nOne Kiro tip a day. Episode 43.\n\n#HookChaining #AdvancedAutomation #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

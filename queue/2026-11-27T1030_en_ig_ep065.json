@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-27T1030_en_ig_ep065",
+  "account": "en_ig",
+  "publish_at": "2026-11-27T10:30:00+05:30",
+  "language": "en",
+  "episode": 65,
+  "video": {
+    "drive_file_id": "1hIa8LiTQYyoXG42RI_x-RVhEW0XPZmHr",
+    "file_name": "Kiro-Ep065-EN.mp4"
+  },
+  "caption": "Kiro + Google Firebase: Shipping Mobile Backends\n\nYour mobile backend, wired up by Kiro.\n\nOne Kiro tip a day. Episode 65.\n\n#KiroFirebase #MobileBackend #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-28T1030_en_ig_ep066",
+  "account": "en_ig",
+  "publish_at": "2026-11-28T10:30:00+05:30",
+  "language": "en",
+  "episode": 66,
+  "video": {
+    "drive_file_id": "1wn0guTy7SQHZgOXDabOAfYMxFsq_6naZ",
+    "file_name": "Kiro-Ep066-EN.mp4"
+  },
+  "caption": "Kiro + GitHub and GitLab: PRs From Your IDE\n\nKiro can open your pull request for you.\n\nOne Kiro tip a day. Episode 66.\n\n#KiroGitHub #KiroGitLab #PRAutomation #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

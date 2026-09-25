@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-21T1600_en_yt_ep059",
+  "account": "en_yt",
+  "publish_at": "2026-11-21T16:00:00+05:30",
+  "language": "en",
+  "episode": 59,
+  "video": {
+    "drive_file_id": "1EaRMCfxCWns4wku9c8SDDhqoXVowUIsQ",
+    "file_name": "Kiro-Ep059-EN.mp4"
+  },
+  "caption": "Kiro + Postman: API Testing Inside Your IDE\n\nStop tab-switching to test your API.\n\nOne Kiro tip a day. Episode 59.\n\n#KiroPostman #APITesting #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Postman: API Testing Inside Your IDE #Shorts",
+    "description": "Kiro + Postman: API Testing Inside Your IDE\n\nStop tab-switching to test your API.\nThe Postman power brings API testing directly into Kiro.\nKiro can call, check, and iterate on endpoints as it builds them.\nYour whole API workflow stays in one place.\n\nEpisode 59 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroPostman #APITesting #theAIgurukul",
+    "tags": [
+      "KiroPostman",
+      "APITesting",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

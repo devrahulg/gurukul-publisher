@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-28T1030_en_ig_ep035",
+  "account": "en_ig",
+  "publish_at": "2026-10-28T10:30:00+05:30",
+  "language": "en",
+  "episode": 35,
+  "video": {
+    "drive_file_id": "1UF2qtpeG_j8-QCeGZe3W7I7fENY_vzcf",
+    "file_name": "Kiro-Ep035-EN.mp4"
+  },
+  "caption": "Specs Recap: The Full Requirements-to-Tasks Pipeline\n\nThe entire spec pipeline, in 30 seconds.\n\nOne Kiro tip a day. Episode 35.\n\n#SpecsRecap #Module3 #SpecDrivenDevelopment #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

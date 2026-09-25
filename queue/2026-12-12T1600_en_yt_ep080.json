@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-12T1600_en_yt_ep080",
+  "account": "en_yt",
+  "publish_at": "2026-12-12T16:00:00+05:30",
+  "language": "en",
+  "episode": 80,
+  "video": {
+    "drive_file_id": "1HWCS8wqNYIWjJv13fE_217g1O5wmoMng",
+    "file_name": "Kiro-Ep080-EN.mp4"
+  },
+  "caption": "Modes Recap: Picking the Right Kiro Gear\n\nEvery Kiro mode, in 30 seconds.\n\nOne Kiro tip a day. Episode 80.\n\n#ModesRecap #Module7 #theAIgurukul",
+  "youtube": {
+    "title": "Modes Recap: Picking the Right Kiro Gear #Shorts",
+    "description": "Modes Recap: Picking the Right Kiro Gear\n\nEvery Kiro mode, in 30 seconds.\nAutonomous and supervised modes control how hands-off you are.\nAutopilot picks your model; parallel agents split the work.\nCloud sessions keep it all running even after you log off.\n\nEpisode 80 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#ModesRecap #Module7 #theAIgurukul",
+    "tags": [
+      "ModesRecap",
+      "Module7",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

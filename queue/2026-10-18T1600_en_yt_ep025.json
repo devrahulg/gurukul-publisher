@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-18T1600_en_yt_ep025",
+  "account": "en_yt",
+  "publish_at": "2026-10-18T16:00:00+05:30",
+  "language": "en",
+  "episode": 25,
+  "video": {
+    "drive_file_id": "1C7s2-bk0PqH_oRyxp5o6wn48F2WxUGBy",
+    "file_name": "Kiro-Ep025-EN.mp4"
+  },
+  "caption": "How Kiro Reads Your Codebase Before Designing\n\nKiro doesn't design in a vacuum.\n\nOne Kiro tip a day. Episode 25.\n\n#CodebaseAnalysis #KiroDesign #theAIgurukul",
+  "youtube": {
+    "title": "How Kiro Reads Your Codebase Before Designing #Shorts",
+    "description": "How Kiro Reads Your Codebase Before Designing\n\nKiro doesn't design in a vacuum.\nBefore writing design.md, Kiro analyzes your existing code structure.\nIt matches new features to your current patterns and conventions.\nThat's why its suggestions usually feel like your own code, not generic AI output.\n\nEpisode 25 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#CodebaseAnalysis #KiroDesign #theAIgurukul",
+    "tags": [
+      "CodebaseAnalysis",
+      "KiroDesign",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

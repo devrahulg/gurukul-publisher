@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03T1600_en_yt_ep041",
+  "account": "en_yt",
+  "publish_at": "2026-11-03T16:00:00+05:30",
+  "language": "en",
+  "episode": 41,
+  "video": {
+    "drive_file_id": "1kVocJbsHyPRn3ByutMv8Dg75HxwkwZwP",
+    "file_name": "Kiro-Ep041-EN.mp4"
+  },
+  "caption": "Automating Tests With a Kiro Hook\n\nNever manually run your test suite again.\n\nOne Kiro tip a day. Episode 41.\n\n#TestAutomation #AgentHooks #theAIgurukul",
+  "youtube": {
+    "title": "Automating Tests With a Kiro Hook #Shorts",
+    "description": "Automating Tests With a Kiro Hook\n\nNever manually run your test suite again.\nAttach a hook to your save event that runs your test command.\nFailures show up in Kiro's panel instantly.\nYour feedback loop shrinks from minutes to seconds.\n\nEpisode 41 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#TestAutomation #AgentHooks #theAIgurukul",
+    "tags": [
+      "TestAutomation",
+      "AgentHooks",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

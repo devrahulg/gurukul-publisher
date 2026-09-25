@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-18T1600_en_yt_ep056",
+  "account": "en_yt",
+  "publish_at": "2026-11-18T16:00:00+05:30",
+  "language": "en",
+  "episode": 56,
+  "video": {
+    "drive_file_id": "1Lixf1lGFlic6OCHbB2yFDIW2fBLaq6Pm",
+    "file_name": "Kiro-Ep056-EN.mp4"
+  },
+  "caption": "What Is MCP and Why Kiro Uses It\n\nThis protocol is why Kiro can talk to almost any tool.\n\nOne Kiro tip a day. Episode 56.\n\n#MCP #ModelContextProtocol #KiroIntegrations #theAIgurukul",
+  "youtube": {
+    "title": "What Is MCP and Why Kiro Uses It #Shorts",
+    "description": "What Is MCP and Why Kiro Uses It\n\nThis protocol is why Kiro can talk to almost any tool.\nMCP — Model Context Protocol — connects Kiro to external tools and data.\nIt's an open standard, not a Kiro-only trick.\nThat's how one IDE reaches dozens of real-world services.\n\nEpisode 56 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#MCP #ModelContextProtocol #KiroIntegrations #theAIgurukul",
+    "tags": [
+      "MCP",
+      "ModelContextProtocol",
+      "KiroIntegrations",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

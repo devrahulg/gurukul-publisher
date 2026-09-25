@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-08T1030_en_ig_ep015",
+  "account": "en_ig",
+  "publish_at": "2026-10-08T10:30:00+05:30",
+  "language": "en",
+  "episode": 15,
+  "video": {
+    "drive_file_id": "1tEcS8i6IFHiW04AK_KTJhauCWnPFknia",
+    "file_name": "Kiro-Ep015-EN.mp4"
+  },
+  "caption": "Writing Your First Prompt in Kiro\n\nThe way you prompt Kiro is different — here's why.\n\nOne Kiro tip a day. Episode 15.\n\n#KiroPrompting #FirstPrompt #PromptTips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

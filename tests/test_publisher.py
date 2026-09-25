@@ -152,7 +152,7 @@ def test_account_without_secret_is_skipped(qdir, monkeypatch):
 def test_seeded_queue_is_valid():
     accts = json.loads((ROOT / "config" / "accounts.json").read_text())
     files = sorted((ROOT / "queue").glob("*.json"))
-    assert len(files) == 146
+    assert len(files) == 292
     for f in files:
         post = json.loads(f.read_text(encoding="utf-8"))
         assert q.validate(post, accts) == [], f.name

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-13T1600_en_yt_ep020",
+  "account": "en_yt",
+  "publish_at": "2026-10-13T16:00:00+05:30",
+  "language": "en",
+  "episode": 20,
+  "video": {
+    "drive_file_id": "1ntP6HvRTqzN7a96oLo5cZDrpXovsFuYm",
+    "file_name": "Kiro-Ep020-EN.mp4"
+  },
+  "caption": "5 Kiro Settings to Change on Day One\n\nChange these 5 settings before your first real project.\n\nOne Kiro tip a day. Episode 20.\n\n#KiroSettings #DayOneSetup #Module2 #theAIgurukul",
+  "youtube": {
+    "title": "5 Kiro Settings to Change on Day One #Shorts",
+    "description": "5 Kiro Settings to Change on Day One\n\nChange these 5 settings before your first real project.\nPick your default model in Autopilot.\nSet your steering rules for code style.\nTurn on the hooks you'll actually use, and clean up the rest.\n\nEpisode 20 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroSettings #DayOneSetup #Module2 #theAIgurukul",
+    "tags": [
+      "KiroSettings",
+      "DayOneSetup",
+      "Module2",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-31T1030_en_ig_ep038",
+  "account": "en_ig",
+  "publish_at": "2026-10-31T10:30:00+05:30",
+  "language": "en",
+  "episode": 38,
+  "video": {
+    "drive_file_id": "1XdmoDy4X3I-LQBN3EaoBw8XS8cDmidoc",
+    "file_name": "Kiro-Ep038-EN.mp4"
+  },
+  "caption": "Hooks That Trigger on File Create or Delete\n\nDeleting a file can trigger a whole cleanup routine.\n\nOne Kiro tip a day. Episode 38.\n\n#FileHooks #CleanupAutomation #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

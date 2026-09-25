@@ -13,14 +13,14 @@
   },
   "en_ig": {
     "platform": "instagram",
-    "label": "English Instagram @theai_gurukul (still on Metricool)",
+    "label": "English Instagram @theai_gurukul",
     "token_secret": "IG_TOKEN_EN",
-    "enabled": false
+    "enabled": true
   },
   "en_yt": {
     "platform": "youtube",
-    "label": "English YouTube channel (still on Metricool)",
+    "label": "English YouTube channel",
     "refresh_secret": "YT_REFRESH_EN",
-    "enabled": false
+    "enabled": true
   }
 }

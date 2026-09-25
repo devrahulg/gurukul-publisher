@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-16T1600_en_yt_ep023",
+  "account": "en_yt",
+  "publish_at": "2026-10-16T16:00:00+05:30",
+  "language": "en",
+  "episode": 23,
+  "video": {
+    "drive_file_id": "1iI7WRBnjsoEPPoo8sYgtnzqcQxVZSgW9",
+    "file_name": "Kiro-Ep023-EN.mp4"
+  },
+  "caption": "EARS Notation: How Kiro Writes Requirements\n\nEARS isn't a typo — it's how Kiro writes rules.\n\nOne Kiro tip a day. Episode 23.\n\n#EARSNotation #Requirements #KiroSpecs #theAIgurukul",
+  "youtube": {
+    "title": "EARS Notation: How Kiro Writes Requirements #Shorts",
+    "description": "EARS Notation: How Kiro Writes Requirements\n\nEARS isn't a typo — it's how Kiro writes rules.\nEARS stands for Easy Approach to Requirements Syntax.\nIt writes acceptance criteria as clear if-this-then-that statements.\nNo ambiguity — the AI and you read the same rule the same way.\n\nEpisode 23 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#EARSNotation #Requirements #KiroSpecs #theAIgurukul",
+    "tags": [
+      "EARSNotation",
+      "Requirements",
+      "KiroSpecs",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

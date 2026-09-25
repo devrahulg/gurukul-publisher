@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-01T1600_en_yt_ep069",
+  "account": "en_yt",
+  "publish_at": "2026-12-01T16:00:00+05:30",
+  "language": "en",
+  "episode": 69,
+  "video": {
+    "drive_file_id": "1ehmqF6ad-IS4xBlHPP-9cl4cADq7QLbi",
+    "file_name": "Kiro-Ep069-EN.mp4"
+  },
+  "caption": "Agent Client Protocol (ACP): Kiro Everywhere\n\nKiro's agents aren't locked to Kiro's own IDE.\n\nOne Kiro tip a day. Episode 69.\n\n#ACP #AgentClientProtocol #theAIgurukul",
+  "youtube": {
+    "title": "Agent Client Protocol (ACP): Kiro Everywhere #Shorts",
+    "description": "Agent Client Protocol (ACP): Kiro Everywhere\n\nKiro's agents aren't locked to Kiro's own IDE.\nACP — Agent Client Protocol — lets Kiro's agents work across compatible tools.\nYou're not locked into one interface to use Kiro's agent power.\nIt's built for an ecosystem, not a walled garden.\n\nEpisode 69 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#ACP #AgentClientProtocol #theAIgurukul",
+    "tags": [
+      "ACP",
+      "AgentClientProtocol",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

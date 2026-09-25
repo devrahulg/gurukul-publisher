@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-10T1030_en_ig_ep048",
+  "account": "en_ig",
+  "publish_at": "2026-11-10T10:30:00+05:30",
+  "language": "en",
+  "episode": 48,
+  "video": {
+    "drive_file_id": "1DfeaQeXrtggNN5jtafagrDbztZg-vEJf",
+    "file_name": "Kiro-Ep048-EN.mp4"
+  },
+  "caption": "Steering Rules That Enforce a Code Style\n\nStop repeating yourself in every prompt.\n\nOne Kiro tip a day. Episode 48.\n\n#CodeStyle #SteeringRules #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

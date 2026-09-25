@@ -19,7 +19,7 @@ Claude (connector in mcp_server/)  reads and edits the queue, starts runs, reads
 
 ## What's in the queue now
 
-The Hindi track is queued from Oct 1 to Dec 12, 2026: 146 posts. Instagram posts go out at 10:30 IST and YouTube at 16:00 IST. Each post uses the correct episode video and the master Hindi script's title, hook and hashtags. The English accounts are still on Metricool and stay switched off in `config/accounts.json` until you move them.
+Both languages are queued from Oct 1 to Dec 12, 2026: 292 posts, 146 in English and 146 in Hindi. Instagram posts go out at 10:30 IST and YouTube at 16:00 IST, on each language's own accounts. Every post uses the correct episode video (`Kiro-EpNNN-EN.mp4` or `-HI.mp4`) and the title, hook and hashtags from that language's master script.
 
 ## Accounts
 
@@ -27,10 +27,10 @@ The Hindi track is queued from Oct 1 to Dec 12, 2026: 146 posts. Instagram posts
 |---|---|---|
 | `hi_ig` | Hindi Instagram | `IG_TOKEN_HI` |
 | `hi_yt` | Hindi YouTube channel | `YT_REFRESH_HI` |
-| `en_ig` | @theai_gurukul (off for now) | `IG_TOKEN_EN` |
-| `en_yt` | English YouTube channel (off for now) | `YT_REFRESH_EN` |
+| `en_ig` | English Instagram @theai_gurukul | `IG_TOKEN_EN` |
+| `en_yt` | English YouTube channel | `YT_REFRESH_EN` |
 
-Also required: `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`. `GH_ADMIN_TOKEN` is needed for automatic Instagram token renewal.
+Also required: `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`. `GH_ADMIN_TOKEN` is needed for automatic Instagram token renewal. An account whose secret isn't set yet is simply skipped, so you can connect them one at a time.
 
 ## Limits to know
 

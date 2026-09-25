@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-04T1600_en_yt_ep072",
+  "account": "en_yt",
+  "publish_at": "2026-12-04T16:00:00+05:30",
+  "language": "en",
+  "episode": 72,
+  "video": {
+    "drive_file_id": "1LloQQ1Y5UG_iMrhTo0dNUMVZ4sGqMKZC",
+    "file_name": "Kiro-Ep072-EN.mp4"
+  },
+  "caption": "What Autopilot Actually Picks For You\n\nAutopilot isn't picking randomly — here's the logic.\n\nOne Kiro tip a day. Episode 72.\n\n#KiroAutopilot #ModelSelection #theAIgurukul",
+  "youtube": {
+    "title": "What Autopilot Actually Picks For You #Shorts",
+    "description": "What Autopilot Actually Picks For You\n\nAutopilot isn't picking randomly — here's the logic.\nAutopilot picks the best model for each task automatically.\nIt factors in complexity, quality needed, latency, and cost.\nYou get the right model without manually switching every time.\n\nEpisode 72 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroAutopilot #ModelSelection #theAIgurukul",
+    "tags": [
+      "KiroAutopilot",
+      "ModelSelection",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

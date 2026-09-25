@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-26T1600_en_yt_ep033",
+  "account": "en_yt",
+  "publish_at": "2026-10-26T16:00:00+05:30",
+  "language": "en",
+  "episode": 33,
+  "video": {
+    "drive_file_id": "1h8ZzBojHJQMQNJ96RgxzlBiIY6YbM0dd",
+    "file_name": "Kiro-Ep033-EN.mp4"
+  },
+  "caption": "How Property Tests Catch Bugs Unit Tests Miss\n\nYour unit tests passed. Your code still had a bug.\n\nOne Kiro tip a day. Episode 33.\n\n#PropertyTesting #BugHunting #theAIgurukul",
+  "youtube": {
+    "title": "How Property Tests Catch Bugs Unit Tests Miss #Shorts",
+    "description": "How Property Tests Catch Bugs Unit Tests Miss\n\nYour unit tests passed. Your code still had a bug.\nUnit tests check the cases you thought of.\nProperty tests check the cases you didn't.\nKiro pairs both, so edge cases don't slip through to production.\n\nEpisode 33 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#PropertyTesting #BugHunting #theAIgurukul",
+    "tags": [
+      "PropertyTesting",
+      "BugHunting",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

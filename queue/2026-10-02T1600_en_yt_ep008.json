@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-02T1600_en_yt_ep008",
+  "account": "en_yt",
+  "publish_at": "2026-10-02T16:00:00+05:30",
+  "language": "en",
+  "episode": 8,
+  "video": {
+    "drive_file_id": "1LViSYDbESFzMr3h-Dv3DpSichLmm8IOc",
+    "file_name": "Kiro-Ep008-EN.mp4"
+  },
+  "caption": "Who Should Use Kiro? (Solo Devs to Enterprises)\n\nKiro isn't just for big engineering teams.\n\nOne Kiro tip a day. Episode 8.\n\n#WhoUsesKiro #EnterpriseAI #StartupTools #theAIgurukul",
+  "youtube": {
+    "title": "Who Should Use Kiro? (Solo Devs to Enterprises) #Shorts",
+    "description": "Who Should Use Kiro? (Solo Devs to Enterprises)\n\nKiro isn't just for big engineering teams.\nSolo developers use it to move fast without losing structure.\nStartups use it to get to production without a huge team.\nEnterprises use it for governance, SSO, and IP indemnity at scale.\n\nEpisode 8 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#WhoUsesKiro #EnterpriseAI #StartupTools #theAIgurukul",
+    "tags": [
+      "WhoUsesKiro",
+      "EnterpriseAI",
+      "StartupTools",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

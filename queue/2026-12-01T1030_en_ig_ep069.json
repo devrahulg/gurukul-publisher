@@ -1,0 +1,14 @@
+{
+  "id": "2026-12-01T1030_en_ig_ep069",
+  "account": "en_ig",
+  "publish_at": "2026-12-01T10:30:00+05:30",
+  "language": "en",
+  "episode": 69,
+  "video": {
+    "drive_file_id": "1ehmqF6ad-IS4xBlHPP-9cl4cADq7QLbi",
+    "file_name": "Kiro-Ep069-EN.mp4"
+  },
+  "caption": "Agent Client Protocol (ACP): Kiro Everywhere\n\nKiro's agents aren't locked to Kiro's own IDE.\n\nOne Kiro tip a day. Episode 69.\n\n#ACP #AgentClientProtocol #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

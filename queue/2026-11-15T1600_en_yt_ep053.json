@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-15T1600_en_yt_ep053",
+  "account": "en_yt",
+  "publish_at": "2026-11-15T16:00:00+05:30",
+  "language": "en",
+  "episode": 53,
+  "video": {
+    "drive_file_id": "1O72rlGpYOsKU8Rju5pQ7sTC5W7H7scUp",
+    "file_name": "Kiro-Ep053-EN.mp4"
+  },
+  "caption": "Common Steering Mistakes (and How to Avoid Them)\n\nThis steering mistake makes Kiro ignore half your rules.\n\nOne Kiro tip a day. Episode 53.\n\n#SteeringMistakes #KiroTips #theAIgurukul",
+  "youtube": {
+    "title": "Common Steering Mistakes (and How to Avoid Them) #Shorts",
+    "description": "Common Steering Mistakes (and How to Avoid Them)\n\nThis steering mistake makes Kiro ignore half your rules.\nVague rules like 'write good code' don't steer anything.\nBe specific: naming patterns, error formats, preferred libraries.\nSpecific rules get followed; vague ones get guessed at.\n\nEpisode 53 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SteeringMistakes #KiroTips #theAIgurukul",
+    "tags": [
+      "SteeringMistakes",
+      "KiroTips",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

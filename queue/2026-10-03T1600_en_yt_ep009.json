@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-03T1600_en_yt_ep009",
+  "account": "en_yt",
+  "publish_at": "2026-10-03T16:00:00+05:30",
+  "language": "en",
+  "episode": 9,
+  "video": {
+    "drive_file_id": "17QNYYB0EAgBNf2wNvxQJnXuzmf7J5aWi",
+    "file_name": "Kiro-Ep009-EN.mp4"
+  },
+  "caption": "Kiro's Founding Problem: Prototypes That Never Ship\n\nSound familiar? Great demo, dead project.\n\nOne Kiro tip a day. Episode 9.\n\n#PrototypeToProduction #AIEngineering #theAIgurukul",
+  "youtube": {
+    "title": "Kiro's Founding Problem: Prototypes That Never Ship #Shorts",
+    "description": "Kiro's Founding Problem: Prototypes That Never Ship\n\nSound familiar? Great demo, dead project.\nAI made prototyping trivial — but most AI-built prototypes never reach production.\nNo docs, no clarity on design decisions, no validated requirements.\nKiro's entire premise is fixing exactly that failure point.\n\nEpisode 9 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#PrototypeToProduction #AIEngineering #theAIgurukul",
+    "tags": [
+      "PrototypeToProduction",
+      "AIEngineering",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

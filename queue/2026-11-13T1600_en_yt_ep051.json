@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13T1600_en_yt_ep051",
+  "account": "en_yt",
+  "publish_at": "2026-11-13T16:00:00+05:30",
+  "language": "en",
+  "episode": 51,
+  "video": {
+    "drive_file_id": "1znj-_e3GCCTozF_AGu6CUr62zh-FJV1X",
+    "file_name": "Kiro-Ep051-EN.mp4"
+  },
+  "caption": "Skills.md: Teaching Kiro Custom Capabilities\n\nGive Kiro a brand new skill it didn't ship with.\n\nOne Kiro tip a day. Episode 51.\n\n#SkillsMD #KiroCustomization #theAIgurukul",
+  "youtube": {
+    "title": "Skills.md: Teaching Kiro Custom Capabilities #Shorts",
+    "description": "Skills.md: Teaching Kiro Custom Capabilities\n\nGive Kiro a brand new skill it didn't ship with.\nSkills.md lets you define custom capabilities for Kiro's agents.\nDocument a workflow once, and Kiro can execute it on demand.\nIt's how you extend Kiro beyond its defaults.\n\nEpisode 51 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SkillsMD #KiroCustomization #theAIgurukul",
+    "tags": [
+      "SkillsMD",
+      "KiroCustomization",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

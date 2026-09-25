@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-05T1030_en_ig_ep012",
+  "account": "en_ig",
+  "publish_at": "2026-10-05T10:30:00+05:30",
+  "language": "en",
+  "episode": 12,
+  "video": {
+    "drive_file_id": "1rS7yFerzs2xLROaNPXbZshBg1u9e31Xi",
+    "file_name": "Kiro-Ep012-EN.mp4"
+  },
+  "caption": "Your First Kiro Project, Start to Finish\n\nWatch a Kiro project go from idea to shipped feature.\n\nOne Kiro tip a day. Episode 12.\n\n#FirstProject #KiroDemo #SpecFlow #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

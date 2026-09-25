@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-06T1600_en_yt_ep044",
+  "account": "en_yt",
+  "publish_at": "2026-11-06T16:00:00+05:30",
+  "language": "en",
+  "episode": 44,
+  "video": {
+    "drive_file_id": "10w9RyraAUdQQFny7P2iJLvwUdjNhKDrY",
+    "file_name": "Kiro-Ep044-EN.mp4"
+  },
+  "caption": "Debugging a Hook That Isn't Firing\n\nYour hook isn't running? Check these first.\n\nOne Kiro tip a day. Episode 44.\n\n#HookDebugging #Troubleshooting #theAIgurukul",
+  "youtube": {
+    "title": "Debugging a Hook That Isn't Firing #Shorts",
+    "description": "Debugging a Hook That Isn't Firing\n\nYour hook isn't running? Check these first.\nConfirm the trigger event actually matches your file pattern.\nCheck the hook is enabled, not just saved.\nLook at Kiro's hook logs for the exact failure reason.\n\nEpisode 44 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#HookDebugging #Troubleshooting #theAIgurukul",
+    "tags": [
+      "HookDebugging",
+      "Troubleshooting",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

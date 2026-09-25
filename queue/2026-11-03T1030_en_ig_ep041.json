@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-03T1030_en_ig_ep041",
+  "account": "en_ig",
+  "publish_at": "2026-11-03T10:30:00+05:30",
+  "language": "en",
+  "episode": 41,
+  "video": {
+    "drive_file_id": "1kVocJbsHyPRn3ByutMv8Dg75HxwkwZwP",
+    "file_name": "Kiro-Ep041-EN.mp4"
+  },
+  "caption": "Automating Tests With a Kiro Hook\n\nNever manually run your test suite again.\n\nOne Kiro tip a day. Episode 41.\n\n#TestAutomation #AgentHooks #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-08T1600_en_yt_ep076",
+  "account": "en_yt",
+  "publish_at": "2026-12-08T16:00:00+05:30",
+  "language": "en",
+  "episode": 76,
+  "video": {
+    "drive_file_id": "1fTN-tZZdXTvcghyTMT7JuGUOF-l6iWAo",
+    "file_name": "Kiro-Ep076-EN.mp4"
+  },
+  "caption": "Cloud Sessions: Let Kiro Keep Working Offline\n\nClose your laptop. Kiro keeps going.\n\nOne Kiro tip a day. Episode 76.\n\n#CloudSessions #KiroCloud #theAIgurukul",
+  "youtube": {
+    "title": "Cloud Sessions: Let Kiro Keep Working Offline #Shorts",
+    "description": "Cloud Sessions: Let Kiro Keep Working Offline\n\nClose your laptop. Kiro keeps going.\nCloud sessions are persistent — they keep running when you disconnect.\nStart a task, close your laptop, come back to progress.\nGreat for long-running builds that don't need you watching.\n\nEpisode 76 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#CloudSessions #KiroCloud #theAIgurukul",
+    "tags": [
+      "CloudSessions",
+      "KiroCloud",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

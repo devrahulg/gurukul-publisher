@@ -1,0 +1,30 @@
+{
+  "id": "2026-12-07T1600_en_yt_ep075",
+  "account": "en_yt",
+  "publish_at": "2026-12-07T16:00:00+05:30",
+  "language": "en",
+  "episode": 75,
+  "video": {
+    "drive_file_id": "1V8G9wkxFEFXjwuOMhFt7q1HBlt9ooZU8",
+    "file_name": "Kiro-Ep075-EN.mp4"
+  },
+  "caption": "Choosing Between Claude, Deepseek, and MiniMax in Kiro\n\nKiro gives you a real choice of AI models.\n\nOne Kiro tip a day. Episode 75.\n\n#KiroModels #ClaudeAI #ModelChoice #theAIgurukul",
+  "youtube": {
+    "title": "Choosing Between Claude, Deepseek, and MiniMax in Kiro #Shorts",
+    "description": "Choosing Between Claude, Deepseek, and MiniMax in Kiro\n\nKiro gives you a real choice of AI models.\nKiro supports Claude Opus, Sonnet, and Haiku, alongside Deepseek v3.2 and MiniMax M2.5.\nPick manually for a specific task, or let Auto mode choose.\nDifferent models, different tradeoffs — Kiro doesn't lock you to one.\n\nEpisode 75 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroModels #ClaudeAI #ModelChoice #theAIgurukul",
+    "tags": [
+      "KiroModels",
+      "ClaudeAI",
+      "ModelChoice",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

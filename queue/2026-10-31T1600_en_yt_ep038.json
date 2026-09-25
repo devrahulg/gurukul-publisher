@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-31T1600_en_yt_ep038",
+  "account": "en_yt",
+  "publish_at": "2026-10-31T16:00:00+05:30",
+  "language": "en",
+  "episode": 38,
+  "video": {
+    "drive_file_id": "1XdmoDy4X3I-LQBN3EaoBw8XS8cDmidoc",
+    "file_name": "Kiro-Ep038-EN.mp4"
+  },
+  "caption": "Hooks That Trigger on File Create or Delete\n\nDeleting a file can trigger a whole cleanup routine.\n\nOne Kiro tip a day. Episode 38.\n\n#FileHooks #CleanupAutomation #theAIgurukul",
+  "youtube": {
+    "title": "Hooks That Trigger on File Create or Delete #Shorts",
+    "description": "Hooks That Trigger on File Create or Delete\n\nDeleting a file can trigger a whole cleanup routine.\nCreate-triggered hooks can scaffold boilerplate the moment a new file appears.\nDelete-triggered hooks can clean up related test files or imports.\nIt's automation tied to your actual file lifecycle.\n\nEpisode 38 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#FileHooks #CleanupAutomation #theAIgurukul",
+    "tags": [
+      "FileHooks",
+      "CleanupAutomation",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-01T1600_en_yt_ep039",
+  "account": "en_yt",
+  "publish_at": "2026-11-01T16:00:00+05:30",
+  "language": "en",
+  "episode": 39,
+  "video": {
+    "drive_file_id": "15Sj64t8gE7sl1cY1ZPhAfDVYK74-t9fU",
+    "file_name": "Kiro-Ep039-EN.mp4"
+  },
+  "caption": "Manual Hooks: Running a Task On Demand\n\nNot every automation should run automatically.\n\nOne Kiro tip a day. Episode 39.\n\n#ManualHooks #OnDemandAutomation #theAIgurukul",
+  "youtube": {
+    "title": "Manual Hooks: Running a Task On Demand #Shorts",
+    "description": "Manual Hooks: Running a Task On Demand\n\nNot every automation should run automatically.\nManual hooks sit ready but only fire when you trigger them.\nPerfect for expensive tasks like full test suites or deploys.\nOne click instead of a whole terminal command sequence.\n\nEpisode 39 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#ManualHooks #OnDemandAutomation #theAIgurukul",
+    "tags": [
+      "ManualHooks",
+      "OnDemandAutomation",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

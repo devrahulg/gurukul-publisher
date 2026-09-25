@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-30T1600_en_yt_ep068",
+  "account": "en_yt",
+  "publish_at": "2026-11-30T16:00:00+05:30",
+  "language": "en",
+  "episode": 68,
+  "video": {
+    "drive_file_id": "1tmWFeFSCzF3KqVzTk08x3UZdWg28X-a3",
+    "file_name": "Kiro-Ep068-EN.mp4"
+  },
+  "caption": "Kiro in Your CI/CD Pipeline\n\nKiro isn't just for your local machine.\n\nOne Kiro tip a day. Episode 68.\n\n#KiroCICD #DevOps #theAIgurukul",
+  "youtube": {
+    "title": "Kiro in Your CI/CD Pipeline #Shorts",
+    "description": "Kiro in Your CI/CD Pipeline\n\nKiro isn't just for your local machine.\nThe headless Kiro CLI runs inside CI/CD pipelines.\nIt can execute specs and tasks as part of your build.\nAgentic development, automated all the way to deploy.\n\nEpisode 68 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroCICD #DevOps #theAIgurukul",
+    "tags": [
+      "KiroCICD",
+      "DevOps",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

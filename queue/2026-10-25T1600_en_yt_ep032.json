@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-25T1600_en_yt_ep032",
+  "account": "en_yt",
+  "publish_at": "2026-10-25T16:00:00+05:30",
+  "language": "en",
+  "episode": 32,
+  "video": {
+    "drive_file_id": "180wy_xs1ByVxHzJQt111rTBo66GG1Z81",
+    "file_name": "Kiro-Ep032-EN.mp4"
+  },
+  "caption": "Property-Based Testing: Kiro's Secret Weapon\n\nThis testing method catches bugs your unit tests never will.\n\nOne Kiro tip a day. Episode 32.\n\n#PropertyBasedTesting #FuzzTesting #QualityControl #theAIgurukul",
+  "youtube": {
+    "title": "Property-Based Testing: Kiro's Secret Weapon #Shorts",
+    "description": "Property-Based Testing: Kiro's Secret Weapon\n\nThis testing method catches bugs your unit tests never will.\nProperty-based testing uses fuzz-testing style checks for correctness.\nInstead of one input, it throws hundreds of edge cases at your code.\nKiro can generate these automatically from your requirements.\n\nEpisode 32 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#PropertyBasedTesting #FuzzTesting #QualityControl #theAIgurukul",
+    "tags": [
+      "PropertyBasedTesting",
+      "FuzzTesting",
+      "QualityControl",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

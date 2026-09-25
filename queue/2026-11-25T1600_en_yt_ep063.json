@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-25T1600_en_yt_ep063",
+  "account": "en_yt",
+  "publish_at": "2026-11-25T16:00:00+05:30",
+  "language": "en",
+  "episode": 63,
+  "video": {
+    "drive_file_id": "1itfLprepvEhNzHcWQGQ140uHnXh7wJi0",
+    "file_name": "Kiro-Ep063-EN.mp4"
+  },
+  "caption": "Kiro + Supabase: Backend in Minutes\n\nA working backend, before your coffee gets cold.\n\nOne Kiro tip a day. Episode 63.\n\n#KiroSupabase #BackendDev #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Supabase: Backend in Minutes #Shorts",
+    "description": "Kiro + Supabase: Backend in Minutes\n\nA working backend, before your coffee gets cold.\nThe Supabase power connects Kiro directly to your database and auth.\nKiro can scaffold tables, policies, and endpoints together.\nA real backend in the time it takes to describe one.\n\nEpisode 63 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroSupabase #BackendDev #theAIgurukul",
+    "tags": [
+      "KiroSupabase",
+      "BackendDev",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

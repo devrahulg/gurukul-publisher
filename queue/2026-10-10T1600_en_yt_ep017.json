@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-10T1600_en_yt_ep017",
+  "account": "en_yt",
+  "publish_at": "2026-10-10T16:00:00+05:30",
+  "language": "en",
+  "episode": 17,
+  "video": {
+    "drive_file_id": "1RL1ORuNp8RuQ0yaxiFOr8brX2X4G3fyg",
+    "file_name": "Kiro-Ep017-EN.mp4"
+  },
+  "caption": "Reviewing a Kiro-Generated Spec Before Coding Starts\n\nNever skip this step. Ever.\n\nOne Kiro tip a day. Episode 17.\n\n#SpecReview #KiroBestPractice #QualityControl #theAIgurukul",
+  "youtube": {
+    "title": "Reviewing a Kiro-Generated Spec Before Coding Starts #Shorts",
+    "description": "Reviewing a Kiro-Generated Spec Before Coding Starts\n\nNever skip this step. Ever.\nAlways read the requirements before approving.\nCheck the design doc's data flow and API choices match your intent.\nCatching a bad assumption here saves hours of rework later.\n\nEpisode 17 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SpecReview #KiroBestPractice #QualityControl #theAIgurukul",
+    "tags": [
+      "SpecReview",
+      "KiroBestPractice",
+      "QualityControl",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

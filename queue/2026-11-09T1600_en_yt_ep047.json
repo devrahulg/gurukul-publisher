@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-09T1600_en_yt_ep047",
+  "account": "en_yt",
+  "publish_at": "2026-11-09T16:00:00+05:30",
+  "language": "en",
+  "episode": 47,
+  "video": {
+    "drive_file_id": "18YCUF_NIxFPKeReZ1AoI3ctM6o6LtYCc",
+    "file_name": "Kiro-Ep047-EN.mp4"
+  },
+  "caption": "Writing Your First Steering File\n\nYour first steering file takes under 2 minutes.\n\nOne Kiro tip a day. Episode 47.\n\n#SteeringFile #GettingStarted #theAIgurukul",
+  "youtube": {
+    "title": "Writing Your First Steering File #Shorts",
+    "description": "Writing Your First Steering File\n\nYour first steering file takes under 2 minutes.\nCreate a steering file describing your preferred patterns.\nNaming conventions, error handling style, preferred libraries — spell it out.\nKiro applies it to every future spec and task automatically.\n\nEpisode 47 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SteeringFile #GettingStarted #theAIgurukul",
+    "tags": [
+      "SteeringFile",
+      "GettingStarted",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

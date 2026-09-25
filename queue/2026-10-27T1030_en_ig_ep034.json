@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-27T1030_en_ig_ep034",
+  "account": "en_ig",
+  "publish_at": "2026-10-27T10:30:00+05:30",
+  "language": "en",
+  "episode": 34,
+  "video": {
+    "drive_file_id": "1I0BQtfOMYmaSu27n17rz5ToL5qKREDko",
+    "file_name": "Kiro-Ep034-EN.mp4"
+  },
+  "caption": "Data Flow Diagrams: What Kiro Draws For You\n\nKiro draws your architecture before you write a word of code.\n\nOne Kiro tip a day. Episode 34.\n\n#DataFlowDiagrams #KiroDesign #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

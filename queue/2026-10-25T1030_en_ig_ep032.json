@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-25T1030_en_ig_ep032",
+  "account": "en_ig",
+  "publish_at": "2026-10-25T10:30:00+05:30",
+  "language": "en",
+  "episode": 32,
+  "video": {
+    "drive_file_id": "180wy_xs1ByVxHzJQt111rTBo66GG1Z81",
+    "file_name": "Kiro-Ep032-EN.mp4"
+  },
+  "caption": "Property-Based Testing: Kiro's Secret Weapon\n\nThis testing method catches bugs your unit tests never will.\n\nOne Kiro tip a day. Episode 32.\n\n#PropertyBasedTesting #FuzzTesting #QualityControl #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

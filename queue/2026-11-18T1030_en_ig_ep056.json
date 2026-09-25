@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-18T1030_en_ig_ep056",
+  "account": "en_ig",
+  "publish_at": "2026-11-18T10:30:00+05:30",
+  "language": "en",
+  "episode": 56,
+  "video": {
+    "drive_file_id": "1Lixf1lGFlic6OCHbB2yFDIW2fBLaq6Pm",
+    "file_name": "Kiro-Ep056-EN.mp4"
+  },
+  "caption": "What Is MCP and Why Kiro Uses It\n\nThis protocol is why Kiro can talk to almost any tool.\n\nOne Kiro tip a day. Episode 56.\n\n#MCP #ModelContextProtocol #KiroIntegrations #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

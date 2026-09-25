@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-06T1030_en_ig_ep013",
+  "account": "en_ig",
+  "publish_at": "2026-10-06T10:30:00+05:30",
+  "language": "en",
+  "episode": 13,
+  "video": {
+    "drive_file_id": "1SjhZ7gOX2zxcH9A0C12BfHzbg2UCzicb",
+    "file_name": "Kiro-Ep013-EN.mp4"
+  },
+  "caption": "Importing an Existing VS Code Setup Into Kiro\n\nDon't rebuild your setup. Import it.\n\nOne Kiro tip a day. Episode 13.\n\n#VSCodeMigration #OpenVSX #KiroSetup #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

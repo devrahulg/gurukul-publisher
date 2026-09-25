@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-16T1600_en_yt_ep054",
+  "account": "en_yt",
+  "publish_at": "2026-11-16T16:00:00+05:30",
+  "language": "en",
+  "episode": 54,
+  "video": {
+    "drive_file_id": "1qDlf0eYoIqyBzJJShW9BJ409VQCVbie8",
+    "file_name": "Kiro-Ep054-EN.mp4"
+  },
+  "caption": "Steering vs Specs: What's the Difference?\n\nPeople mix these up constantly. Here's the real difference.\n\nOne Kiro tip a day. Episode 54.\n\n#SteeringVsSpecs #KiroConcepts #theAIgurukul",
+  "youtube": {
+    "title": "Steering vs Specs: What's the Difference? #Shorts",
+    "description": "Steering vs Specs: What's the Difference?\n\nPeople mix these up constantly. Here's the real difference.\nSpecs define what a specific feature should do.\nSteering defines how Kiro should behave across every feature.\nOne is per-task, the other is always-on.\n\nEpisode 54 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SteeringVsSpecs #KiroConcepts #theAIgurukul",
+    "tags": [
+      "SteeringVsSpecs",
+      "KiroConcepts",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

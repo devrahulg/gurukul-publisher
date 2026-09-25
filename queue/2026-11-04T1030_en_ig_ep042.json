@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-04T1030_en_ig_ep042",
+  "account": "en_ig",
+  "publish_at": "2026-11-04T10:30:00+05:30",
+  "language": "en",
+  "episode": 42,
+  "video": {
+    "drive_file_id": "1Of1nF6nucq8N8hP9Oe_UJcWo79Rp_usb",
+    "file_name": "Kiro-Ep042-EN.mp4"
+  },
+  "caption": "Automating Docs Updates With a Kiro Hook\n\nYour docs never go stale again.\n\nOne Kiro tip a day. Episode 42.\n\n#DocsAutomation #KiroHooks #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

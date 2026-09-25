@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-10T1600_en_yt_ep048",
+  "account": "en_yt",
+  "publish_at": "2026-11-10T16:00:00+05:30",
+  "language": "en",
+  "episode": 48,
+  "video": {
+    "drive_file_id": "1DfeaQeXrtggNN5jtafagrDbztZg-vEJf",
+    "file_name": "Kiro-Ep048-EN.mp4"
+  },
+  "caption": "Steering Rules That Enforce a Code Style\n\nStop repeating yourself in every prompt.\n\nOne Kiro tip a day. Episode 48.\n\n#CodeStyle #SteeringRules #theAIgurukul",
+  "youtube": {
+    "title": "Steering Rules That Enforce a Code Style #Shorts",
+    "description": "Steering Rules That Enforce a Code Style\n\nStop repeating yourself in every prompt.\nInstead of saying 'use tabs, not spaces' every time, steer it once.\nKiro applies that rule to every file it touches.\nConsistency without constant reminders.\n\nEpisode 48 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#CodeStyle #SteeringRules #theAIgurukul",
+    "tags": [
+      "CodeStyle",
+      "SteeringRules",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

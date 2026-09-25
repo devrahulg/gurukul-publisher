@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-26T1030_en_ig_ep033",
+  "account": "en_ig",
+  "publish_at": "2026-10-26T10:30:00+05:30",
+  "language": "en",
+  "episode": 33,
+  "video": {
+    "drive_file_id": "1h8ZzBojHJQMQNJ96RgxzlBiIY6YbM0dd",
+    "file_name": "Kiro-Ep033-EN.mp4"
+  },
+  "caption": "How Property Tests Catch Bugs Unit Tests Miss\n\nYour unit tests passed. Your code still had a bug.\n\nOne Kiro tip a day. Episode 33.\n\n#PropertyTesting #BugHunting #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

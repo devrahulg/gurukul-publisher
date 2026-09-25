@@ -1,0 +1,14 @@
+{
+  "id": "2026-12-05T1030_en_ig_ep073",
+  "account": "en_ig",
+  "publish_at": "2026-12-05T10:30:00+05:30",
+  "language": "en",
+  "episode": 73,
+  "video": {
+    "drive_file_id": "1lO2fmDQUdHfvdR_T6sIOFpjXxkVAc05a",
+    "file_name": "Kiro-Ep073-EN.mp4"
+  },
+  "caption": "Parallel Agents: Multiple Kiros Working at Once\n\nWhy run one agent when you can run three?\n\nOne Kiro tip a day. Episode 73.\n\n#ParallelAgents #MultiAgent #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

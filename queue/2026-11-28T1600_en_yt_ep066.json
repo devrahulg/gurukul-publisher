@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-28T1600_en_yt_ep066",
+  "account": "en_yt",
+  "publish_at": "2026-11-28T16:00:00+05:30",
+  "language": "en",
+  "episode": 66,
+  "video": {
+    "drive_file_id": "1wn0guTy7SQHZgOXDabOAfYMxFsq_6naZ",
+    "file_name": "Kiro-Ep066-EN.mp4"
+  },
+  "caption": "Kiro + GitHub and GitLab: PRs From Your IDE\n\nKiro can open your pull request for you.\n\nOne Kiro tip a day. Episode 66.\n\n#KiroGitHub #KiroGitLab #PRAutomation #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + GitHub and GitLab: PRs From Your IDE #Shorts",
+    "description": "Kiro + GitHub and GitLab: PRs From Your IDE\n\nKiro can open your pull request for you.\nGitHub and GitLab integrations let Kiro manage PRs directly.\nIt can create branches, commits, and pull requests from a finished task.\nYour whole spec-to-PR flow stays inside one tool.\n\nEpisode 66 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroGitHub #KiroGitLab #PRAutomation #theAIgurukul",
+    "tags": [
+      "KiroGitHub",
+      "KiroGitLab",
+      "PRAutomation",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

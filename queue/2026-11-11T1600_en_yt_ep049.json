@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11T1600_en_yt_ep049",
+  "account": "en_yt",
+  "publish_at": "2026-11-11T16:00:00+05:30",
+  "language": "en",
+  "episode": 49,
+  "video": {
+    "drive_file_id": "1VaxvFhWLAV33-R7OEI9CcnQ69lIj9CCC",
+    "file_name": "Kiro-Ep049-EN.mp4"
+  },
+  "caption": "Steering Across an Entire Team's Kiro Setup\n\nGet your whole team's Kiro agents on the same page.\n\nOne Kiro tip a day. Episode 49.\n\n#TeamSteering #KiroForTeams #theAIgurukul",
+  "youtube": {
+    "title": "Steering Across an Entire Team's Kiro Setup #Shorts",
+    "description": "Steering Across an Entire Team's Kiro Setup\n\nGet your whole team's Kiro agents on the same page.\nSteering files can be shared and version-controlled with your repo.\nEvery teammate's Kiro instance follows the same rules.\nOne shared standard instead of ten different AI habits.\n\nEpisode 49 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#TeamSteering #KiroForTeams #theAIgurukul",
+    "tags": [
+      "TeamSteering",
+      "KiroForTeams",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

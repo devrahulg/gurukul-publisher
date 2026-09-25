@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-14T1030_en_ig_ep052",
+  "account": "en_ig",
+  "publish_at": "2026-11-14T10:30:00+05:30",
+  "language": "en",
+  "episode": 52,
+  "video": {
+    "drive_file_id": "1PM151TsLzXOgo1QPZqFR7NxbOzxzJoLE",
+    "file_name": "Kiro-Ep052-EN.mp4"
+  },
+  "caption": "Syncing Steering Rules Across Kiro IDE, CLI, and Web\n\nSet your rules once. They follow you everywhere.\n\nOne Kiro tip a day. Episode 52.\n\n#CrossPlatform #SteeringSync #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

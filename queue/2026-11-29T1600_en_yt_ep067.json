@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-29T1600_en_yt_ep067",
+  "account": "en_yt",
+  "publish_at": "2026-11-29T16:00:00+05:30",
+  "language": "en",
+  "episode": 67,
+  "video": {
+    "drive_file_id": "1qcNOO5ObETRMpVL0kx3IM0fwX2HEigqs",
+    "file_name": "Kiro-Ep067-EN.mp4"
+  },
+  "caption": "Kiro + Terraform: Infrastructure as Actual Code\n\nKiro doesn't stop at application code.\n\nOne Kiro tip a day. Episode 67.\n\n#KiroTerraform #InfrastructureAsCode #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Terraform: Infrastructure as Actual Code #Shorts",
+    "description": "Kiro + Terraform: Infrastructure as Actual Code\n\nKiro doesn't stop at application code.\nThe Terraform integration lets Kiro write real infrastructure-as-code.\nSpecs can define infra requirements the same way they define features.\nYour app and its infrastructure ship from the same pipeline.\n\nEpisode 67 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroTerraform #InfrastructureAsCode #theAIgurukul",
+    "tags": [
+      "KiroTerraform",
+      "InfrastructureAsCode",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

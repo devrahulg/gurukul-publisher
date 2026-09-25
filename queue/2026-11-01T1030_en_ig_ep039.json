@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-01T1030_en_ig_ep039",
+  "account": "en_ig",
+  "publish_at": "2026-11-01T10:30:00+05:30",
+  "language": "en",
+  "episode": 39,
+  "video": {
+    "drive_file_id": "15Sj64t8gE7sl1cY1ZPhAfDVYK74-t9fU",
+    "file_name": "Kiro-Ep039-EN.mp4"
+  },
+  "caption": "Manual Hooks: Running a Task On Demand\n\nNot every automation should run automatically.\n\nOne Kiro tip a day. Episode 39.\n\n#ManualHooks #OnDemandAutomation #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

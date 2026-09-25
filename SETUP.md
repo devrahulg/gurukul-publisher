@@ -42,28 +42,28 @@ Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
    ```
    python tools/google_auth.py C:\path\to\client_secret.json
    ```
-   Sign in and pick the **Hindi channel** when Google asks which account or channel to use. The script prints the connected channel's name and a refresh token.
+   Sign in and pick the **English channel** when Google asks which account or channel to use. The script prints the connected channel's name and a refresh token.
+   Then run the same command a second time and pick the **Hindi channel**.
 6. In the GitHub repo, go to **Settings → Secrets and variables → Actions → New repository secret** and add:
    - `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` (from the JSON file)
-   - `YT_REFRESH_HI` (the printed token)
-
-   Later, to move the English channel off Metricool, run the script again, pick the English channel, and save the token as `YT_REFRESH_EN`.
+   - `YT_REFRESH_EN` (the token printed for the English channel)
+   - `YT_REFRESH_HI` (the token printed for the Hindi channel)
 
 ## 4. Ask YouTube to allow public uploads (5 min, then wait)
 
-New Google Cloud projects can upload **only as private** until YouTube audits them. Fill in the **YouTube API Services – Audit and Quota Extension form** (search that name, or use <https://support.google.com/youtube/contact/yt_api_form>). Describe the use as: *"Internal tool that uploads and schedules my own educational Shorts to my own two channels."*
+New Google Cloud projects can upload **only as private** until YouTube audits them. Fill in the **YouTube API Services – Audit and Quota Extension form** (search that name, or use <https://support.google.com/youtube/contact/yt_api_form>). Describe the use as: *"Internal tool that uploads and schedules my own educational Shorts to my own two channels (English and Hindi)."*
 
-Until it's approved, the publisher still uploads every Hindi video on time as private. In YouTube Studio, select them and set each to Public or Scheduled. It takes about 2 minutes a week.
+Until it's approved, the publisher still uploads every video on time, in both languages, as private. In YouTube Studio, select them and set each to Public or Scheduled. It takes about 2 minutes a week.
 
 ## 5. Instagram (20 min)
 
-1. In the Instagram app, switch the Hindi account to **Professional** (Business or Creator).
+1. In the Instagram app, make sure both accounts are **Professional** (Business or Creator). @theai_gurukul already is, because Metricool needs that. Switch the Hindi account too.
 2. Go to <https://developers.facebook.com> → **My Apps → Create app**. Pick the use case **Manage messaging & content on Instagram**.
 3. In the app, open **Instagram → API setup with Instagram login**.
-   - Under **Generate access tokens**, click **Add account** and sign in with the Hindi Instagram account. If asked to accept a tester invite, open Instagram → **Settings → Website permissions → Apps and websites → Tester invites** and accept.
+   - Under **Generate access tokens**, click **Add account** and sign in with @theai_gurukul. Then do it again with the Hindi account. If asked to accept a tester invite, open Instagram → **Settings → Website permissions → Apps and websites → Tester invites** and accept.
    - Make sure the permissions include `instagram_business_basic` and `instagram_business_content_publish`.
-   - Click **Generate token** next to the account and copy it. This token lasts 60 days, and the publisher renews it every Sunday.
-4. Add it as the GitHub secret `IG_TOKEN_HI`.
+   - Click **Generate token** next to each account and copy it. Each token lasts 60 days, and the publisher renews them every Sunday.
+4. Add them as the GitHub secrets `IG_TOKEN_EN` (@theai_gurukul) and `IG_TOKEN_HI` (Hindi account).
 
 Leave the app in **Development** mode. Your own accounts don't need Meta's App Review.
 
@@ -99,13 +99,13 @@ Save it as the repo secret `GH_ADMIN_TOKEN`.
 ## 8. First run
 
 1. Repo **Actions** tab → enable workflows if GitHub asks.
-2. Run **stats → Run workflow**. `stats/latest.json` should show the Hindi channel and Instagram account.
+2. Run **stats → Run workflow**. `stats/latest.json` should show all four accounts: two YouTube channels and two Instagram accounts.
 3. Run **publish → Run workflow**. The log lists what it uploaded or published. Posts dated before today are marked `missed`, which is expected.
 4. Tell Claude: *"check the publisher"*.
 
-## Before switching Hindi fully over
+## Switching off Metricool
 
-Metricool still has the Hindi posts scheduled on the **English** accounts. Once the first Hindi post goes out through the publisher, ask Claude to turn those Metricool posts into drafts. That stops the duplicates and frees your Metricool monthly post allowance for English.
+Metricool still has the same episodes scheduled through Dec 12. Its English posts go to your English accounts, and its Hindi copies also go to the English accounts. As soon as the publisher's first post succeeds, ask Claude to turn every remaining Metricool post into a draft. That stops duplicates on both languages. After that, Metricool is only needed for its analytics, which stay free.
 
 ---
 
@@ -113,9 +113,9 @@ Metricool still has the Hindi posts scheduled on the **English** accounts. Once 
 
 | What you see | Fix |
 |---|---|
-| `secret YT_REFRESH_HI not set` in the run summary | Add the secret (step 3.6) |
+| `secret YT_REFRESH_HI not set` (or `_EN`) in the run summary | Add the secret (step 3.6) |
 | Google `invalid_grant` | The consent screen was still in Testing. Publish it (3.3) and run `google_auth.py` again |
 | YouTube `uploadLimitExceeded` / `quotaExceeded` | Wait a day. The default quota is plenty for 2 videos a day |
 | Instagram `Media URL not reachable` | Pages isn't enabled (step 2). The post retries next run |
-| Instagram token error / code 190 | Generate a new token (5.3) and replace `IG_TOKEN_HI` |
+| Instagram token error / code 190 | Generate a new token (5.3) and replace `IG_TOKEN_EN` or `IG_TOKEN_HI` |
 | Everything shows `missed` | The workflow was disabled or never ran. Check the Actions tab |

@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-22T1030_en_ig_ep060",
+  "account": "en_ig",
+  "publish_at": "2026-11-22T10:30:00+05:30",
+  "language": "en",
+  "episode": 60,
+  "video": {
+    "drive_file_id": "1sMk4clgv2VCdeU4Z_rUl6Spu4jfg1SR8",
+    "file_name": "Kiro-Ep060-EN.mp4"
+  },
+  "caption": "Kiro + Datadog: Monitoring Without Leaving Kiro\n\nSee production issues without leaving your editor.\n\nOne Kiro tip a day. Episode 60.\n\n#KiroDatadog #Monitoring #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

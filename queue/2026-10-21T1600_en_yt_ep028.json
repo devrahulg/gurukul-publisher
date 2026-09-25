@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-21T1600_en_yt_ep028",
+  "account": "en_yt",
+  "publish_at": "2026-10-21T16:00:00+05:30",
+  "language": "en",
+  "episode": 28,
+  "video": {
+    "drive_file_id": "1Waw1J9foNigLzoyPI4GfiIVXwoWrFNz2",
+    "file_name": "Kiro-Ep028-EN.mp4"
+  },
+  "caption": "Automated Reasoning: Kiro Catches Contradictions Early\n\nKiro can catch a bad requirement before you waste a day on it.\n\nOne Kiro tip a day. Episode 28.\n\n#AutomatedReasoning #QualityControl #KiroSpecs #theAIgurukul",
+  "youtube": {
+    "title": "Automated Reasoning: Kiro Catches Contradictions Early #Shorts",
+    "description": "Automated Reasoning: Kiro Catches Contradictions Early\n\nKiro can catch a bad requirement before you waste a day on it.\nAutomated reasoning checks requirements for contradictions and gaps before implementation starts.\nIt flags things like conflicting acceptance criteria automatically.\nCatching this at the spec stage is a lot cheaper than catching it in code review.\n\nEpisode 28 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#AutomatedReasoning #QualityControl #KiroSpecs #theAIgurukul",
+    "tags": [
+      "AutomatedReasoning",
+      "QualityControl",
+      "KiroSpecs",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

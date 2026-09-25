@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-26T1600_en_yt_ep064",
+  "account": "en_yt",
+  "publish_at": "2026-11-26T16:00:00+05:30",
+  "language": "en",
+  "episode": 64,
+  "video": {
+    "drive_file_id": "1vqAg8sepfcOc7WAD0pZKsKT1FSgx0_GP",
+    "file_name": "Kiro-Ep064-EN.mp4"
+  },
+  "caption": "Kiro + ElevenLabs: Voice Features, No Extra Setup\n\nAdding voice to your app just got a lot easier.\n\nOne Kiro tip a day. Episode 64.\n\n#KiroElevenLabs #VoiceAI #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + ElevenLabs: Voice Features, No Extra Setup #Shorts",
+    "description": "Kiro + ElevenLabs: Voice Features, No Extra Setup\n\nAdding voice to your app just got a lot easier.\nThe ElevenLabs power wires up voice generation directly.\nKiro can scaffold the whole voice feature, not just the API call.\nGreat for apps that need narration or voice UI.\n\nEpisode 64 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroElevenLabs #VoiceAI #theAIgurukul",
+    "tags": [
+      "KiroElevenLabs",
+      "VoiceAI",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

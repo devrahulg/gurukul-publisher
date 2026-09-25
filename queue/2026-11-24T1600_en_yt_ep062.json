@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-24T1600_en_yt_ep062",
+  "account": "en_yt",
+  "publish_at": "2026-11-24T16:00:00+05:30",
+  "language": "en",
+  "episode": 62,
+  "video": {
+    "drive_file_id": "1hdUoGOfaBmpHNTZZsTbtaKggqk7GFfLg",
+    "file_name": "Kiro-Ep062-EN.mp4"
+  },
+  "caption": "Kiro + Stripe: Payments Wired Up Fast\n\nPayments integration usually takes a day. Watch this.\n\nOne Kiro tip a day. Episode 62.\n\n#KiroStripe #PaymentsIntegration #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Stripe: Payments Wired Up Fast #Shorts",
+    "description": "Kiro + Stripe: Payments Wired Up Fast\n\nPayments integration usually takes a day. Watch this.\nThe Stripe power lets Kiro scaffold payment flows correctly the first time.\nIt follows Stripe's own best practices automatically.\nLess time reading docs, more time shipping checkout.\n\nEpisode 62 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroStripe #PaymentsIntegration #theAIgurukul",
+    "tags": [
+      "KiroStripe",
+      "PaymentsIntegration",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

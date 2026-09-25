@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19T1600_en_yt_ep057",
+  "account": "en_yt",
+  "publish_at": "2026-11-19T16:00:00+05:30",
+  "language": "en",
+  "episode": 57,
+  "video": {
+    "drive_file_id": "11lRLr_Fo2Hbkklq6HL4JTEuZyLY1aUG2",
+    "file_name": "Kiro-Ep057-EN.mp4"
+  },
+  "caption": "Connecting Kiro to an External Tool via MCP\n\nConnecting a new tool to Kiro takes minutes, not hours.\n\nOne Kiro tip a day. Episode 57.\n\n#MCPSetup #ToolIntegration #theAIgurukul",
+  "youtube": {
+    "title": "Connecting Kiro to an External Tool via MCP #Shorts",
+    "description": "Connecting Kiro to an External Tool via MCP\n\nConnecting a new tool to Kiro takes minutes, not hours.\nAdd an MCP server config pointing at the tool you want.\nKiro's agents can now call that tool directly during a task.\nNo custom integration code required on your end.\n\nEpisode 57 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#MCPSetup #ToolIntegration #theAIgurukul",
+    "tags": [
+      "MCPSetup",
+      "ToolIntegration",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-27T1600_en_yt_ep034",
+  "account": "en_yt",
+  "publish_at": "2026-10-27T16:00:00+05:30",
+  "language": "en",
+  "episode": 34,
+  "video": {
+    "drive_file_id": "1I0BQtfOMYmaSu27n17rz5ToL5qKREDko",
+    "file_name": "Kiro-Ep034-EN.mp4"
+  },
+  "caption": "Data Flow Diagrams: What Kiro Draws For You\n\nKiro draws your architecture before you write a word of code.\n\nOne Kiro tip a day. Episode 34.\n\n#DataFlowDiagrams #KiroDesign #theAIgurukul",
+  "youtube": {
+    "title": "Data Flow Diagrams: What Kiro Draws For You #Shorts",
+    "description": "Data Flow Diagrams: What Kiro Draws For You\n\nKiro draws your architecture before you write a word of code.\nInside design.md, Kiro generates data flow diagrams automatically.\nThey show how information moves between your services and components.\nIt's documentation you'd normally have to draw yourself, done for free.\n\nEpisode 34 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#DataFlowDiagrams #KiroDesign #theAIgurukul",
+    "tags": [
+      "DataFlowDiagrams",
+      "KiroDesign",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-06T1600_en_yt_ep013",
+  "account": "en_yt",
+  "publish_at": "2026-10-06T16:00:00+05:30",
+  "language": "en",
+  "episode": 13,
+  "video": {
+    "drive_file_id": "1SjhZ7gOX2zxcH9A0C12BfHzbg2UCzicb",
+    "file_name": "Kiro-Ep013-EN.mp4"
+  },
+  "caption": "Importing an Existing VS Code Setup Into Kiro\n\nDon't rebuild your setup. Import it.\n\nOne Kiro tip a day. Episode 13.\n\n#VSCodeMigration #OpenVSX #KiroSetup #theAIgurukul",
+  "youtube": {
+    "title": "Importing an Existing VS Code Setup Into Kiro #Shorts",
+    "description": "Importing an Existing VS Code Setup Into Kiro\n\nDon't rebuild your setup. Import it.\nBecause Kiro is built on Code OSS, most VS Code settings transfer directly.\nYour Open VSX-compatible extensions still work.\nYou keep your muscle memory, you just gain spec-driven agents.\n\nEpisode 13 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#VSCodeMigration #OpenVSX #KiroSetup #theAIgurukul",
+    "tags": [
+      "VSCodeMigration",
+      "OpenVSX",
+      "KiroSetup",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

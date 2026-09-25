@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-30T1030_en_ig_ep037",
+  "account": "en_ig",
+  "publish_at": "2026-10-30T10:30:00+05:30",
+  "language": "en",
+  "episode": 37,
+  "video": {
+    "drive_file_id": "1T6J8BJm--ajGH3GYwY4W6iJSlE4-OYpU",
+    "file_name": "Kiro-Ep037-EN.mp4"
+  },
+  "caption": "Hooks That Trigger on File Save\n\nEvery time you hit save, this can run automatically.\n\nOne Kiro tip a day. Episode 37.\n\n#SaveHooks #Automation #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

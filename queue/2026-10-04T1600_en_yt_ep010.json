@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-04T1600_en_yt_ep010",
+  "account": "en_yt",
+  "publish_at": "2026-10-04T16:00:00+05:30",
+  "language": "en",
+  "episode": 10,
+  "video": {
+    "drive_file_id": "1uyesD0_UKcarE_Voc7CPGXjk1P80u0t5",
+    "file_name": "Kiro-Ep010-EN.mp4"
+  },
+  "caption": "Kiro in 30 Seconds: The Whole Idea Recap\n\nEverything about Kiro, in one video.\n\nOne Kiro tip a day. Episode 10.\n\n#KiroRecap #KiroBasics #Module1 #theAIgurukul",
+  "youtube": {
+    "title": "Kiro in 30 Seconds: The Whole Idea Recap #Shorts",
+    "description": "Kiro in 30 Seconds: The Whole Idea Recap\n\nEverything about Kiro, in one video.\nKiro is an agentic IDE built on Code OSS.\nIt uses spec-driven development — requirements, design, tasks — before writing code.\nIt scales from solo devs to enterprises, with hooks, MCP, and multi-agent power on top.\n\nEpisode 10 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroRecap #KiroBasics #Module1 #theAIgurukul",
+    "tags": [
+      "KiroRecap",
+      "KiroBasics",
+      "Module1",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

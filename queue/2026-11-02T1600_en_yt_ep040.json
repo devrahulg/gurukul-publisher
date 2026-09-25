@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-02T1600_en_yt_ep040",
+  "account": "en_yt",
+  "publish_at": "2026-11-02T16:00:00+05:30",
+  "language": "en",
+  "episode": 40,
+  "video": {
+    "drive_file_id": "1c6dbzvFv0J3FobMzCdXvCgR4IGRoLfVD",
+    "file_name": "Kiro-Ep040-EN.mp4"
+  },
+  "caption": "3 Hook Ideas to Steal for Your Project\n\nSteal these 3 hooks — they'll save you real time.\n\nOne Kiro tip a day. Episode 40.\n\n#HookIdeas #AutomationTips #KiroHacks #theAIgurukul",
+  "youtube": {
+    "title": "3 Hook Ideas to Steal for Your Project #Shorts",
+    "description": "3 Hook Ideas to Steal for Your Project\n\nSteal these 3 hooks — they'll save you real time.\nAuto-run tests on save.\nAuto-update your changelog on task completion.\nAuto-lint and format before every commit.\n\nEpisode 40 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#HookIdeas #AutomationTips #KiroHacks #theAIgurukul",
+    "tags": [
+      "HookIdeas",
+      "AutomationTips",
+      "KiroHacks",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

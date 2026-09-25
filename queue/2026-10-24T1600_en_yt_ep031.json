@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-24T1600_en_yt_ep031",
+  "account": "en_yt",
+  "publish_at": "2026-10-24T16:00:00+05:30",
+  "language": "en",
+  "episode": 31,
+  "video": {
+    "drive_file_id": "1vCCWTW-1c3dx5Kz8vIFwm-oh3hro9jye",
+    "file_name": "Kiro-Ep031-EN.mp4"
+  },
+  "caption": "Editing a Spec by Hand vs Letting Kiro Redraft It\n\nShould you ever hand-edit a Kiro spec? Yes — here's when.\n\nOne Kiro tip a day. Episode 31.\n\n#EditingSpecs #KiroTips #theAIgurukul",
+  "youtube": {
+    "title": "Editing a Spec by Hand vs Letting Kiro Redraft It #Shorts",
+    "description": "Editing a Spec by Hand vs Letting Kiro Redraft It\n\nShould you ever hand-edit a Kiro spec? Yes — here's when.\nHand-edit for small wording fixes or precise acceptance criteria.\nLet Kiro redraft when the whole approach needs to change.\nMixing both is normal — just re-sync after big manual edits.\n\nEpisode 31 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#EditingSpecs #KiroTips #theAIgurukul",
+    "tags": [
+      "EditingSpecs",
+      "KiroTips",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

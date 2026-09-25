@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-11T1600_en_yt_ep079",
+  "account": "en_yt",
+  "publish_at": "2026-12-11T16:00:00+05:30",
+  "language": "en",
+  "episode": 79,
+  "video": {
+    "drive_file_id": "1WAGdvJzwHwM8jaUZjrkev211aFAwREvv",
+    "file_name": "Kiro-Ep079-EN.mp4"
+  },
+  "caption": "When to Use Supervised Mode Instead of Autopilot\n\nAutopilot is fast. Sometimes that's the wrong call.\n\nOne Kiro tip a day. Episode 79.\n\n#SupervisedMode #KiroBestPractice #theAIgurukul",
+  "youtube": {
+    "title": "When to Use Supervised Mode Instead of Autopilot #Shorts",
+    "description": "When to Use Supervised Mode Instead of Autopilot\n\nAutopilot is fast. Sometimes that's the wrong call.\nUse supervised mode on anything touching production data or payments.\nAutonomous mode is great for routine, low-risk tasks.\nMatch the mode to the stakes, not just your mood.\n\nEpisode 79 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SupervisedMode #KiroBestPractice #theAIgurukul",
+    "tags": [
+      "SupervisedMode",
+      "KiroBestPractice",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

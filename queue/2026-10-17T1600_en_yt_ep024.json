@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-17T1600_en_yt_ep024",
+  "account": "en_yt",
+  "publish_at": "2026-10-17T16:00:00+05:30",
+  "language": "en",
+  "episode": 24,
+  "video": {
+    "drive_file_id": "1RHJzxVf3pxuPMOgfcv8N1cl_rvXc0I5B",
+    "file_name": "Kiro-Ep024-EN.mp4"
+  },
+  "caption": "design.md: Kiro's Technical Blueprint File\n\nThis is where Kiro shows its work.\n\nOne Kiro tip a day. Episode 24.\n\n#DesignMD #TechnicalDesign #KiroSpecs #theAIgurukul",
+  "youtube": {
+    "title": "design.md: Kiro's Technical Blueprint File #Shorts",
+    "description": "design.md: Kiro's Technical Blueprint File\n\nThis is where Kiro shows its work.\ndesign.md holds the technical plan — data flow diagrams, TypeScript interfaces, database schemas, API endpoints.\nIt's generated from analyzing your actual codebase, not guesses.\nReview it before a single line of implementation code exists.\n\nEpisode 24 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#DesignMD #TechnicalDesign #KiroSpecs #theAIgurukul",
+    "tags": [
+      "DesignMD",
+      "TechnicalDesign",
+      "KiroSpecs",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

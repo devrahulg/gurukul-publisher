@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-10T1030_en_ig_ep017",
+  "account": "en_ig",
+  "publish_at": "2026-10-10T10:30:00+05:30",
+  "language": "en",
+  "episode": 17,
+  "video": {
+    "drive_file_id": "1RL1ORuNp8RuQ0yaxiFOr8brX2X4G3fyg",
+    "file_name": "Kiro-Ep017-EN.mp4"
+  },
+  "caption": "Reviewing a Kiro-Generated Spec Before Coding Starts\n\nNever skip this step. Ever.\n\nOne Kiro tip a day. Episode 17.\n\n#SpecReview #KiroBestPractice #QualityControl #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

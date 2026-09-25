@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-14T1600_en_yt_ep021",
+  "account": "en_yt",
+  "publish_at": "2026-10-14T16:00:00+05:30",
+  "language": "en",
+  "episode": 21,
+  "video": {
+    "drive_file_id": "1ACDQ2CITF8wx52E9yZKzxH8SQ1NyX1fO",
+    "file_name": "Kiro-Ep021-EN.mp4"
+  },
+  "caption": "What Is a \"Spec\" in Kiro?\n\nThe word 'spec' means something specific in Kiro.\n\nOne Kiro tip a day. Episode 21.\n\n#KiroSpecs #SpecDrivenDevelopment #theAIgurukul",
+  "youtube": {
+    "title": "What Is a \"Spec\" in Kiro? #Shorts",
+    "description": "What Is a \"Spec\" in Kiro?\n\nThe word 'spec' means something specific in Kiro.\nA spec is the documented artifact behind every Kiro feature.\nIt captures requirements, design decisions, and tasks in one place.\nIt's what keeps AI agents aligned with what you actually meant.\n\nEpisode 21 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroSpecs #SpecDrivenDevelopment #theAIgurukul",
+    "tags": [
+      "KiroSpecs",
+      "SpecDrivenDevelopment",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

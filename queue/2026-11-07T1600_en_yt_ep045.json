@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-07T1600_en_yt_ep045",
+  "account": "en_yt",
+  "publish_at": "2026-11-07T16:00:00+05:30",
+  "language": "en",
+  "episode": 45,
+  "video": {
+    "drive_file_id": "1_i6hCRzIR1omtdt2RB_cV_8w4kA7Dkuh",
+    "file_name": "Kiro-Ep045-EN.mp4"
+  },
+  "caption": "Hooks Recap: Background Automation in Kiro\n\nEverything hooks can do, in 30 seconds.\n\nOne Kiro tip a day. Episode 45.\n\n#HooksRecap #Module4 #KiroAutomation #theAIgurukul",
+  "youtube": {
+    "title": "Hooks Recap: Background Automation in Kiro #Shorts",
+    "description": "Hooks Recap: Background Automation in Kiro\n\nEverything hooks can do, in 30 seconds.\nHooks trigger on save, create, delete, or manually.\nThey automate tests, docs, linting, and more.\nChain them together and Kiro handles your busywork.\n\nEpisode 45 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#HooksRecap #Module4 #KiroAutomation #theAIgurukul",
+    "tags": [
+      "HooksRecap",
+      "Module4",
+      "KiroAutomation",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

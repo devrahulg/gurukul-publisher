@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-14T1600_en_yt_ep052",
+  "account": "en_yt",
+  "publish_at": "2026-11-14T16:00:00+05:30",
+  "language": "en",
+  "episode": 52,
+  "video": {
+    "drive_file_id": "1PM151TsLzXOgo1QPZqFR7NxbOzxzJoLE",
+    "file_name": "Kiro-Ep052-EN.mp4"
+  },
+  "caption": "Syncing Steering Rules Across Kiro IDE, CLI, and Web\n\nSet your rules once. They follow you everywhere.\n\nOne Kiro tip a day. Episode 52.\n\n#CrossPlatform #SteeringSync #theAIgurukul",
+  "youtube": {
+    "title": "Syncing Steering Rules Across Kiro IDE, CLI, and Web #Shorts",
+    "description": "Syncing Steering Rules Across Kiro IDE, CLI, and Web\n\nSet your rules once. They follow you everywhere.\nSteering files sync across Kiro IDE, CLI, and Web.\nStart a task in the browser, finish it in your terminal.\nSame rules, same behavior, every surface.\n\nEpisode 52 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#CrossPlatform #SteeringSync #theAIgurukul",
+    "tags": [
+      "CrossPlatform",
+      "SteeringSync",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

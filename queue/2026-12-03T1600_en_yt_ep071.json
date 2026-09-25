@@ -1,0 +1,30 @@
+{
+  "id": "2026-12-03T1600_en_yt_ep071",
+  "account": "en_yt",
+  "publish_at": "2026-12-03T16:00:00+05:30",
+  "language": "en",
+  "episode": 71,
+  "video": {
+    "drive_file_id": "1lloxLwuRUPzrm7VZbjYLV73NIFmW3tLs",
+    "file_name": "Kiro-Ep071-EN.mp4"
+  },
+  "caption": "Autonomous Mode vs Supervised Mode in Kiro\n\nWhich mode should you actually be using?\n\nOne Kiro tip a day. Episode 71.\n\n#AutonomousMode #SupervisedMode #KiroModes #theAIgurukul",
+  "youtube": {
+    "title": "Autonomous Mode vs Supervised Mode in Kiro #Shorts",
+    "description": "Autonomous Mode vs Supervised Mode in Kiro\n\nWhich mode should you actually be using?\nAutonomous mode lets Kiro's agents work independently through a task.\nSupervised mode keeps you approving each step as it happens.\nUse autonomous for routine work, supervised for anything high-stakes.\n\nEpisode 71 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#AutonomousMode #SupervisedMode #KiroModes #theAIgurukul",
+    "tags": [
+      "AutonomousMode",
+      "SupervisedMode",
+      "KiroModes",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-12-10T1030_en_ig_ep078",
+  "account": "en_ig",
+  "publish_at": "2026-12-10T10:30:00+05:30",
+  "language": "en",
+  "episode": 78,
+  "video": {
+    "drive_file_id": "1fDWd7FCA531u4X4ErUQN9wUYF0GYenEV",
+    "file_name": "Kiro-Ep078-EN.mp4"
+  },
+  "caption": "Giving Kiro Context With Files, URLs, and Docs\n\nKiro can read more than just your code.\n\nOne Kiro tip a day. Episode 78.\n\n#ContextProviders #KiroChat #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

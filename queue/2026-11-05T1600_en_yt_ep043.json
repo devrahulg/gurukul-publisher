@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-05T1600_en_yt_ep043",
+  "account": "en_yt",
+  "publish_at": "2026-11-05T16:00:00+05:30",
+  "language": "en",
+  "episode": 43,
+  "video": {
+    "drive_file_id": "1-3zJebWVryc7zTMzog9N9LBd1_VkPuMO",
+    "file_name": "Kiro-Ep043-EN.mp4"
+  },
+  "caption": "Chaining Multiple Hooks Together\n\nOne event, multiple automated steps. Here's how.\n\nOne Kiro tip a day. Episode 43.\n\n#HookChaining #AdvancedAutomation #theAIgurukul",
+  "youtube": {
+    "title": "Chaining Multiple Hooks Together #Shorts",
+    "description": "Chaining Multiple Hooks Together\n\nOne event, multiple automated steps. Here's how.\nHooks can run in sequence off a single trigger.\nSave triggers lint, then test, then a changelog note.\nYou design the chain once, then it just runs.\n\nEpisode 43 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#HookChaining #AdvancedAutomation #theAIgurukul",
+    "tags": [
+      "HookChaining",
+      "AdvancedAutomation",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

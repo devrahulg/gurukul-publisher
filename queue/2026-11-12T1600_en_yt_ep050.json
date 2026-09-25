@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-12T1600_en_yt_ep050",
+  "account": "en_yt",
+  "publish_at": "2026-11-12T16:00:00+05:30",
+  "language": "en",
+  "episode": 50,
+  "video": {
+    "drive_file_id": "1pZhApeodTbEKuwMXRRz2zCkhRQYUwtK_",
+    "file_name": "Kiro-Ep050-EN.mp4"
+  },
+  "caption": "AGENTS.md: The Open Standard Kiro Supports\n\nThis file works across more than just Kiro.\n\nOne Kiro tip a day. Episode 50.\n\n#AGENTSmd #OpenStandard #theAIgurukul",
+  "youtube": {
+    "title": "AGENTS.md: The Open Standard Kiro Supports #Shorts",
+    "description": "AGENTS.md: The Open Standard Kiro Supports\n\nThis file works across more than just Kiro.\nAGENTS.md is an open standard for defining agent capabilities.\nKiro reads it the same way other agentic tools do.\nWrite it once, and it's portable beyond just Kiro.\n\nEpisode 50 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#AGENTSmd #OpenStandard #theAIgurukul",
+    "tags": [
+      "AGENTSmd",
+      "OpenStandard",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-08T1600_en_yt_ep015",
+  "account": "en_yt",
+  "publish_at": "2026-10-08T16:00:00+05:30",
+  "language": "en",
+  "episode": 15,
+  "video": {
+    "drive_file_id": "1tEcS8i6IFHiW04AK_KTJhauCWnPFknia",
+    "file_name": "Kiro-Ep015-EN.mp4"
+  },
+  "caption": "Writing Your First Prompt in Kiro\n\nThe way you prompt Kiro is different — here's why.\n\nOne Kiro tip a day. Episode 15.\n\n#KiroPrompting #FirstPrompt #PromptTips #theAIgurukul",
+  "youtube": {
+    "title": "Writing Your First Prompt in Kiro #Shorts",
+    "description": "Writing Your First Prompt in Kiro\n\nThe way you prompt Kiro is different — here's why.\nDon't just ask for code. Describe the outcome and constraints.\nKiro turns that into structured requirements before touching implementation.\nA better prompt here means a better spec later.\n\nEpisode 15 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroPrompting #FirstPrompt #PromptTips #theAIgurukul",
+    "tags": [
+      "KiroPrompting",
+      "FirstPrompt",
+      "PromptTips",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

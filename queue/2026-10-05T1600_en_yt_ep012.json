@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-05T1600_en_yt_ep012",
+  "account": "en_yt",
+  "publish_at": "2026-10-05T16:00:00+05:30",
+  "language": "en",
+  "episode": 12,
+  "video": {
+    "drive_file_id": "1rS7yFerzs2xLROaNPXbZshBg1u9e31Xi",
+    "file_name": "Kiro-Ep012-EN.mp4"
+  },
+  "caption": "Your First Kiro Project, Start to Finish\n\nWatch a Kiro project go from idea to shipped feature.\n\nOne Kiro tip a day. Episode 12.\n\n#FirstProject #KiroDemo #SpecFlow #theAIgurukul",
+  "youtube": {
+    "title": "Your First Kiro Project, Start to Finish #Shorts",
+    "description": "Your First Kiro Project, Start to Finish\n\nWatch a Kiro project go from idea to shipped feature.\nStart with a plain-English prompt describing what you want.\nKiro drafts requirements, then a design, then tasks.\nYou approve each stage before it writes a line of code.\n\nEpisode 12 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#FirstProject #KiroDemo #SpecFlow #theAIgurukul",
+    "tags": [
+      "FirstProject",
+      "KiroDemo",
+      "SpecFlow",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

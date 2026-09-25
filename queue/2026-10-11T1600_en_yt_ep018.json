@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-11T1600_en_yt_ep018",
+  "account": "en_yt",
+  "publish_at": "2026-10-11T16:00:00+05:30",
+  "language": "en",
+  "episode": 18,
+  "video": {
+    "drive_file_id": "1yFi1EwIAqlx6zlAOtYiyOXA5b_MjZdtr",
+    "file_name": "Kiro-Ep018-EN.mp4"
+  },
+  "caption": "Kiro's Open VSX Extension Support Explained\n\nYour favorite VS Code extensions? Probably still work.\n\nOne Kiro tip a day. Episode 18.\n\n#OpenVSX #Extensions #KiroSetup #theAIgurukul",
+  "youtube": {
+    "title": "Kiro's Open VSX Extension Support Explained #Shorts",
+    "description": "Kiro's Open VSX Extension Support Explained\n\nYour favorite VS Code extensions? Probably still work.\nKiro supports Open VSX, the open extension marketplace.\nMost popular extensions install the same way they did in VS Code.\nYou don't lose your toolchain switching to Kiro.\n\nEpisode 18 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#OpenVSX #Extensions #KiroSetup #theAIgurukul",
+    "tags": [
+      "OpenVSX",
+      "Extensions",
+      "KiroSetup",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

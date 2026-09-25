@@ -1,0 +1,29 @@
+{
+  "id": "2026-12-05T1600_en_yt_ep073",
+  "account": "en_yt",
+  "publish_at": "2026-12-05T16:00:00+05:30",
+  "language": "en",
+  "episode": 73,
+  "video": {
+    "drive_file_id": "1lO2fmDQUdHfvdR_T6sIOFpjXxkVAc05a",
+    "file_name": "Kiro-Ep073-EN.mp4"
+  },
+  "caption": "Parallel Agents: Multiple Kiros Working at Once\n\nWhy run one agent when you can run three?\n\nOne Kiro tip a day. Episode 73.\n\n#ParallelAgents #MultiAgent #theAIgurukul",
+  "youtube": {
+    "title": "Parallel Agents: Multiple Kiros Working at Once #Shorts",
+    "description": "Parallel Agents: Multiple Kiros Working at Once\n\nWhy run one agent when you can run three?\nParallel agents let multiple Kiro agents work concurrently.\nThey learn and improve across sessions, not just within one.\nBigger tasks move faster when they're split across agents.\n\nEpisode 73 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#ParallelAgents #MultiAgent #theAIgurukul",
+    "tags": [
+      "ParallelAgents",
+      "MultiAgent",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

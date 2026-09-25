@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-15T1600_en_yt_ep022",
+  "account": "en_yt",
+  "publish_at": "2026-10-15T16:00:00+05:30",
+  "language": "en",
+  "episode": 22,
+  "video": {
+    "drive_file_id": "19rDfR6S10j-11MJjIF37PUWjtfgrWSWK",
+    "file_name": "Kiro-Ep022-EN.mp4"
+  },
+  "caption": "requirements.md Explained in 30 Seconds\n\nThis one file decides if your feature gets built right.\n\nOne Kiro tip a day. Episode 22.\n\n#RequirementsMD #EARSNotation #theAIgurukul",
+  "youtube": {
+    "title": "requirements.md Explained in 30 Seconds #Shorts",
+    "description": "requirements.md Explained in 30 Seconds\n\nThis one file decides if your feature gets built right.\nrequirements.md holds auto-generated user stories from your prompt.\nEach one gets acceptance criteria in EARS notation.\nRead it like a contract between you and the AI.\n\nEpisode 22 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#RequirementsMD #EARSNotation #theAIgurukul",
+    "tags": [
+      "RequirementsMD",
+      "EARSNotation",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

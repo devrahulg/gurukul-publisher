@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-19T1600_en_yt_ep026",
+  "account": "en_yt",
+  "publish_at": "2026-10-19T16:00:00+05:30",
+  "language": "en",
+  "episode": 26,
+  "video": {
+    "drive_file_id": "1s2KaxIbq5-mNiGDCWtOg0i8UmckvWEmh",
+    "file_name": "Kiro-Ep026-EN.mp4"
+  },
+  "caption": "tasks.md: Turning Design Into Do-able Steps\n\nDesign docs are useless without this next file.\n\nOne Kiro tip a day. Episode 26.\n\n#TasksMD #ImplementationPlan #theAIgurukul",
+  "youtube": {
+    "title": "tasks.md: Turning Design Into Do-able Steps #Shorts",
+    "description": "tasks.md: Turning Design Into Do-able Steps\n\nDesign docs are useless without this next file.\ntasks.md breaks the design into sequenced implementation work items.\nEach task links back to the requirement it satisfies.\nTesting and accessibility considerations get their own tasks too.\n\nEpisode 26 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#TasksMD #ImplementationPlan #theAIgurukul",
+    "tags": [
+      "TasksMD",
+      "ImplementationPlan",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

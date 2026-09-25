@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-27T1600_en_yt_ep065",
+  "account": "en_yt",
+  "publish_at": "2026-11-27T16:00:00+05:30",
+  "language": "en",
+  "episode": 65,
+  "video": {
+    "drive_file_id": "1hIa8LiTQYyoXG42RI_x-RVhEW0XPZmHr",
+    "file_name": "Kiro-Ep065-EN.mp4"
+  },
+  "caption": "Kiro + Google Firebase: Shipping Mobile Backends\n\nYour mobile backend, wired up by Kiro.\n\nOne Kiro tip a day. Episode 65.\n\n#KiroFirebase #MobileBackend #theAIgurukul",
+  "youtube": {
+    "title": "Kiro + Google Firebase: Shipping Mobile Backends #Shorts",
+    "description": "Kiro + Google Firebase: Shipping Mobile Backends\n\nYour mobile backend, wired up by Kiro.\nThe Firebase power connects Kiro to auth, database, and hosting.\nIt scaffolds a mobile-ready backend from a single spec.\nLess boilerplate, faster time to a working app.\n\nEpisode 65 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroFirebase #MobileBackend #theAIgurukul",
+    "tags": [
+      "KiroFirebase",
+      "MobileBackend",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

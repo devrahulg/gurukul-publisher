@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-07T1600_en_yt_ep014",
+  "account": "en_yt",
+  "publish_at": "2026-10-07T16:00:00+05:30",
+  "language": "en",
+  "episode": 14,
+  "video": {
+    "drive_file_id": "1wooIgMzigwTieCqOu7C1ytufEruIQWW2",
+    "file_name": "Kiro-Ep014-EN.mp4"
+  },
+  "caption": "The Kiro Interface: A Quick Tour\n\nHere's every panel in Kiro, in 30 seconds.\n\nOne Kiro tip a day. Episode 14.\n\n#KiroInterface #KiroTour #IDEWalkthrough #theAIgurukul",
+  "youtube": {
+    "title": "The Kiro Interface: A Quick Tour #Shorts",
+    "description": "The Kiro Interface: A Quick Tour\n\nHere's every panel in Kiro, in 30 seconds.\nThe editor pane looks like VS Code.\nThe spec panel shows requirements, design, and tasks side by side.\nThe agent chat sits ready for ad-hoc questions anytime.\n\nEpisode 14 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#KiroInterface #KiroTour #IDEWalkthrough #theAIgurukul",
+    "tags": [
+      "KiroInterface",
+      "KiroTour",
+      "IDEWalkthrough",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

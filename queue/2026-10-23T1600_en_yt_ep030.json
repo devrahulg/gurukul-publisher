@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-23T1600_en_yt_ep030",
+  "account": "en_yt",
+  "publish_at": "2026-10-23T16:00:00+05:30",
+  "language": "en",
+  "episode": 30,
+  "video": {
+    "drive_file_id": "1jc_rEJuWD1EISTxDP49OpuOKeXPmA5a6",
+    "file_name": "Kiro-Ep030-EN.mp4"
+  },
+  "caption": "What Happens When Your Codebase Changes Mid-Spec\n\nSomeone else pushed code while you were mid-spec. Now what?\n\nOne Kiro tip a day. Episode 30.\n\n#SpecUpdates #KiroWorkflow #theAIgurukul",
+  "youtube": {
+    "title": "What Happens When Your Codebase Changes Mid-Spec #Shorts",
+    "description": "What Happens When Your Codebase Changes Mid-Spec\n\nSomeone else pushed code while you were mid-spec. Now what?\nKiro re-analyzes the codebase and flags affected requirements or tasks.\nYou get a diff-style view of what changed and what it impacts.\nYou decide whether to update the spec or the code.\n\nEpisode 30 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#SpecUpdates #KiroWorkflow #theAIgurukul",
+    "tags": [
+      "SpecUpdates",
+      "KiroWorkflow",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

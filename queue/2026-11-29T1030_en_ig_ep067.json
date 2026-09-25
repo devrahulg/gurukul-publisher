@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-29T1030_en_ig_ep067",
+  "account": "en_ig",
+  "publish_at": "2026-11-29T10:30:00+05:30",
+  "language": "en",
+  "episode": 67,
+  "video": {
+    "drive_file_id": "1qcNOO5ObETRMpVL0kx3IM0fwX2HEigqs",
+    "file_name": "Kiro-Ep067-EN.mp4"
+  },
+  "caption": "Kiro + Terraform: Infrastructure as Actual Code\n\nKiro doesn't stop at application code.\n\nOne Kiro tip a day. Episode 67.\n\n#KiroTerraform #InfrastructureAsCode #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}
