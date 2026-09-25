@@ -1,0 +1,28 @@
+{
+  "ran_at": "2026-09-25T15:34:56Z",
+  "missed": 0,
+  "youtube_done": 0,
+  "youtube_errors": 0,
+  "instagram_done": 0,
+  "instagram_errors": 0,
+  "accounts": {
+    "hi_ig": "secret IG_TOKEN_HI not set",
+    "hi_yt": "GOOGLE_CLIENT_ID_HI / GOOGLE_CLIENT_SECRET_HI (or the shared pair) not set",
+    "en_ig": "secret IG_TOKEN_EN not set",
+    "en_yt": "GOOGLE_CLIENT_ID_EN / GOOGLE_CLIENT_SECRET_EN (or the shared pair) not set"
+  },
+  "queue": {
+    "en_ig": {
+      "queued": 73
+    },
+    "hi_ig": {
+      "queued": 73
+    },
+    "en_yt": {
+      "queued": 73
+    },
+    "hi_yt": {
+      "queued": 73
+    }
+  }
+}
