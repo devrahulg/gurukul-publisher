@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-26T07:52:54Z",
+  "accounts": {
+    "hi_ig": {
+      "status": "secret IG_TOKEN_HI not set"
+    },
+    "hi_yt": {
+      "status": "GOOGLE_CLIENT_ID_HI / GOOGLE_CLIENT_SECRET_HI (or the shared pair) not set"
+    },
+    "en_ig": {
+      "status": "secret IG_TOKEN_EN not set"
+    },
+    "en_yt": {
+      "status": "GOOGLE_CLIENT_ID_EN / GOOGLE_CLIENT_SECRET_EN (or the shared pair) not set"
+    }
+  },
+  "queue": {
+    "en_ig": {
+      "queued": 73
+    },
+    "hi_ig": {
+      "queued": 73
+    },
+    "en_yt": {
+      "queued": 73
+    },
+    "hi_yt": {
+      "queued": 73
+    }
+  }
+}
