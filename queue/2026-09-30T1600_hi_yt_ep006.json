@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-30T1600_hi_yt_ep006",
+  "account": "hi_yt",
+  "publish_at": "2026-09-30T16:00:00+05:30",
+  "language": "hi",
+  "episode": 6,
+  "video": {
+    "drive_file_id": "1Xr0YpWqBV5RunZJGNMHqYUc34Qhqv9tJ",
+    "file_name": "Kiro-Ep006-HI.mp4"
+  },
+  "caption": "हर Kiro Spec की 3 डॉक्यूमेंट्स\n\nहर Kiro स्पेक ठीक 3 फाइलें बनाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #KiroHindi #theAIgurukul",
+  "youtube": {
+    "title": "हर Kiro Spec की 3 डॉक्यूमेंट्स #Shorts",
+    "description": "हर Kiro Spec की 3 डॉक्यूमेंट्स\n\nहर Kiro स्पेक ठीक 3 फाइलें बनाता है।\nrequirements.md में यूज़र स्टोरीज़ और एक्सेप्टेंस क्राइटेरिया होते हैं।\ndesign.md टेक्निकल प्लान — स्कीमा, API, डायग्राम — मैप करता है।\ntasks.md सब कुछ छोटे, सीक्वेंस्ड, करने-लायक स्टेप्स में तोड़ता है।\n\nKiro हिंदी सीरीज़ का एपिसोड 6। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#RequirementsMD #DesignMD #TasksMD #KiroHindi #theAIgurukul",
+    "tags": [
+      "RequirementsMD",
+      "DesignMD",
+      "TasksMD",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-09-30T1030_en_ig_ep006",
+  "account": "en_ig",
+  "publish_at": "2026-09-30T10:30:00+05:30",
+  "language": "en",
+  "episode": 6,
+  "video": {
+    "drive_file_id": "1xmkn30-rA7K41_LYH7jGp2037tS6ST5y",
+    "file_name": "Kiro-Ep006-EN.mp4"
+  },
+  "caption": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\n\nOne Kiro tip a day. Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

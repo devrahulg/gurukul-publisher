@@ -1,0 +1,30 @@
+{
+  "id": "2026-09-30T1600_en_yt_ep006",
+  "account": "en_yt",
+  "publish_at": "2026-09-30T16:00:00+05:30",
+  "language": "en",
+  "episode": 6,
+  "video": {
+    "drive_file_id": "1xmkn30-rA7K41_LYH7jGp2037tS6ST5y",
+    "file_name": "Kiro-Ep006-EN.mp4"
+  },
+  "caption": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\n\nOne Kiro tip a day. Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul",
+  "youtube": {
+    "title": "The 3 Documents Every Kiro Spec Creates #Shorts",
+    "description": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\nrequirements.md captures user stories and acceptance criteria.\ndesign.md maps the technical plan — schemas, APIs, diagrams.\ntasks.md breaks it all into sequenced, doable steps.\n\nEpisode 6 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul",
+    "tags": [
+      "RequirementsMD",
+      "DesignMD",
+      "TasksMD",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "theAIgurukul",
+      "agentic IDE"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}
