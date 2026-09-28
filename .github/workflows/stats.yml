@@ -20,6 +20,10 @@ jobs:
     env:
       GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
       GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+      GOOGLE_CLIENT_ID_EN: ${{ secrets.GOOGLE_CLIENT_ID_EN }}
+      GOOGLE_CLIENT_SECRET_EN: ${{ secrets.GOOGLE_CLIENT_SECRET_EN }}
+      GOOGLE_CLIENT_ID_HI: ${{ secrets.GOOGLE_CLIENT_ID_HI }}
+      GOOGLE_CLIENT_SECRET_HI: ${{ secrets.GOOGLE_CLIENT_SECRET_HI }}
       YT_REFRESH_HI: ${{ secrets.YT_REFRESH_HI }}
       YT_REFRESH_EN: ${{ secrets.YT_REFRESH_EN }}
       IG_TOKEN_HI: ${{ secrets.IG_TOKEN_HI }}
