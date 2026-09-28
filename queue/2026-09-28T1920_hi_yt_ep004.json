@@ -12,10 +12,37 @@
   "youtube": {
     "title": "Kiro बना है Code OSS पर, आपके लिए इसका मतलब क्या है #Shorts",
     "description": "Kiro बना है Code OSS पर, आपके लिए इसका मतलब क्या है\n\nVS Code जैसा फाउंडेशन, पर पूरी तरह नया एक्सपीरियंस.\nKiro, Code OSS पर बना है — जो VS Code का ओपन-सोर्स कोर है।\nआपकी सेटिंग्स, थीम्स और Open VSX एक्सटेंशन्स वैसे ही चलते रहते हैं।\nआप कोई नया एडिटर नहीं सीख रहे, बस एक ज्यादा स्मार्ट वाला।\n\nKiro हिंदी सीरीज़ का एपिसोड 4। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#CodeOSS #VSCode #OpenVSX #KiroHindi #theAIgurukul",
-    "tags": ["CodeOSS", "VSCode", "OpenVSX", "Kiro", "Kiro Hindi", "AWS Kiro", "theAIgurukul", "Hindi coding"],
+    "tags": [
+      "CodeOSS",
+      "VSCode",
+      "OpenVSX",
+      "Kiro",
+      "Kiro Hindi",
+      "AWS Kiro",
+      "theAIgurukul",
+      "Hindi coding"
+    ],
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-09-28T13:54:26Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-09-28T13:54:30Z",
+      "event": "YouTube uploaded: mfjv_SdR7rY"
+    }
+  ],
+  "updated_at": "2026-09-28T13:54:30Z",
+  "result": {
+    "video_id": "mfjv_SdR7rY",
+    "url": "https://www.youtube.com/shorts/mfjv_SdR7rY",
+    "privacy": "public",
+    "publish_at": null,
+    "upload_status": "uploaded"
+  }
 }

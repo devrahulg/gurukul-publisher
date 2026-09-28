@@ -12,10 +12,37 @@
   "youtube": {
     "title": "Built on Code OSS: What That Means for You #Shorts",
     "description": "Built on Code OSS: What That Means for You\n\nKiro looks familiar for a reason.\nKiro is built on Code OSS — the open-source core of VS Code.\nYour settings, themes, and Open VSX extensions carry over.\nYou're not learning a brand new editor, just a smarter one.\n\nEpisode 4 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#CodeOSS #VSCode #OpenVSX #theAIgurukul",
-    "tags": ["CodeOSS", "VSCode", "OpenVSX", "theAIgurukul", "Kiro", "AWS Kiro", "Kiro tutorial", "agentic IDE"],
+    "tags": [
+      "CodeOSS",
+      "VSCode",
+      "OpenVSX",
+      "theAIgurukul",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "agentic IDE"
+    ],
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-09-28T13:54:19Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-09-28T13:54:26Z",
+      "event": "YouTube uploaded: 6181_OHAJIw"
+    }
+  ],
+  "updated_at": "2026-09-28T13:54:26Z",
+  "result": {
+    "video_id": "6181_OHAJIw",
+    "url": "https://www.youtube.com/shorts/6181_OHAJIw",
+    "privacy": "public",
+    "publish_at": null,
+    "upload_status": "uploaded"
+  }
 }
