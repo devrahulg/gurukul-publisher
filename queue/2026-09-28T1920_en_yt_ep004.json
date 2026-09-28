@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-28T1920_en_yt_ep004",
+  "account": "en_yt",
+  "publish_at": "2026-09-28T19:20:00+05:30",
+  "language": "en",
+  "episode": 4,
+  "video": {
+    "drive_file_id": "1QFi7svkZTwzqUuo-wK3m--MKGSoOnXFD",
+    "file_name": "Kiro-Ep004-EN.mp4"
+  },
+  "caption": "Built on Code OSS: What That Means for You\n\nKiro looks familiar for a reason.\n\n#CodeOSS #VSCode #OpenVSX #theAIgurukul",
+  "youtube": {
+    "title": "Built on Code OSS: What That Means for You #Shorts",
+    "description": "Built on Code OSS: What That Means for You\n\nKiro looks familiar for a reason.\nKiro is built on Code OSS — the open-source core of VS Code.\nYour settings, themes, and Open VSX extensions carry over.\nYou're not learning a brand new editor, just a smarter one.\n\nEpisode 4 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#CodeOSS #VSCode #OpenVSX #theAIgurukul",
+    "tags": ["CodeOSS", "VSCode", "OpenVSX", "theAIgurukul", "Kiro", "AWS Kiro", "Kiro tutorial", "agentic IDE"],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}
