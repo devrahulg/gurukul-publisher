@@ -1,16 +1,18 @@
 {
   "hi_ig": {
     "platform": "instagram",
-    "label": "Hindi Instagram",
-    "token_secret": "IG_TOKEN_HI",
-    "enabled": true
+    "label": "Hindi Reels -> English Instagram @theai_gurukul",
+    "token_secret": "IG_TOKEN_EN",
+    "enabled": true,
+    "same_as": "en_ig"
   },
   "hi_yt": {
     "platform": "youtube",
-    "label": "Hindi YouTube channel",
-    "refresh_secret": "YT_REFRESH_HI",
+    "label": "Hindi Shorts -> English YouTube channel (The AI Gurukul)",
+    "refresh_secret": "YT_REFRESH_EN",
     "enabled": true,
-    "client_suffix": "HI"
+    "client_suffix": "EN",
+    "same_as": "en_yt"
   },
   "en_ig": {
     "platform": "instagram",
@@ -20,7 +22,7 @@
   },
   "en_yt": {
     "platform": "youtube",
-    "label": "English YouTube channel",
+    "label": "English YouTube channel (The AI Gurukul)",
     "refresh_secret": "YT_REFRESH_EN",
     "enabled": true,
     "client_suffix": "EN"

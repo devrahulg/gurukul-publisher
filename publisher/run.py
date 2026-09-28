@@ -324,6 +324,9 @@ def cmd_stats() -> int:
     accts = accounts()
     out = {"generated_at": iso_utc(now_utc()), "accounts": {}, "queue": queue_counts(load_all())}
     for name, acct in accts.items():
+        if acct.get("same_as"):  # posts to the same channel/account as another key; don't count it twice
+            out["accounts"][name] = {"same_as": acct["same_as"]}
+            continue
         ready, why = account_ready(name, acct)
         if not ready:
             out["accounts"][name] = {"status": why}
@@ -351,7 +354,7 @@ def cmd_refresh_ig_tokens() -> int:
     from .gh_secrets import put_secret  # needs pynacl; imported only here
     changed = 0
     for name, acct in accounts().items():
-        if acct.get("platform") != "instagram" or not account_ready(name, acct)[0]:
+        if acct.get("platform") != "instagram" or acct.get("same_as") or not account_ready(name, acct)[0]:
             continue
         old = os.environ[acct["token_secret"]]
         try:
