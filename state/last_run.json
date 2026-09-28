@@ -1,14 +1,14 @@
 {
-  "ran_at": "2026-09-28T12:40:15Z",
+  "ran_at": "2026-09-28T13:42:46Z",
   "missed": 0,
-  "youtube_done": 2,
+  "youtube_done": 0,
   "youtube_errors": 0,
   "instagram_done": 0,
   "instagram_errors": 0,
   "accounts": {
-    "hi_ig": "secret IG_TOKEN_HI not set",
+    "hi_ig": "ready",
     "hi_yt": "ready",
-    "en_ig": "secret IG_TOKEN_EN not set",
+    "en_ig": "ready",
     "en_yt": "ready"
   },
   "queue": {
