@@ -1,7 +1,7 @@
 {
-  "ran_at": "2026-09-28T09:18:28Z",
+  "ran_at": "2026-09-28T12:40:15Z",
   "missed": 0,
-  "youtube_done": 0,
+  "youtube_done": 2,
   "youtube_errors": 0,
   "instagram_done": 0,
   "instagram_errors": 0,
@@ -13,16 +13,18 @@
   },
   "queue": {
     "en_ig": {
-      "queued": 73
+      "queued": 75
     },
     "hi_ig": {
-      "queued": 73
+      "queued": 75
     },
     "en_yt": {
-      "queued": 73
+      "scheduled": 1,
+      "queued": 74
     },
     "hi_yt": {
-      "queued": 73
+      "scheduled": 1,
+      "queued": 74
     }
   }
 }
