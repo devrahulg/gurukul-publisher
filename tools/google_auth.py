@@ -3,6 +3,9 @@
 Run it on your own computer (standard Python 3, no packages needed):
 
     python tools/google_auth.py path\\to\\client_secret.json
+or, if Google no longer lets you download the JSON:
+    python tools/google_auth.py --client-id <CLIENT_ID>
+(you are then asked for the client secret; typing is hidden)
 
 A browser opens. Sign in, pick the channel (Hindi or English) when Google asks,
 and allow access. The script then prints which channel it connected and the
@@ -37,16 +40,31 @@ TOKEN = "https://oauth2.googleapis.com/token"
 def load_client(path: str) -> tuple[str, str]:
     with open(path, encoding="utf-8") as fh:
         data = json.load(fh)
-    block = data.get("installed") or data.get("web") or {}
-    if not block.get("client_id"):
-        sys.exit("That file is not an OAuth client JSON. Download it from Google Cloud > Credentials.")
+    block = data.get("installed") or data.get("web") or data
+    if not block.get("client_id") or not block.get("client_secret"):
+        sys.exit("That file is not an OAuth client JSON. Use instead:\n"
+                 "  python tools/google_auth.py --client-id <CLIENT_ID>\n"
+                 "and paste the client secret when asked.")
     return block["client_id"], block["client_secret"]
 
 
+def ask_client(client_id: str) -> tuple[str, str]:
+    """Client ID on the command line, secret typed in hidden (not echoed, not saved)."""
+    import getpass
+    secret = getpass.getpass("Paste the client secret (hidden, press Enter): ").strip()
+    if not secret:
+        sys.exit("No client secret entered.")
+    return client_id.strip(), secret
+
+
 def main() -> None:
-    if len(sys.argv) != 2:
+    args = sys.argv[1:]
+    if len(args) == 2 and args[0] == "--client-id":
+        client_id, client_secret = ask_client(args[1])
+    elif len(args) == 1 and not args[0].startswith("--"):
+        client_id, client_secret = load_client(args[0])
+    else:
         sys.exit(__doc__)
-    client_id, client_secret = load_client(sys.argv[1])
     state = secrets.token_urlsafe(16)
     result: dict = {}
 
