@@ -1,10 +1,12 @@
 name: publish
 
-# Every 15 minutes: upload YouTube videos ahead of time (YouTube releases them at
-# their scheduled time) and publish Instagram Reels that are due.
+# Every 30 minutes (at :07/:37, off the busy :00/:15/:30/:45 boundaries GitHub
+# documents as more prone to scheduling delay): upload YouTube videos ahead of
+# time (YouTube releases them at their scheduled time) and publish Instagram
+# Reels that are due.
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch: {}
 
 concurrency:
