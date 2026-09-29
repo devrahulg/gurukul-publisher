@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep005-HI.mp4"
   },
   "caption": "Kiro का बड़ा आइडिया: Spec-Driven Development\n\nयह एक कॉन्सेप्ट Kiro के बारे में सब कुछ समझा देता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 5.\n\n#SpecDrivenDevelopment #KiroSpecs #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18117166504877618",
+    "media_id": "17917899798246208",
+    "url": "https://www.instagram.com/reel/Dd3CYz_AOST/"
+  },
+  "history": [
+    {
+      "at": "2026-09-29T05:44:11Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-09-29T05:44:37Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-09-29T05:44:37Z"
 }
