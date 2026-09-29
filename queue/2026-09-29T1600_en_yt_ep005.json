@@ -31,6 +31,13 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-09-29T13:56:14Z",
+      "event": "missed: more than 180 min past its time"
+    }
+  ],
+  "updated_at": "2026-09-29T13:56:14Z"
 }

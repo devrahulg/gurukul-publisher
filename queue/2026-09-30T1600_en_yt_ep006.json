@@ -30,6 +30,24 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "scheduled",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-09-29T13:56:15Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-09-29T13:56:18Z",
+      "event": "YouTube scheduled: BUm2h-erfPM"
+    }
+  ],
+  "updated_at": "2026-09-29T13:56:18Z",
+  "result": {
+    "video_id": "BUm2h-erfPM",
+    "url": "https://www.youtube.com/shorts/BUm2h-erfPM",
+    "privacy": "private",
+    "publish_at": "2026-09-30T10:30:00Z",
+    "upload_status": "uploaded"
+  }
 }
