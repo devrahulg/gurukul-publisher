@@ -8,10 +8,10 @@
     "drive_file_id": "1o-WNgGmIB52pMO00cZcRmZR3kkNT08gS",
     "file_name": "Kiro-Ep005-HI.mp4"
   },
-  "caption": "Kiro का बड़ा आइडिया: Spec-Driven Development\n\nयह एक कॉन्सेप्ट Kiro के बारे में सब कुछ समझा देता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 5.\n\n#SpecDrivenDevelopment #KiroSpecs #KiroHindi #theAIgurukul",
+  "caption": "Kiro का बड़ा आइडिया: Spec-Driven Development\n\nयह एक कॉन्सेप्ट Kiro के बारे में सब कुछ समझा देता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 5.\n\n#SpecDrivenDevelopment #KiroSpecs #KiroHindi #theAIgurukul #fyp",
   "youtube": {
     "title": "Kiro का बड़ा आइडिया: Spec-Driven Development #Shorts",
-    "description": "Kiro का बड़ा आइडिया: Spec-Driven Development\n\nयह एक कॉन्सेप्ट Kiro के बारे में सब कुछ समझा देता है।\nSpec-driven development का मतलब है कि Kiro कोड लिखने से पहले रिक्वायरमेंट्स और डिज़ाइन डॉक्यूमेंट करता है।\nयह ब्लाइंड प्रॉम्प्टिंग के बिल्कुल उलट है।\nहर फीचर एक स्पेक से शुरू होता है, अंदाज़े से नहीं।\n\nKiro हिंदी सीरीज़ का एपिसोड 5। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SpecDrivenDevelopment #KiroSpecs #KiroHindi #theAIgurukul",
+    "description": "Kiro का बड़ा आइडिया: Spec-Driven Development\n\nयह एक कॉन्सेप्ट Kiro के बारे में सब कुछ समझा देता है।\nSpec-driven development का मतलब है कि Kiro कोड लिखने से पहले रिक्वायरमेंट्स और डिज़ाइन डॉक्यूमेंट करता है।\nयह ब्लाइंड प्रॉम्प्टिंग के बिल्कुल उलट है।\nहर फीचर एक स्पेक से शुरू होता है, अंदाज़े से नहीं।\n\nKiro हिंदी सीरीज़ का एपिसोड 5। theAIgurukul की फ्री Kiro ट्यूटोरियल सीरीज़ (AWS का agentic IDE)। रोज़ नए एपिसोड के लिए सब्सक्राइब करें।\n\n#SpecDrivenDevelopment #KiroSpecs #KiroHindi #theAIgurukul #getnoticed #viral #growthmindset #goalsetter #trending",
     "tags": [
       "SpecDrivenDevelopment",
       "KiroSpecs",
@@ -19,29 +19,18 @@
       "Kiro Hindi",
       "AWS Kiro",
       "theAIgurukul",
-      "Hindi coding"
+      "Hindi coding",
+      "engagementboost",
+      "reels",
+      "successmindset",
+      "keepgrowing",
+      "likeforlikes",
+      "growth",
+      "reachyourgoals"
     ],
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "scheduled",
-  "attempts": 0,
-  "history": [
-    {
-      "at": "2026-09-28T13:54:30Z",
-      "event": "uploading to YouTube"
-    },
-    {
-      "at": "2026-09-28T13:54:33Z",
-      "event": "YouTube scheduled: ip1EShzynZQ"
-    }
-  ],
-  "updated_at": "2026-09-28T13:54:33Z",
-  "result": {
-    "video_id": "ip1EShzynZQ",
-    "url": "https://www.youtube.com/shorts/ip1EShzynZQ",
-    "privacy": "private",
-    "publish_at": "2026-09-29T10:30:00Z",
-    "upload_status": "uploaded"
-  }
+  "status": "queued",
+  "attempts": 0
 }

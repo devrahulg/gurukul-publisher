@@ -8,10 +8,10 @@
     "drive_file_id": "1xmkn30-rA7K41_LYH7jGp2037tS6ST5y",
     "file_name": "Kiro-Ep006-EN.mp4"
   },
-  "caption": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\n\nOne Kiro tip a day. Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul",
+  "caption": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\n\nOne Kiro tip a day. Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul #trending",
   "youtube": {
     "title": "The 3 Documents Every Kiro Spec Creates #Shorts",
-    "description": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\nrequirements.md captures user stories and acceptance criteria.\ndesign.md maps the technical plan — schemas, APIs, diagrams.\ntasks.md breaks it all into sequenced, doable steps.\n\nEpisode 6 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul",
+    "description": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\nrequirements.md captures user stories and acceptance criteria.\ndesign.md maps the technical plan — schemas, APIs, diagrams.\ntasks.md breaks it all into sequenced, doable steps.\n\nEpisode 6 of theAIgurukul's free Kiro series, a daily short on AWS's agentic IDE. Subscribe for the next one.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul #explorepage #getnoticed #engagementboost #reels #viral #trending #successmindset",
     "tags": [
       "RequirementsMD",
       "DesignMD",
@@ -20,29 +20,16 @@
       "AWS Kiro",
       "Kiro tutorial",
       "theAIgurukul",
-      "agentic IDE"
+      "agentic IDE",
+      "foryourpage",
+      "growwithus",
+      "growth",
+      "likeforlikes",
+      "explorepage"
     ],
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "scheduled",
-  "attempts": 0,
-  "history": [
-    {
-      "at": "2026-09-29T01:11:27Z",
-      "event": "uploading to YouTube"
-    },
-    {
-      "at": "2026-09-29T01:11:30Z",
-      "event": "YouTube scheduled: 2z2EVZzUiik"
-    }
-  ],
-  "updated_at": "2026-09-29T01:11:30Z",
-  "result": {
-    "video_id": "2z2EVZzUiik",
-    "url": "https://www.youtube.com/shorts/2z2EVZzUiik",
-    "privacy": "private",
-    "publish_at": "2026-09-30T10:30:00Z",
-    "upload_status": "uploaded"
-  }
+  "status": "queued",
+  "attempts": 0
 }
