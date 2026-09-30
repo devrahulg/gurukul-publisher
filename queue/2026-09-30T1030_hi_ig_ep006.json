@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep006-HI.mp4"
   },
   "caption": "हर Kiro Spec की 3 डॉक्यूमेंट्स\n\nहर Kiro स्पेक ठीक 3 फाइलें बनाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-09-30T08:56:04Z",
+      "event": "missed: more than 180 min past its time"
+    }
+  ],
+  "updated_at": "2026-09-30T08:56:04Z"
 }

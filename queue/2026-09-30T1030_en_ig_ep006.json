@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep006-EN.mp4"
   },
   "caption": "The 3 Documents Every Kiro Spec Creates\n\nEvery Kiro spec makes exactly 3 files.\n\nOne Kiro tip a day. Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #theAIgurukul #doubletap",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-09-30T08:56:04Z",
+      "event": "missed: more than 180 min past its time"
+    }
+  ],
+  "updated_at": "2026-09-30T08:56:04Z"
 }
