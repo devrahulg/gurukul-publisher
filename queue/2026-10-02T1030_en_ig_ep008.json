@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep008-EN.mp4"
   },
   "caption": "Who Should Use Kiro? (Solo Devs to Enterprises)\n\nKiro isn't just for big engineering teams.\n\nOne Kiro tip a day. Episode 8.\n\n#WhoUsesKiro #EnterpriseAI #StartupTools #theAIgurukul #commentbelow",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18118073728877618",
+    "media_id": "18141478441610735",
+    "url": "https://www.instagram.com/reel/Dd-FMHCkS-3/"
+  },
+  "history": [
+    {
+      "at": "2026-10-01T23:23:21Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-01T23:23:50Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-01T23:23:50Z"
 }

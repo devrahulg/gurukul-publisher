@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep008-HI.mp4"
   },
   "caption": "Kiro किसके लिए है? (सोलो डेवलपर से एंटरप्राइज़ तक)\n\nKiro सिर्फ बड़ी इंजीनियरिंग टीमों के लिए नहीं है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 8.\n\n#WhoUsesKiro #EnterpriseAI #StartupTools #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18118073965877618",
+    "media_id": "18264162112307405",
+    "url": "https://www.instagram.com/reel/Dd-FTcOgMVp/"
+  },
+  "history": [
+    {
+      "at": "2026-10-01T23:23:51Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-01T23:25:00Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-01T23:25:00Z"
 }
