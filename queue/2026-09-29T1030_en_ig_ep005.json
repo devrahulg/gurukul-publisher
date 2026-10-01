@@ -1,15 +1,14 @@
 {
   "id": "2026-09-29T1030_en_ig_ep005",
   "account": "en_ig",
-  "publish_at": "2026-09-29T10:30:00+05:30",
-  "language": "en",
+  "publish_at": "2026-10-01T10:03:00+05:30",  "language": "en",
   "episode": 5,
   "video": {
     "drive_file_id": "172ezIDxizvxtTomruqyDJf9xIJo7yn_M",
     "file_name": "Kiro-Ep005-EN.mp4"
   },
   "caption": "Kiro's Big Idea: Spec-Driven Development\n\nThis one concept explains everything about Kiro.\n\nOne Kiro tip a day. Episode 5.\n\n#SpecDrivenDevelopment #KiroSpecs #theAIgurukul #explorepage #commentbelow",
-  "status": "missed",
+    "status": "queued",
   "attempts": 0,
   "history": [
     {
