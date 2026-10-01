@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep007-EN.mp4"
   },
   "caption": "Vibe Coding vs Spec Coding — What's the Difference?\n\nVibe coding got you a demo. It won't get you to prod.\n\nOne Kiro tip a day. Episode 7.\n\n#VibeCoding #SpecCoding #KiroWorkflow #theAIgurukul #getnoticed",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18117812518877618",
+    "media_id": "18113298503326882",
+    "url": "https://www.instagram.com/reel/Dd8Hai6jnLc/"
+  },
+  "history": [
+    {
+      "at": "2026-10-01T05:04:19Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-01T05:05:07Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-01T05:05:07Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "2026-09-30T1030_hi_ig_ep006",
   "account": "hi_ig",
-    "publish_at": "2026-10-01T10:03:00+05:30",
+  "publish_at": "2026-10-01T10:03:00+05:30",
   "language": "hi",
   "episode": 6,
   "video": {
@@ -9,13 +9,26 @@
     "file_name": "Kiro-Ep006-HI.mp4"
   },
   "caption": "हर Kiro Spec की 3 डॉक्यूमेंट्स\n\nहर Kiro स्पेक ठीक 3 फाइलें बनाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #KiroHindi #theAIgurukul",
-    "status": "queued",
+  "status": "published",
   "attempts": 0,
   "history": [
     {
       "at": "2026-09-30T08:56:04Z",
       "event": "missed: more than 180 min past its time"
+    },
+    {
+      "at": "2026-10-01T05:03:30Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-01T05:04:18Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-09-30T08:56:04Z"
+  "updated_at": "2026-10-01T05:04:18Z",
+  "result": {
+    "container_id": "18117812131877618",
+    "media_id": "18130031435504356",
+    "url": "https://www.instagram.com/reel/Dd8HVhEDgDU/"
+  }
 }
