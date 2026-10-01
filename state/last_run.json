@@ -1,9 +1,9 @@
 {
-  "ran_at": "2026-10-01T05:05:55Z",
+  "ran_at": "2026-10-01T06:26:20Z",
   "missed": 0,
   "youtube_done": 0,
   "youtube_errors": 0,
-  "instagram_done": 6,
+  "instagram_done": 0,
   "instagram_errors": 0,
   "accounts": {
     "hi_ig": "ready",
