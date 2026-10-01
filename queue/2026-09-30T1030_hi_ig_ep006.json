@@ -1,7 +1,7 @@
 {
   "id": "2026-09-30T1030_hi_ig_ep006",
   "account": "hi_ig",
-  "publish_at": "2026-09-30T10:30:00+05:30",
+    "publish_at": "2026-10-01T10:03:00+05:30",
   "language": "hi",
   "episode": 6,
   "video": {
@@ -9,7 +9,7 @@
     "file_name": "Kiro-Ep006-HI.mp4"
   },
   "caption": "हर Kiro Spec की 3 डॉक्यूमेंट्स\n\nहर Kiro स्पेक ठीक 3 फाइलें बनाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 6.\n\n#RequirementsMD #DesignMD #TasksMD #KiroHindi #theAIgurukul",
-  "status": "missed",
+    "status": "queued",
   "attempts": 0,
   "history": [
     {
