@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep010-EN.mp4"
   },
   "caption": "Kiro in 30 Seconds: The Whole Idea Recap\n\nEverything about Kiro, in one video.\n\nOne Kiro tip a day. Episode 10.\n\n#KiroRecap #KiroBasics #Module1 #theAIgurukul #likeforlikes",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18118761169877618",
+    "media_id": "18020004650927561",
+    "url": "https://www.instagram.com/reel/DeDF5vUlJY6/"
+  },
+  "history": [
+    {
+      "at": "2026-10-03T22:05:35Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-03T22:06:24Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-03T22:06:24Z"
 }
