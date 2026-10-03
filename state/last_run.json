@@ -1,9 +1,9 @@
 {
-  "ran_at": "2026-10-02T20:35:58Z",
+  "ran_at": "2026-10-03T00:00:47Z",
   "missed": 0,
-  "youtube_done": 0,
+  "youtube_done": 2,
   "youtube_errors": 0,
-  "instagram_done": 0,
+  "instagram_done": 2,
   "instagram_errors": 0,
   "accounts": {
     "hi_ig": "ready",
@@ -15,22 +15,22 @@
     "en_yt": {
       "published": 1,
       "missed": 1,
-      "scheduled": 4,
-      "queued": 70
+      "scheduled": 5,
+      "queued": 69
     },
     "hi_yt": {
       "published": 1,
       "missed": 1,
-      "scheduled": 4,
-      "queued": 70
+      "scheduled": 5,
+      "queued": 69
     },
     "en_ig": {
-      "published": 4,
-      "queued": 71
+      "published": 5,
+      "queued": 70
     },
     "hi_ig": {
-      "published": 4,
-      "queued": 71
+      "published": 5,
+      "queued": 70
     }
   }
 }

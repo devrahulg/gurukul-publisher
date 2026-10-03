@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep009-EN.mp4"
   },
   "caption": "Kiro's Founding Problem: Prototypes That Never Ship\n\nSound familiar? Great demo, dead project.\n\nOne Kiro tip a day. Episode 9.\n\n#PrototypeToProduction #AIEngineering #theAIgurukul #growth #engagementboost",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18118425580877618",
+    "media_id": "17975034695935876",
+    "url": "https://www.instagram.com/reel/DeAuF3ngr6y/"
+  },
+  "history": [
+    {
+      "at": "2026-10-02T23:59:13Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-03T00:00:01Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-03T00:00:01Z"
 }

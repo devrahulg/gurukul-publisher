@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep009-HI.mp4"
   },
   "caption": "Kiro की शुरुआती समस्या: प्रोटोटाइप जो कभी शिप नहीं होते\n\nजाना-पहचाना लगता है? शानदार डेमो, मरा हुआ प्रोजेक्ट।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 9.\n\n#PrototypeToProduction #AIEngineering #KiroHindi #theAIgurukul #growthmindset",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18118425889877618",
+    "media_id": "17870363616641610",
+    "url": "https://www.instagram.com/reel/DeAuLr9k4fO/"
+  },
+  "history": [
+    {
+      "at": "2026-10-03T00:00:02Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-03T00:00:47Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-03T00:00:47Z"
 }
