@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep012-HI.mp4"
   },
   "caption": "आपका पहला Kiro प्रोजेक्ट, शुरू से अंत तक\n\nदेखिए कैसे एक Kiro प्रोजेक्ट आइडिया से शिप्ड फीचर तक पहुंचता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 12.\n\n#FirstProject #KiroDemo #SpecFlow #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119147434877618",
+    "media_id": "18111045119269685",
+    "url": "https://www.instagram.com/reel/DeF0pa9iDKI/"
+  },
+  "history": [
+    {
+      "at": "2026-10-04T23:32:42Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-04T23:33:36Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-04T23:33:36Z"
 }

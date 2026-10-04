@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep012-EN.mp4"
   },
   "caption": "Your First Kiro Project, Start to Finish\n\nWatch a Kiro project go from idea to shipped feature.\n\nOne Kiro tip a day. Episode 12.\n\n#FirstProject #KiroDemo #SpecFlow #theAIgurukul #growthmindset",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119147215877618",
+    "media_id": "18118000231982286",
+    "url": "https://www.instagram.com/reel/DeF0iZOCSM3/"
+  },
+  "history": [
+    {
+      "at": "2026-10-04T23:31:26Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-04T23:32:41Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-04T23:32:41Z"
 }
