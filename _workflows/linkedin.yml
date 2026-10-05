@@ -1,0 +1,47 @@
+name: linkedin
+
+# Posts to the LinkedIn page. LinkedIn has no scheduling API, so this checks every
+# 20 minutes (weekdays, 07:30-18:30 IST) and posts whatever is inside its time window.
+# A one-second pre-check skips the heavy steps when nothing is due.
+on:
+  schedule:
+    - cron: "5,25,45 2-12 * * 1-5"
+  workflow_dispatch: {}
+
+concurrency:
+  group: publisher-linkedin
+  cancel-in-progress: false
+
+jobs:
+  linkedin:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    env:
+      LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
+      LINKEDIN_AUTHOR: ${{ secrets.LINKEDIN_AUTHOR }}
+      GOOGLE_SA_KEY: ${{ secrets.GOOGLE_SA_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: due
+        run: python3 tools/linkedin_due.py
+      - if: steps.due.outputs.due == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - if: steps.due.outputs.due == 'true' || github.event_name == 'workflow_dispatch'
+        run: pip install -r requirements.txt
+      - if: steps.due.outputs.due == 'true' || github.event_name == 'workflow_dispatch'
+        run: python -m publisher linkedin-run
+      - name: Save queue changes
+        if: always() && (steps.due.outputs.due == 'true' || github.event_name == 'workflow_dispatch')
+        run: |
+          git config user.name "gurukul-publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue state
+          if git diff --cached --quiet; then echo "nothing to save"; exit 0; fi
+          git commit -m "linkedin: run $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4; do git pull --rebase && git push && exit 0; sleep 6; done
+          exit 1

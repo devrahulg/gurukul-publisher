@@ -26,5 +26,12 @@
     "refresh_secret": "YT_REFRESH_EN",
     "enabled": true,
     "client_suffix": "EN"
+  },
+  "li_page": {
+    "platform": "linkedin",
+    "label": "LinkedIn page theAIgurukul",
+    "token_secret": "LINKEDIN_TOKEN",
+    "author_secret": "LINKEDIN_AUTHOR",
+    "enabled": true
   }
 }

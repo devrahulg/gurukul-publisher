@@ -31,6 +31,9 @@ MANIFEST = "manifest.json"
 def account_ready(name: str, acct: dict) -> tuple[bool, str]:
     if not acct.get("enabled"):
         return False, "disabled in config/accounts.json"
+    if acct["platform"] == "linkedin":  # linkedin-patch-3
+        from .linkedin_run import linkedin_ready
+        return linkedin_ready(acct)
     key = acct.get("token_secret") if acct["platform"] == "instagram" else acct.get("refresh_secret")
     if not key or not os.environ.get(key, "").strip():
         return False, f"secret {key} not set"
@@ -396,13 +399,17 @@ def main(argv: list[str] | None = None) -> int:
         sp.add_argument("--site", default="site")
         if name == "prepare":
             sp.add_argument("--static-only", action="store_true")
-    for name in ("stats", "refresh-ig-tokens", "validate"):
+    for name in ("stats", "refresh-ig-tokens", "validate", "linkedin-run", "linkedin-check",  # linkedin-patch-4
+                 "linkedin-refresh", "linkedin-stats"):
         sub.add_parser(name)
     args = ap.parse_args(argv)
     if args.cmd == "prepare":
         return cmd_prepare(pathlib.Path(args.site), args.static_only)
     if args.cmd == "run":
         return cmd_run(pathlib.Path(args.site))
+    if args.cmd.startswith("linkedin-"):  # linkedin-patch-5
+        from .linkedin_run import main as linkedin_main
+        return linkedin_main(args.cmd)
     if args.cmd == "stats":
         return cmd_stats()
     if args.cmd == "refresh-ig-tokens":

@@ -14,7 +14,7 @@ from .common import ROOT, iso_utc, load_json, now_utc, parse_ts, save_json
 
 QDIR = ROOT / "queue"
 OPEN = {"queued"}
-REQUIRED = ("id", "account", "publish_at", "video")
+REQUIRED = ("id", "account", "publish_at")  # linkedin-patch-1 (video is checked below, per platform)
 
 
 class Post(dict):
@@ -59,9 +59,15 @@ def validate(post: dict, accounts: dict) -> list[str]:
             problems.append("YouTube post needs youtube.title")
         if acct["platform"] == "instagram" and not post.get("caption"):
             problems.append("Instagram post needs caption")
-    video = post.get("video") or {}
-    if not (video.get("drive_file_id") or video.get("url")):
-        problems.append("video needs drive_file_id or url")
+    if acct and acct["platform"] == "linkedin":  # linkedin-patch-2
+        from .linkedin_api import post_problems
+        problems.extend(post_problems(post))
+    else:
+        video = post.get("video") or {}
+        if not video:
+            problems.append("missing video")
+        elif not (video.get("drive_file_id") or video.get("url")):
+            problems.append("video needs drive_file_id or url")
     try:
         parse_ts(post.get("publish_at", ""))
     except Exception:  # noqa: BLE001
