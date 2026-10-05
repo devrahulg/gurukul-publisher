@@ -1,7 +1,7 @@
 {
-  "ran_at": "2026-10-05T08:23:46Z",
+  "ran_at": "2026-10-05T10:45:30Z",
   "missed": 0,
-  "linkedin_done": 0,
-  "linkedin_errors": 1,
-  "auth_problem": "LinkedIn create post: HTTP 401: {\"status\":401,\"serviceErrorCode\":65600,\"code\":\"INVALID_ACCESS_TOKEN\",\"message\":\"Invalid access token\"}"
+  "linkedin_done": 1,
+  "linkedin_errors": 0,
+  "auth_problem": null
 }

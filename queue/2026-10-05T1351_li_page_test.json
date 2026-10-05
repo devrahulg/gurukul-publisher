@@ -5,17 +5,23 @@
   "type": "text",
   "language": "en",
   "commentary": "Testing the theAIgurukul publisher (this post can be deleted). #theAIgurukul",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "result": {
-    "create_sent": false
+    "create_sent": false,
+    "post_urn": "urn:li:share:7512825287085314049",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7512825287085314049/"
   },
-  "updated_at": "2026-10-05T08:23:46Z",
+  "updated_at": "2026-10-05T10:45:30Z",
   "last_error": "LinkedIn create post: HTTP 401: {\"status\":401,\"serviceErrorCode\":65600,\"code\":\"INVALID_ACCESS_TOKEN\",\"message\":\"Invalid access token\"}",
   "history": [
     {
       "at": "2026-10-05T08:23:46Z",
       "event": "LinkedIn refused the token; fix the connection (see SETUP-LINKEDIN.md)"
+    },
+    {
+      "at": "2026-10-05T10:45:30Z",
+      "event": "published on LinkedIn"
     }
   ]
 }
