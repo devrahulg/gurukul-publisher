@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-15T1230_en_yt_ep120",
+  "account": "en_yt",
+  "publish_at": "2026-11-15T12:30:00+05:30",
+  "language": "en",
+  "episode": 120,
+  "video": {
+    "drive_file_id": "1CtU5rjVxBK4qHZRf6_C_831tZHKiKBnw",
+    "file_name": "Kiro-Buzz120-EN.mp4"
+  },
+  "caption": "4 Kiro hook gotchas nobody warns you about\n\nFour Kiro hook gotchas that save you an hour.\n\n1. Agent only\n2. No manual hooks\n3. Slash command trick\n4. More triggers\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/hooks/types/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #Troubleshooting #theAIgurukul",
+  "youtube": {
+    "title": "4 Kiro hook gotchas nobody warns you about #Shorts",
+    "description": "4 Kiro hook gotchas nobody warns you about\n\nFour Kiro hook gotchas that save you an hour.\n\n1. Agent only - File triggers fire on agent changes, not your saves.\n2. No manual hooks - You can't create new manual hooks in the IDE.\n3. Slash command trick - Use a manual steering file as a slash command.\n4. More triggers - There are more triggers than file events.\n\nDocs: https://kiro.dev/docs/hooks/types/\n\nKnow a dev who needs this? Send it to them. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #AgentHooks #Kiro",
+    "tags": [
+      "kiro hooks gotchas",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AgentHooks",
+      "Troubleshooting"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-07T0930_en_yt_ep234",
+  "account": "en_yt",
+  "publish_at": "2026-11-07T09:30:00+05:30",
+  "language": "en",
+  "episode": 234,
+  "video": {
+    "drive_file_id": "1Bzr9q1Qvh4jN9_yZOLuxuN4J6ow3qzNM",
+    "file_name": "Claude-Buzz234-EN.mp4"
+  },
+  "caption": "Install Claude Code in 4 steps on Mac, Linux or Windows with the native installer. Beginner setup guide.\n\nInstall Claude Code in 4 steps, in minutes. Mac, Linux or Windows. Not on Free.\n\n1. Install\n2. Check\n3. Start\n4. Log In\n\nSend this to a friend who wants to try Claude Code\nMac, Linux or Windows?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/overview\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #CodingTutorial #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Install Claude Code: 4 steps on Mac, Linux or Windows (beginner tutorial) #Shorts",
+    "description": "Install Claude Code in 4 steps on Mac, Linux or Windows with the native installer. Beginner setup guide.\n\nInstall Claude Code in 4 steps, in minutes. Mac, Linux or Windows. Not on Free.\n\n1. Install - Run the one-line installer for your system.\n2. Check - Open a new terminal and check the version.\n3. Start - Go into your project folder and type claude.\n4. Log In - Sign in with Pro, Max, Team, Enterprise, or Console. Then ask a question.\n\nNeeds: Pro, Max or Console\n\nOfficial docs: https://code.claude.com/docs/en/overview\n\nSend this to a friend who wants to try Claude Code\nMac, Linux or Windows? Send it to a friend who codes. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #CodingTutorial",
+    "tags": [
+      "install claude code",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "CodingTutorial",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

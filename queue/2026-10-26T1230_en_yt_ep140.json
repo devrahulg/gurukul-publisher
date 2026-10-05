@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-26T1230_en_yt_ep140",
+  "account": "en_yt",
+  "publish_at": "2026-10-26T12:30:00+05:30",
+  "language": "en",
+  "episode": 140,
+  "video": {
+    "drive_file_id": "1jkahUh21WaQaqwj98LoTn8171EjnqiG9",
+    "file_name": "Kiro-Buzz140-EN.mp4"
+  },
+  "caption": "Is Kiro just a VS Code fork? 4 facts (Code OSS, Open VSX)\n\nIs Kiro just a VS Code fork? Four facts.\n\n1. Code OSS base\n2. Open VSX\n3. Familiar feel\n4. Plus more\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/upgrade-guides/migrating-from-vscode/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VSCode #Kiro #CodeOSS #theAIgurukul",
+  "youtube": {
+    "title": "Is Kiro just a VS Code fork? 4 facts (Code OSS, Open VSX) #Shorts",
+    "description": "Is Kiro just a VS Code fork? 4 facts (Code OSS, Open VSX)\n\nIs Kiro just a VS Code fork? Four facts.\n\n1. Code OSS base - Built on the open source core of VS Code.\n2. Open VSX - Extensions come from the Open VSX registry.\n3. Familiar feel - Your muscle memory carries over.\n4. Plus more - Specs, hooks, steering and Powers on top.\n\nDocs: https://kiro.dev/docs/upgrade-guides/migrating-from-vscode/\n\nGot a Kiro question? Ask it below. I reply. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #VSCode #Kiro",
+    "tags": [
+      "is kiro a vs code fork",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "VSCode",
+      "CodeOSS"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

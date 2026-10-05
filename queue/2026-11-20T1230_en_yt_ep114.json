@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-20T1230_en_yt_ep114",
+  "account": "en_yt",
+  "publish_at": "2026-11-20T12:30:00+05:30",
+  "language": "en",
+  "episode": 114,
+  "video": {
+    "drive_file_id": "1KIvhrW49sOm197CZ5RwPVvUb3pKMNTAI",
+    "file_name": "Kiro-Buzz114-EN.mp4"
+  },
+  "caption": "4 Kiro steering rules to steal (stop repeating yourself in prompts)\n\nFour steering rules so you never repeat yourself to Kiro again.\n\n1. Naming\n2. Errors\n3. Libraries\n4. Tests\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SteeringFiles #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "4 Kiro steering rules to steal (stop repeating yourself in prompts) #Shorts",
+    "description": "4 Kiro steering rules to steal (stop repeating yourself in prompts)\n\nFour steering rules so you never repeat yourself to Kiro again.\n\n1. Naming - Spell out your naming conventions.\n2. Errors - Say how errors should be handled.\n3. Libraries - List the libraries you prefer.\n4. Tests - Say what must be tested.\n\nDocs: https://kiro.dev/docs/steering/\n\nKnow a dev who needs this? Send it to them. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #SteeringFiles",
+    "tags": [
+      "kiro steering rules examples",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "SteeringFiles",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

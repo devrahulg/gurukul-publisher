@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-10T0930_en_yt_ep206",
+  "account": "en_yt",
+  "publish_at": "2026-10-10T09:30:00+05:30",
+  "language": "en",
+  "episode": 206,
+  "video": {
+    "drive_file_id": "15Hwuchhje3gPu_Wl3nI_VcVNb_OdVBE8",
+    "file_name": "Claude-Buzz206-EN.mp4"
+  },
+  "caption": "Import ChatGPT memory to Claude in 3 steps: export, Start import, paste. Experimental, so review the result.\n\nImport ChatGPT memory to Claude in 3 steps. Free, Pro, Max and Team plans.\n\n1. Export\n2. Start\n3. Paste\n\nSend this to a friend who is switching from ChatGPT.\nSwitching from ChatGPT? Yes or no?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ChatGPTtoClaude #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Import ChatGPT memory to Claude: 3 steps, no starting over (Free to Team) #Shorts",
+    "description": "Import ChatGPT memory to Claude in 3 steps: export, Start import, paste. Experimental, so review the result.\n\nImport ChatGPT memory to Claude in 3 steps. Free, Pro, Max and Team plans.\n\n1. Export - Ask ChatGPT to list its memories in one code block.\n2. Start - Open Settings, then Memory, then Start import.\n3. Paste - Paste the text and click Add to memory. Then review what Claude kept.\n\nNeeds: Free to Team\n\nOfficial docs: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude\n\nSend this to a friend who is switching from ChatGPT.\nSwitching from ChatGPT? Yes or no? Send it to a friend who is switching. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ChatGPTtoClaude",
+    "tags": [
+      "import chatgpt memory to claude",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "ChatGPTtoClaude",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

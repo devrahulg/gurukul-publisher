@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-11T0930_en_yt_ep238",
+  "account": "en_yt",
+  "publish_at": "2026-11-11T09:30:00+05:30",
+  "language": "en",
+  "episode": 238,
+  "video": {
+    "drive_file_id": "1WRKCSolppcmbNh4_H0Vk9U7Jb3Cg2VlW",
+    "file_name": "Claude-Buzz238-EN.mp4"
+  },
+  "caption": "Claude Code plan mode: Claude explores and proposes a plan, you approve, then it builds. 3 steps.\n\nClaude Code plan mode: 3 steps before any code changes. Stop it from rushing in.\n\n1. Switch\n2. Review\n3. Approve\n\nSend this to a friend whose AI edits files too fast\nPlan first, always or sometimes?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/permission-modes\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AICoding #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude Code plan mode explained: review the plan before any code changes #Shorts",
+    "description": "Claude Code plan mode: Claude explores and proposes a plan, you approve, then it builds. 3 steps.\n\nClaude Code plan mode: 3 steps before any code changes. Stop it from rushing in.\n\n1. Switch - Press Shift+Tab until plan mode shows, or run /plan.\n2. Review - Claude explores and proposes. Nothing gets edited.\n3. Approve - Edit the plan, approve it, then let it build.\n\nNeeds: Pro, Max or Console\n\nOfficial docs: https://code.claude.com/docs/en/permission-modes\n\nSend this to a friend whose AI edits files too fast\nPlan first, always or sometimes? Send it to a friend who codes with AI. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AICoding",
+    "tags": [
+      "claude code plan mode",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "AICoding",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

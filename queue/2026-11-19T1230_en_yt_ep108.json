@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-19T1230_en_yt_ep108",
+  "account": "en_yt",
+  "publish_at": "2026-11-19T12:30:00+05:30",
+  "language": "en",
+  "episode": 108,
+  "video": {
+    "drive_file_id": "1HFaLis6foGbGfL6dRc7gQR9Pwoq0AF-7",
+    "file_name": "Kiro-Buzz108-EN.mp4"
+  },
+  "caption": "Kiro bugfix spec vs feature spec vs design-first: how to choose\n\nFour questions to pick the right type of Kiro spec.\n\n1. New feature?\n2. Fixing a bug?\n3. Know the design?\n4. Not sure?\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/blog/specs-bugfix-and-design-first/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro bugfix spec vs feature spec vs design-first: how to choose #Shorts",
+    "description": "Kiro bugfix spec vs feature spec vs design-first: how to choose\n\nFour questions to pick the right type of Kiro spec.\n\n1. New feature? - Use a feature spec. Requirements come first.\n2. Fixing a bug? - Use a bugfix spec. bugfix.md replaces requirements.md.\n3. Know the design? - Try design-first. Start from design.md.\n4. Not sure? - Start with a feature spec and review it.\n\nDocs: https://kiro.dev/blog/specs-bugfix-and-design-first/\n\nKnow a dev who needs this? Send it to them. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment",
+    "tags": [
+      "kiro bugfix spec vs feature spec",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "SpecDrivenDevelopment",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

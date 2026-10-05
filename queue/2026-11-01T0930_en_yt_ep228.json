@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-01T0930_en_yt_ep228",
+  "account": "en_yt",
+  "publish_at": "2026-11-01T09:30:00+05:30",
+  "language": "en",
+  "episode": 228,
+  "video": {
+    "drive_file_id": "1qL64yFqRPz1Zegrb0u752_dnHd9eKtun",
+    "file_name": "Claude-Buzz228-EN.mp4"
+  },
+  "caption": "AI powered artifacts in Claude: build an app that uses Claude inside it in 3 steps, then share it with a link.\n\nAI powered artifacts in Claude: build an app in 3 steps. The AI runs inside your app.\n\n1. Ask\n2. Test\n3. Share\n\nSend this to a friend who has an app idea.\nWhat app would you build?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #BuildWithAI #AItips #theAIgurukul",
+  "youtube": {
+    "title": "AI powered artifacts Claude: 3 steps to build an app that uses Claude #Shorts",
+    "description": "AI powered artifacts in Claude: build an app that uses Claude inside it in 3 steps, then share it with a link.\n\nAI powered artifacts in Claude: build an app in 3 steps. The AI runs inside your app.\n\n1. Ask - Ask for a recipe app that suggests dishes from ingredients.\n2. Test - Try it out; the AI runs inside the app.\n3. Share - Publish it; viewers sign in with their own Claude account. Their usage does not hit yours.\n\nNeeds: Free, Pro, Max\n\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nSend this to a friend who has an app idea.\nWhat app would you build? Send it to a friend who builds side projects. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #BuildWithAI",
+    "tags": [
+      "ai powered artifacts claude",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "BuildWithAI",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

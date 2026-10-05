@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-20T2000_en_ig_ep149",
+  "account": "en_ig",
+  "publish_at": "2026-10-20T20:00:00+05:30",
+  "language": "en",
+  "episode": 149,
+  "video": {
+    "drive_file_id": "1Jj01quK99WYZaHgiPm3x2hqTGcH1v-SP",
+    "file_name": "Kiro-Buzz149-EN.mp4"
+  },
+  "caption": "5 AI coding habits to stop right now (and what to do instead)\n\nFive AI coding habits to drop right now.\n\n1. Giant prompts\n2. Accepting unread diffs\n3. Skipping tests\n4. Retyping your rules\n5. Coding without a plan\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/specs/best-practices/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AIcoding #VibeCoding #SoftwareEngineering #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

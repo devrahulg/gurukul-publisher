@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-15T0930_en_yt_ep242",
+  "account": "en_yt",
+  "publish_at": "2026-11-15T09:30:00+05:30",
+  "language": "en",
+  "episode": 242,
+  "video": {
+    "drive_file_id": "1ZAZXO6ogGenD-ElK0D0ZbXv6-cYqRXc8",
+    "file_name": "Claude-Buzz242-EN.mp4"
+  },
+  "caption": "Claude Code subagents let you split a big job into parallel helpers. Here are 3 steps, with a prompt to copy.\n\nClaude Code subagents run jobs in parallel, not one by one. Here are the three steps.\n\n1. Describe\n2. Delegate\n3. Merge\n\nSend this to a friend who uses Claude Code every day\nTests or README first?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/sub-agents\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AIAgents #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude Code subagents tutorial: split one big job across parallel agents #Shorts",
+    "description": "Claude Code subagents let you split a big job into parallel helpers. Here are 3 steps, with a prompt to copy.\n\nClaude Code subagents run jobs in parallel, not one by one. Here are the three steps.\n\n1. Describe - Describe a big job with separate parts, like tests and README.\n2. Delegate - Ask Claude to use subagents.\n3. Merge - They run in parallel, and summaries return to you. Use git to undo changes.\n\nNeeds: Paid plans or Console\n\nOfficial docs: https://code.claude.com/docs/en/sub-agents\n\nSend this to a friend who uses Claude Code every day\nTests or README first? Send it to a developer friend. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AIAgents",
+    "tags": [
+      "claude code subagents",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "AIAgents",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

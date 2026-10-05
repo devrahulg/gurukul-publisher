@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-19T1230_en_yt_ep147",
+  "account": "en_yt",
+  "publish_at": "2026-10-19T12:30:00+05:30",
+  "language": "en",
+  "episode": 147,
+  "video": {
+    "drive_file_id": "15jXTC47PXtcgwYEeIbDsfb1xNLIOqAiY",
+    "file_name": "Kiro-Buzz147-EN.mp4"
+  },
+  "caption": "5 safe AI coding agent habits (Kiro permissions explained)\n\nFive habits that keep AI coding agents from hurting you.\n\n1. Supervise risky work\n2. Read every diff\n3. Careful with trust all\n4. Distrust new repos\n5. Keep secrets out\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/ide/chat/autopilot/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AIsafety #Kiro #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "5 safe AI coding agent habits (Kiro permissions explained) #Shorts",
+    "description": "5 safe AI coding agent habits (Kiro permissions explained)\n\nFive habits that keep AI coding agents from hurting you.\n\n1. Supervise risky work - Use Supervised mode for anything sensitive.\n2. Read every diff - Never accept changes you haven't read.\n3. Careful with trust all - /tools trust-all skips approvals in the CLI.\n4. Distrust new repos - Treat untrusted workspaces with care.\n5. Keep secrets out - Never paste keys into prompts.\n\nDocs: https://kiro.dev/docs/ide/chat/autopilot/\n\nWhich one did you not know? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #AIsafety #Kiro",
+    "tags": [
+      "ai coding agent safety",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AIsafety",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

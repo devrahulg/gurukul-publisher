@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-02T1700_en_ig_ep129",
+  "account": "en_ig",
+  "publish_at": "2026-11-02T17:00:00+05:30",
+  "language": "en",
+  "episode": 129,
+  "video": {
+    "drive_file_id": "1SOOVuevWCBoYaTHzBwurSxAjh_iOZqoL",
+    "file_name": "Kiro-Buzz129-EN.mp4"
+  },
+  "caption": "Kiro Web + GitHub: issue to pull request in 4 steps\n\nFour steps to turn a GitHub issue into a pull request with Kiro.\n\n1. Connect GitHub\n2. Label the issue\n3. Or comment\n4. Review the PR\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/web/github/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroWeb #GitHub #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

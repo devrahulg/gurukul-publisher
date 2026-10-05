@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-18T1230_en_yt_ep143",
+  "account": "en_yt",
+  "publish_at": "2026-11-18T12:30:00+05:30",
+  "language": "en",
+  "episode": 143,
+  "video": {
+    "drive_file_id": "1AqxoorrUGJb5r5LgQ2inJHe5JWYdhkiv",
+    "file_name": "Kiro-Buzz143-EN.mp4"
+  },
+  "caption": "Kiro for teams: 4 things to commit to your repo\n\nFour things to commit so your whole team shares Kiro's brain.\n\n1. Steering files\n2. Specs\n3. AGENTS.md\n4. Skills\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #TeamWork #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro for teams: 4 things to commit to your repo #Shorts",
+    "description": "Kiro for teams: 4 things to commit to your repo\n\nFour things to commit so your whole team shares Kiro's brain.\n\n1. Steering files - Shared rules for every agent.\n2. Specs - The plans live next to the code.\n3. AGENTS.md - One file, many tools.\n4. Skills - Reusable abilities for the team.\n\nDocs: https://kiro.dev/docs/steering/\n\nWhich step surprised you? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #TeamWork",
+    "tags": [
+      "kiro team setup commit",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "TeamWork",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

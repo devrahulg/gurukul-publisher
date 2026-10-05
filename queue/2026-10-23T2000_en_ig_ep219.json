@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-23T2000_en_ig_ep219",
+  "account": "en_ig",
+  "publish_at": "2026-10-23T20:00:00+05:30",
+  "language": "en",
+  "episode": 219,
+  "video": {
+    "drive_file_id": "1FeJmO4C23Cw8VyNV2_TzB-ezYN45W7XL",
+    "file_name": "Claude-Buzz219-EN.mp4"
+  },
+  "caption": "Claude meeting notes action items: paste your notes, ask for decisions, owners and open questions, then draft the follow-up.\n\nClaude meeting notes to action items in 4 steps. Paste, ask, draft, check.\n\n1. Paste\n2. Ask\n3. Draft\n4. Check\n\nSend this to a friend who hates writing meeting minutes.\nHow many meetings this week?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #MeetingNotes #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

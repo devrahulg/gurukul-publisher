@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-10T1230_en_yt_ep103",
+  "account": "en_yt",
+  "publish_at": "2026-10-10T12:30:00+05:30",
+  "language": "en",
+  "episode": 103,
+  "video": {
+    "drive_file_id": "1mP9GUiZJsXKZzEacfPF7fN4ijq-mfRNq",
+    "file_name": "Kiro-Buzz103-EN.mp4"
+  },
+  "caption": "5 reasons AI-built prototypes never reach production (and the Kiro fix)\n\nFive reasons your AI prototype never reaches production.\n\n1. No docs\n2. No design decisions\n3. No validated requirements\n4. No task plan\n5. No guardrails\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AIcoding #VibeCoding #SoftwareEngineering #theAIgurukul",
+  "youtube": {
+    "title": "5 reasons AI-built prototypes never reach production (and the Kiro fix) #Shorts",
+    "description": "5 reasons AI-built prototypes never reach production (and the Kiro fix)\n\nFive reasons your AI prototype never reaches production.\n\n1. No docs - Nobody wrote down what it should do.\n2. No design decisions - Choices were made, but never recorded.\n3. No validated requirements - Nobody checked what was actually needed.\n4. No task plan - Work happens in random order.\n5. No guardrails - Every prompt starts from zero.\n\nDocs: https://kiro.dev/docs/specs/\n\nWant this saved for later? Tap save. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #AIcoding #VibeCoding",
+    "tags": [
+      "why ai prototypes never reach production",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AIcoding",
+      "VibeCoding",
+      "SoftwareEngineering"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

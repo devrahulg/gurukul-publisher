@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-21T1230_en_yt_ep148",
+  "account": "en_yt",
+  "publish_at": "2026-11-21T12:30:00+05:30",
+  "language": "en",
+  "episode": 148,
+  "video": {
+    "drive_file_id": "1S5wVMW9y1jYxRrxFEMcPZCAl9s0NOGOU",
+    "file_name": "Kiro-Buzz148-EN.mp4"
+  },
+  "caption": "5 prompts to start a Kiro spec (copy and paste)\n\nFive prompts to start a Kiro spec with.\n\n1. New feature\n2. Bug report\n3. Refactor\n4. Add tests\n5. Explain first\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #PromptEngineering #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "5 prompts to start a Kiro spec (copy and paste) #Shorts",
+    "description": "5 prompts to start a Kiro spec (copy and paste)\n\nFive prompts to start a Kiro spec with.\n\n1. New feature - Build X for Y so they can Z.\n2. Bug report - Describe the bug and the expected behavior.\n3. Refactor - Name what must not change.\n4. Add tests - Say which behavior needs coverage.\n5. Explain first - Ask Kiro to explain before it builds.\n\nDocs: https://kiro.dev/docs/specs/\n\nLearning Kiro too? Say hi in the comments. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #PromptEngineering",
+    "tags": [
+      "kiro spec prompt examples",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "PromptEngineering",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

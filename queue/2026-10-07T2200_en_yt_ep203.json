@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-07T2200_en_yt_ep203",
+  "account": "en_yt",
+  "publish_at": "2026-10-07T22:00:00+05:30",
+  "language": "en",
+  "episode": 203,
+  "video": {
+    "drive_file_id": "1-XHY2_0FNfLu263hxWbdL6siemj920kE",
+    "file_name": "Claude-Buzz203-EN.mp4"
+  },
+  "caption": "Build an app with Claude, no code: describe it in one sentence, then publish a link anyone can open.\n\nBuild an app with Claude, no code, in 4 steps. Free plan. One sentence is enough.\n\n1. Describe\n2. Use It\n3. Change It\n4. Share\n\nSend this to a friend who says they cannot code.\nWhat app would you build?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #NoCode #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Build an app with Claude no code: 4-step tutorial for beginners (free plan) #Shorts",
+    "description": "Build an app with Claude, no code: describe it in one sentence, then publish a link anyone can open.\n\nBuild an app with Claude, no code, in 4 steps. Free plan. One sentence is enough.\n\n1. Describe - Describe a habit tracker in one sentence.\n2. Use It - Click through the working app in the chat.\n3. Change It - Ask for dark mode or a reset button in plain words.\n4. Share - Click Publish to get a link anyone can open. Then send it to a friend.\n\nNeeds: Free, Pro and Max\n\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nSend this to a friend who says they cannot code.\nWhat app would you build? Send it to a non-coder friend. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #NoCode",
+    "tags": [
+      "build an app with claude no code",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "NoCode",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

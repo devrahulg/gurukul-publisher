@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-16T2000_en_ig_ep243",
+  "account": "en_ig",
+  "publish_at": "2026-11-16T20:00:00+05:30",
+  "language": "en",
+  "episode": 243,
+  "video": {
+    "drive_file_id": "1Sui9OafIgNpRlXjmnV3pldz3zBWrUUI_",
+    "file_name": "Claude-Buzz243-EN.mp4"
+  },
+  "caption": "Claude Slides: build a presentation from one prompt, edit it, then export to PowerPoint or PDF. Beta, paid plans only.\n\nClaude Slides builds a six slide deck from one prompt. Here is the exact prompt.\n\n1. Ask\n2. Review\n3. Edit\n4. Export\n\nSend this to a friend who dreads making presentations\nHow many slides is your deck?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Presentations #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

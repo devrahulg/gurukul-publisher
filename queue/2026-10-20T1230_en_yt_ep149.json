@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-20T1230_en_yt_ep149",
+  "account": "en_yt",
+  "publish_at": "2026-10-20T12:30:00+05:30",
+  "language": "en",
+  "episode": 149,
+  "video": {
+    "drive_file_id": "1Jj01quK99WYZaHgiPm3x2hqTGcH1v-SP",
+    "file_name": "Kiro-Buzz149-EN.mp4"
+  },
+  "caption": "5 AI coding habits to stop right now (and what to do instead)\n\nFive AI coding habits to drop right now.\n\n1. Giant prompts\n2. Accepting unread diffs\n3. Skipping tests\n4. Retyping your rules\n5. Coding without a plan\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/specs/best-practices/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AIcoding #VibeCoding #SoftwareEngineering #theAIgurukul",
+  "youtube": {
+    "title": "5 AI coding habits to stop right now (and what to do instead) #Shorts",
+    "description": "5 AI coding habits to stop right now (and what to do instead)\n\nFive AI coding habits to drop right now.\n\n1. Giant prompts - Smaller steps beat one giant prompt.\n2. Accepting unread diffs - Read what the AI changed.\n3. Skipping tests - Ask for tests with every change.\n4. Retyping your rules - Put them in steering files once.\n5. Coding without a plan - Write the spec before the code.\n\nDocs: https://kiro.dev/docs/specs/best-practices/\n\nWhich step surprised you? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #AIcoding #VibeCoding",
+    "tags": [
+      "ai coding habits to stop",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AIcoding",
+      "VibeCoding",
+      "SoftwareEngineering"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

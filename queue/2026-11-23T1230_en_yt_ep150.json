@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-23T1230_en_yt_ep150",
+  "account": "en_yt",
+  "publish_at": "2026-11-23T12:30:00+05:30",
+  "language": "en",
+  "episode": 150,
+  "video": {
+    "drive_file_id": "18pRMcW0wl8afbYKYOslD_pMBWgCI_bTp",
+    "file_name": "Kiro-Buzz150-EN.mp4"
+  },
+  "caption": "The full Kiro workflow in 6 steps: idea to production\n\nThe full Kiro workflow in six steps, from idea to production.\n\n1. Set your steering\n2. Write the spec\n3. Review requirements\n4. Run the tasks\n5. Add a hook\n6. Ship through a PR\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "The full Kiro workflow in 6 steps: idea to production #Shorts",
+    "description": "The full Kiro workflow in 6 steps: idea to production\n\nThe full Kiro workflow in six steps, from idea to production.\n\n1. Set your steering - Product, tech and structure first.\n2. Write the spec - Requirements, design and tasks.\n3. Review requirements - Check them before any code.\n4. Run the tasks - Let Kiro build, step by step.\n5. Add a hook - Automate the checks you keep repeating.\n6. Ship through a PR - Review the diff and merge.\n\nDocs: https://kiro.dev/docs/\n\nKnow a dev who needs this? Send it to them. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment",
+    "tags": [
+      "kiro full workflow idea to production",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "SpecDrivenDevelopment",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

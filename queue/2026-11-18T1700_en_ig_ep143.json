@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-18T1700_en_ig_ep143",
+  "account": "en_ig",
+  "publish_at": "2026-11-18T17:00:00+05:30",
+  "language": "en",
+  "episode": 143,
+  "video": {
+    "drive_file_id": "1AqxoorrUGJb5r5LgQ2inJHe5JWYdhkiv",
+    "file_name": "Kiro-Buzz143-EN.mp4"
+  },
+  "caption": "Kiro for teams: 4 things to commit to your repo\n\nFour things to commit so your whole team shares Kiro's brain.\n\n1. Steering files\n2. Specs\n3. AGENTS.md\n4. Skills\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #TeamWork #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-16T1700_en_ig_ep212",
+  "account": "en_ig",
+  "publish_at": "2026-10-16T17:00:00+05:30",
+  "language": "en",
+  "episode": 212,
+  "video": {
+    "drive_file_id": "1LUxq-3rXMa7dHp46ARJ79-00oTZIqJrn",
+    "file_name": "Claude-Buzz212-EN.mp4"
+  },
+  "caption": "Claude projects tutorial: upload your files once, add project instructions, and every chat in the project starts ready.\n\nClaude projects tutorial: stop re-uploading files in 4 steps. Free plan allows up to 5 projects.\n\n1. Create\n2. Add Files\n3. Instruct\n4. Chat\n\nSend this to a friend who re-uploads the same file every day.\nHow many projects will you make?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AIProductivity #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

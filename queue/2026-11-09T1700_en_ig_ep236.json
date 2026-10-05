@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-09T1700_en_ig_ep236",
+  "account": "en_ig",
+  "publish_at": "2026-11-09T17:00:00+05:30",
+  "language": "en",
+  "episode": 236,
+  "video": {
+    "drive_file_id": "1k32mzXmgTqaJbXpn2lLauizk2R_8w7uj",
+    "file_name": "Claude-Buzz236-EN.mp4"
+  },
+  "caption": "Claude Code init creates your CLAUDE.md. Run /init, review the file, add your rules. 3 steps.\n\nClaude Code init writes CLAUDE.md in 3 steps. Teach it your project once.\n\n1. Run /Init\n2. Review\n3. Add Rules\n\nSend this to a friend who repeats the same rules to Claude Code\nWhich rule goes in first?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/commands\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #DevTools #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

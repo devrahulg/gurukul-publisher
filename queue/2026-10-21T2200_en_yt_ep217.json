@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-21T2200_en_yt_ep217",
+  "account": "en_yt",
+  "publish_at": "2026-10-21T22:00:00+05:30",
+  "language": "en",
+  "episode": 217,
+  "video": {
+    "drive_file_id": "1ebtcaj-dgAS9b99XimHMH7z8DfVkotg2",
+    "file_name": "Claude-Buzz217-EN.mp4"
+  },
+  "caption": "Connect Gmail to Claude in 4 steps: open Connectors, sign in, ask which emails need a reply, approve before sending.\n\nConnect Gmail to Claude in 4 steps, even on Free. Use a test inbox first.\n\n1. Open\n2. Connect\n3. Ask\n4. Approve\n\nSend this to a friend whose inbox is out of control.\nHow many unread emails do you have?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/11176164-use-connectors-to-extend-claude-s-capabilities\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #GmailTips #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Connect Gmail to Claude: 4 steps to find replies and draft answers (free plan) #Shorts",
+    "description": "Connect Gmail to Claude in 4 steps: open Connectors, sign in, ask which emails need a reply, approve before sending.\n\nConnect Gmail to Claude in 4 steps, even on Free. Use a test inbox first.\n\n1. Open - Open Customize, then Connectors.\n2. Connect - Pick Gmail or Google Calendar and sign in.\n3. Ask - Ask which emails need a reply this week.\n4. Approve - Review every draft. Sending needs your approval. Read before you send.\n\nNeeds: Free, Pro, Max\n\nOfficial docs: https://support.claude.com/en/articles/11176164-use-connectors-to-extend-claude-s-capabilities\n\nSend this to a friend whose inbox is out of control.\nHow many unread emails do you have? Send it to a friend with a full inbox. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #GmailTips",
+    "tags": [
+      "connect gmail to claude",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "GmailTips",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

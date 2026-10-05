@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-29T1230_en_yt_ep146",
+  "account": "en_yt",
+  "publish_at": "2026-10-29T12:30:00+05:30",
+  "language": "en",
+  "episode": 146,
+  "video": {
+    "drive_file_id": "1sHYaOKdTTtL4nE89ivKF1PMmjIBdtJGQ",
+    "file_name": "Kiro-Buzz146-EN.mp4"
+  },
+  "caption": "Use Kiro in JetBrains, Zed, Neovim via ACP in 3 steps\n\nThree steps to use Kiro inside JetBrains, Zed and more.\n\n1. Install Kiro CLI\n2. Run the ACP command\n3. Connect your editor\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/cli/acp/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #ACP #KiroCLI #JetBrains #theAIgurukul",
+  "youtube": {
+    "title": "Use Kiro in JetBrains, Zed, Neovim via ACP in 3 steps #Shorts",
+    "description": "Use Kiro in JetBrains, Zed, Neovim via ACP in 3 steps\n\nThree steps to use Kiro inside JetBrains, Zed and more.\n\n1. Install Kiro CLI - The CLI is the agent inside other editors.\n2. Run the ACP command - Start it with kiro-cli acp.\n3. Connect your editor - JetBrains, Zed, Eclipse, Emacs and Neovim work.\n\nDocs: https://kiro.dev/docs/cli/acp/\n\nGot a Kiro question? Ask it below. I reply. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #ACP #KiroCLI",
+    "tags": [
+      "kiro acp jetbrains zed",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "ACP",
+      "KiroCLI",
+      "JetBrains"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

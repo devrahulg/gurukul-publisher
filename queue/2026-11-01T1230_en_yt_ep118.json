@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-01T1230_en_yt_ep118",
+  "account": "en_yt",
+  "publish_at": "2026-11-01T12:30:00+05:30",
+  "language": "en",
+  "episode": 118,
+  "video": {
+    "drive_file_id": "13gElGdnbYVE2Pd91lwm0FegL0TCqpxU3",
+    "file_name": "Kiro-Buzz118-EN.mp4"
+  },
+  "caption": "6 Kiro hook triggers beyond file save\n\nSix Kiro hook triggers you are probably not using.\n\n1. Prompt submit\n2. Agent stop\n3. Session start\n4. Pre tool use\n5. Post tool use\n6. Task execution\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/hooks/types/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "6 Kiro hook triggers beyond file save #Shorts",
+    "description": "6 Kiro hook triggers beyond file save\n\nSix Kiro hook triggers you are probably not using.\n\n1. Prompt submit - Fires when you send a prompt.\n2. Agent stop - Fires when the agent finishes.\n3. Session start - Fires when a session begins.\n4. Pre tool use - Fires before a tool runs.\n5. Post tool use - Fires right after a tool runs.\n6. Task execution - Fires around each spec task.\n\nDocs: https://kiro.dev/docs/hooks/types/\n\nLearning Kiro too? Say hi in the comments. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #AgentHooks #Kiro",
+    "tags": [
+      "kiro hook triggers",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AgentHooks",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

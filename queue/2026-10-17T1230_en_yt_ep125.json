@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-17T1230_en_yt_ep125",
+  "account": "en_yt",
+  "publish_at": "2026-10-17T12:30:00+05:30",
+  "language": "en",
+  "episode": 125,
+  "video": {
+    "drive_file_id": "1uj7_hGUEIjiYqaQSLpTJQbNL88FZp6Vq",
+    "file_name": "Kiro-Buzz125-EN.mp4"
+  },
+  "caption": "Kiro Autopilot vs Supervised mode: 4 differences\n\nAutopilot versus Supervised in Kiro. Four differences.\n\n1. The default\n2. The approvals\n3. The best fit\n4. The catch\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/ide/chat/autopilot/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #Autopilot #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro Autopilot vs Supervised mode: 4 differences #Shorts",
+    "description": "Kiro Autopilot vs Supervised mode: 4 differences\n\nAutopilot versus Supervised in Kiro. Four differences.\n\n1. The default - Autopilot is the default. Supervised is a switch you choose.\n2. The approvals - Autopilot keeps going. Supervised waits for your approval after edits.\n3. The best fit - Autopilot suits routine work. Supervised suits high-stakes code.\n4. The catch - Autopilot is not a model picker. Model routing is called Auto.\n\nDocs: https://kiro.dev/docs/ide/chat/autopilot/\n\nWhich step surprised you? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #Autopilot",
+    "tags": [
+      "kiro autopilot vs supervised",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "Autopilot",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

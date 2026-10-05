@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-12T1700_en_ig_ep124",
+  "account": "en_ig",
+  "publish_at": "2026-11-12T17:00:00+05:30",
+  "language": "en",
+  "episode": 124,
+  "video": {
+    "drive_file_id": "1c4hinneOLMhXkPwbkrVDlC6r6QHkUUHM",
+    "file_name": "Kiro-Buzz124-EN.mp4"
+  },
+  "caption": "6 tools Kiro can talk to with Powers (Figma, Postman, Datadog, Miro, Stripe, Supabase)\n\nSix tools Kiro can talk to out of the box.\n\n1. Figma\n2. Postman\n3. Datadog\n4. Miro\n5. Stripe\n6. Supabase\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/powers/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroPowers #MCP #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-23T1230_en_yt_ep117",
+  "account": "en_yt",
+  "publish_at": "2026-10-23T12:30:00+05:30",
+  "language": "en",
+  "episode": 117,
+  "video": {
+    "drive_file_id": "1NXAt2Mv029YFCSaQf6mAd4sFlcYLCn-r",
+    "file_name": "Kiro-Buzz117-EN.mp4"
+  },
+  "caption": "Kiro file hook not firing when you save? The real reason\n\nYour Kiro file hook isn't firing when you save? Here's why.\n\n1. The myth\n2. The fact\n3. What that means\n4. The fix\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/hooks/types/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #Troubleshooting #theAIgurukul",
+  "youtube": {
+    "title": "Kiro file hook not firing when you save? The real reason #Shorts",
+    "description": "Kiro file hook not firing when you save? The real reason\n\nYour Kiro file hook isn't firing when you save? Here's why.\n\n1. The myth - Save a file and the hook runs.\n2. The fact - File hooks respond to agent changes only.\n3. What that means - Your own editor saves don't trigger them.\n4. The fix - Let the agent make the change, or use another trigger.\n\nDocs: https://kiro.dev/docs/hooks/types/\n\nWhich one did you not know? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #AgentHooks #Kiro",
+    "tags": [
+      "kiro hooks not firing",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AgentHooks",
+      "Troubleshooting"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

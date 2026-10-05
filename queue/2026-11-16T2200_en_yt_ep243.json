@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-16T2200_en_yt_ep243",
+  "account": "en_yt",
+  "publish_at": "2026-11-16T22:00:00+05:30",
+  "language": "en",
+  "episode": 243,
+  "video": {
+    "drive_file_id": "1Sui9OafIgNpRlXjmnV3pldz3zBWrUUI_",
+    "file_name": "Claude-Buzz243-EN.mp4"
+  },
+  "caption": "Claude Slides: build a presentation from one prompt, edit it, then export to PowerPoint or PDF. Beta, paid plans only.\n\nClaude Slides builds a six slide deck from one prompt. Here is the exact prompt.\n\n1. Ask\n2. Review\n3. Edit\n4. Export\n\nSend this to a friend who dreads making presentations\nHow many slides is your deck?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Presentations #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude Slides tutorial: build, edit and export a deck in 4 steps (beta) #Shorts",
+    "description": "Claude Slides: build a presentation from one prompt, edit it, then export to PowerPoint or PDF. Beta, paid plans only.\n\nClaude Slides builds a six slide deck from one prompt. Here is the exact prompt.\n\n1. Ask - Ask for slides, with topic, audience, and slide count.\n2. Review - Claude drafts real slides in the chat.\n3. Edit - Click any slide to edit it directly.\n4. Export - Present in Claude, or export to PowerPoint or PDF. It is not on Free.\n\nNeeds: Beta, paid plans\n\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nSend this to a friend who dreads making presentations\nHow many slides is your deck? Send it to a friend with a deadline. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Presentations",
+    "tags": [
+      "claude slides",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "Presentations",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-08T1230_en_yt_ep119",
+  "account": "en_yt",
+  "publish_at": "2026-11-08T12:30:00+05:30",
+  "language": "en",
+  "episode": 119,
+  "video": {
+    "drive_file_id": "172X2aD9sRtYpsa3BeqMCBP2L-fUj3pTJ",
+    "file_name": "Kiro-Buzz119-EN.mp4"
+  },
+  "caption": "5 Kiro agent hook ideas to steal (examples)\n\nFive Kiro hook ideas to steal today.\n\n1. Update tests\n2. Refresh docs\n3. Lint and format\n4. Review checklist\n5. Guard secrets\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/hooks/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "5 Kiro agent hook ideas to steal (examples) #Shorts",
+    "description": "5 Kiro agent hook ideas to steal (examples)\n\nFive Kiro hook ideas to steal today.\n\n1. Update tests - When the agent edits code, update its tests.\n2. Refresh docs - When the agent changes an API, refresh the docs.\n3. Lint and format - After the agent edits, lint and format.\n4. Review checklist - When the agent stops, run a review checklist.\n5. Guard secrets - Before a tool runs, check for secrets.\n\nDocs: https://kiro.dev/docs/hooks/\n\nWhich step surprised you? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #AgentHooks #Kiro",
+    "tags": [
+      "kiro agent hooks examples",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AgentHooks",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-13T1230_en_yt_ep107",
+  "account": "en_yt",
+  "publish_at": "2026-11-13T12:30:00+05:30",
+  "language": "en",
+  "episode": 107,
+  "video": {
+    "drive_file_id": "1-mqekM2U9f09sUZP-38OBGxmbuOKfWYw",
+    "file_name": "Kiro-Buzz107-EN.mp4"
+  },
+  "caption": "Property-based testing in Kiro: 5 steps (find bugs unit tests miss)\n\nFive steps to bug-hunt with property-based testing in Kiro.\n\n1. Write EARS requirements\n2. Kiro extracts properties\n3. Hundreds of inputs\n4. Failures shrink\n5. Fix the bug\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/specs/correctness/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #PropertyBasedTesting #Testing #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Property-based testing in Kiro: 5 steps (find bugs unit tests miss) #Shorts",
+    "description": "Property-based testing in Kiro: 5 steps (find bugs unit tests miss)\n\nFive steps to bug-hunt with property-based testing in Kiro.\n\n1. Write EARS requirements - Properties start from your requirements.\n2. Kiro extracts properties - It turns requirements into things that must always hold.\n3. Hundreds of inputs - The tests throw hundreds of edge cases at your code.\n4. Failures shrink - A failing case is shrunk to the smallest example.\n5. Fix the bug - Rerun until every property passes. IDE only.\n\nDocs: https://kiro.dev/docs/specs/correctness/\n\nWhich step surprised you? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #PropertyBasedTesting #Testing",
+    "tags": [
+      "kiro property based testing",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "PropertyBasedTesting",
+      "Testing",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

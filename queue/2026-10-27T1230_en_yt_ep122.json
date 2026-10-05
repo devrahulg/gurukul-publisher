@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-27T1230_en_yt_ep122",
+  "account": "en_yt",
+  "publish_at": "2026-10-27T12:30:00+05:30",
+  "language": "en",
+  "episode": 122,
+  "video": {
+    "drive_file_id": "1pzlm8lL_zIKYjSHpCmzQKCId3L6lesqb",
+    "file_name": "Kiro-Buzz122-EN.mp4"
+  },
+  "caption": "5 Kiro Powers worth installing (Figma, Postman, Supabase, Stripe, Datadog)\n\nFive Kiro powers worth installing right now.\n\n1. Figma\n2. Postman\n3. Supabase\n4. Stripe\n5. Datadog\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/powers/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroPowers #MCP #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "5 Kiro Powers worth installing (Figma, Postman, Supabase, Stripe, Datadog) #Shorts",
+    "description": "5 Kiro Powers worth installing (Figma, Postman, Supabase, Stripe, Datadog)\n\nFive Kiro powers worth installing right now.\n\n1. Figma - Turn designs into real code.\n2. Postman - Test your API without leaving the IDE.\n3. Supabase - Stand up a backend fast.\n4. Stripe - Wire up payments.\n5. Datadog - Watch production from your editor.\n\nDocs: https://kiro.dev/powers/\n\nGot a Kiro question? Ask it below. I reply. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #KiroPowers #MCP",
+    "tags": [
+      "kiro powers",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "KiroPowers",
+      "MCP",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

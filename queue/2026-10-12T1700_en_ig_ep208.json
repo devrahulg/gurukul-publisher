@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-12T1700_en_ig_ep208",
+  "account": "en_ig",
+  "publish_at": "2026-10-12T17:00:00+05:30",
+  "language": "en",
+  "episode": 208,
+  "video": {
+    "drive_file_id": "15wDmZkQgSdpmnXaGIFXsSyIw4DLBQBS2",
+    "file_name": "Claude-Buzz208-EN.mp4"
+  },
+  "caption": "Make a game with Claude: one prompt gives you a playable cat-and-mango game right in the chat, free plan.\n\nMake a game with Claude in 3 steps, one prompt. Free plan. No coding.\n\n1. Describe\n2. Play\n3. Upgrade\n\nSend this to a friend who wants to make a game.\nWhat game would you build?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #GameDev #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

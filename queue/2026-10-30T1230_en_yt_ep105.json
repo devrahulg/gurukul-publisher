@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-30T1230_en_yt_ep105",
+  "account": "en_yt",
+  "publish_at": "2026-10-30T12:30:00+05:30",
+  "language": "en",
+  "episode": 105,
+  "video": {
+    "drive_file_id": "1zXpH0EvPMwzLU7hJPct6TqgVakh9xMnA",
+    "file_name": "Kiro-Buzz105-EN.mp4"
+  },
+  "caption": "5 mistakes that wreck a Kiro spec (and how to avoid them)\n\nFive mistakes that wreck a Kiro spec.\n\n1. Vague prompts\n2. Skipping the review\n3. One giant spec\n4. Never reading design\n5. Letting specs go stale\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/specs/best-practices/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "5 mistakes that wreck a Kiro spec (and how to avoid them) #Shorts",
+    "description": "5 mistakes that wreck a Kiro spec (and how to avoid them)\n\nFive mistakes that wreck a Kiro spec.\n\n1. Vague prompts - Vague in, vague requirements out.\n2. Skipping the review - Read requirements before design starts.\n3. One giant spec - Split big ideas into smaller specs.\n4. Never reading design - design.md is where Kiro shows its plan.\n5. Letting specs go stale - When code changes, update the spec too.\n\nDocs: https://kiro.dev/docs/specs/best-practices/\n\nWhich one did you not know? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment",
+    "tags": [
+      "kiro spec mistakes",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "SpecDrivenDevelopment",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

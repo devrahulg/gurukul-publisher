@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-18T2000_en_ig_ep245",
+  "account": "en_ig",
+  "publish_at": "2026-11-18T20:00:00+05:30",
+  "language": "en",
+  "episode": 245,
+  "video": {
+    "drive_file_id": "11Vny3yiBpvQY4HGPicjGtfzlw84Whyf-",
+    "file_name": "Claude-Buzz245-EN.mp4"
+  },
+  "caption": "Claude API Python quickstart: create a key, install the SDK, send a message, print the reply. 4 steps.\n\nClaude API Python quickstart: your first call in 4 steps. You need a Console account.\n\n1. Key\n2. Install\n3. Send\n4. Print\n\nSend this to a friend who wants to build with the Claude API\nPython or JavaScript for you?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/get-started\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Python #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

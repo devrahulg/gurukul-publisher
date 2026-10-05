@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-03T2000_en_ig_ep135",
+  "account": "en_ig",
+  "publish_at": "2026-11-03T20:00:00+05:30",
+  "language": "en",
+  "episode": 135,
+  "video": {
+    "drive_file_id": "18GXf6jRzJRlnHxKSIa6TPYarxwzL711n",
+    "file_name": "Kiro-Buzz135-EN.mp4"
+  },
+  "caption": "Which model to use in Kiro: 5 jobs, 5 picks\n\nFive coding jobs, five model picks in Kiro. These are my picks.\n\n1. Quick edits\n2. Everyday work\n3. Big refactors\n4. Hard bugs\n5. Tight budget\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/models/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AIModels #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

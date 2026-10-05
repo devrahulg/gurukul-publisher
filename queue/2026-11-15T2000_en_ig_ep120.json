@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-15T2000_en_ig_ep120",
+  "account": "en_ig",
+  "publish_at": "2026-11-15T20:00:00+05:30",
+  "language": "en",
+  "episode": 120,
+  "video": {
+    "drive_file_id": "1CtU5rjVxBK4qHZRf6_C_831tZHKiKBnw",
+    "file_name": "Kiro-Buzz120-EN.mp4"
+  },
+  "caption": "4 Kiro hook gotchas nobody warns you about\n\nFour Kiro hook gotchas that save you an hour.\n\n1. Agent only\n2. No manual hooks\n3. Slash command trick\n4. More triggers\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/hooks/types/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #Troubleshooting #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

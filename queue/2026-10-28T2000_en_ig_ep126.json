@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-28T2000_en_ig_ep126",
+  "account": "en_ig",
+  "publish_at": "2026-10-28T20:00:00+05:30",
+  "language": "en",
+  "episode": 126,
+  "video": {
+    "drive_file_id": "1Yw0V3tK6-a7OKr-p1lnpcqgLqSg-8_34",
+    "file_name": "Kiro-Buzz126-EN.mp4"
+  },
+  "caption": "5 times to use Kiro Supervised mode instead of Autopilot\n\nFive times to switch Kiro to Supervised mode.\n\n1. Production code\n2. Unfamiliar repo\n3. Database changes\n4. Security code\n5. Learning\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/ide/chat/autopilot/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AIsafety #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

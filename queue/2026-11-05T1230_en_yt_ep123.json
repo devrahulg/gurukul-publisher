@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-05T1230_en_yt_ep123",
+  "account": "en_yt",
+  "publish_at": "2026-11-05T12:30:00+05:30",
+  "language": "en",
+  "episode": 123,
+  "video": {
+    "drive_file_id": "13VWAc9cHVUBgC8xw-ys9MruJ2h-HzbVj",
+    "file_name": "Kiro-Buzz123-EN.mp4"
+  },
+  "caption": "What is MCP? 4 facts for Kiro users\n\nMCP in thirty seconds. Four facts.\n\n1. A shared standard\n2. Direct calls\n3. No glue code\n4. Powers\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/mcp/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #MCP #Kiro #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "What is MCP? 4 facts for Kiro users #Shorts",
+    "description": "What is MCP? 4 facts for Kiro users\n\nMCP in thirty seconds. Four facts.\n\n1. A shared standard - One way for AI to use tools.\n2. Direct calls - Kiro's agents call the tools directly.\n3. No glue code - No custom integration code on your end.\n4. Powers - Powers package a tool's know-how for Kiro.\n\nDocs: https://kiro.dev/docs/mcp/\n\nWhich one did you not know? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #MCP #Kiro",
+    "tags": [
+      "what is mcp kiro",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "MCP",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-11T1700_en_ig_ep109",
+  "account": "en_ig",
+  "publish_at": "2026-10-11T17:00:00+05:30",
+  "language": "en",
+  "episode": 109,
+  "video": {
+    "drive_file_id": "1yyqtq3bnSi2NBeH_Y8wVXXAsq8stu6DH",
+    "file_name": "Kiro-Buzz109-EN.mp4"
+  },
+  "caption": "5 Kiro steering files to write on day one (copy these)\n\nFive steering files to write on day one with Kiro.\n\n1. product.md\n2. tech.md\n3. structure.md\n4. Code style\n5. Testing rules\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SteeringFiles #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

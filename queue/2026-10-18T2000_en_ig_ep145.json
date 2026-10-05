@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-18T2000_en_ig_ep145",
+  "account": "en_ig",
+  "publish_at": "2026-10-18T20:00:00+05:30",
+  "language": "en",
+  "episode": 145,
+  "video": {
+    "drive_file_id": "1r_pE5Zfjn7H7QW0d_3OTSVlE7qwXzWw3",
+    "file_name": "Kiro-Buzz145-EN.mp4"
+  },
+  "caption": "Kiro in CI/CD: headless mode in 4 steps\n\nFour steps to run Kiro in your CI/CD pipeline.\n\n1. Get an API key\n2. Install the CLI\n3. Run headless\n4. Mind the plan\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/cli/headless/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroCLI #CICD #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

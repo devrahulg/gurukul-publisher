@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-16T1230_en_yt_ep131",
+  "account": "en_yt",
+  "publish_at": "2026-11-16T12:30:00+05:30",
+  "language": "en",
+  "episode": 131,
+  "video": {
+    "drive_file_id": "1xeqQOM5xddA9UeBw-uODAx1T_hko7MU6",
+    "file_name": "Kiro-Buzz131-EN.mp4"
+  },
+  "caption": "Kiro sub-agents explained: 4 facts\n\nFour facts about Kiro sub-agents.\n\n1. Built in\n2. General purpose\n3. In parallel\n4. Make your own\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/custom-agents/subagents/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #SubAgents #Kiro #AIagents #theAIgurukul",
+  "youtube": {
+    "title": "Kiro sub-agents explained: 4 facts #Shorts",
+    "description": "Kiro sub-agents explained: 4 facts\n\nFour facts about Kiro sub-agents.\n\n1. Built in - There is a context-gathering sub-agent.\n2. General purpose - Another handles general tasks.\n3. In parallel - They can run side by side.\n4. Make your own - Custom agents are supported too.\n\nDocs: https://kiro.dev/docs/custom-agents/subagents/\n\nWhich step surprised you? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #SubAgents #Kiro",
+    "tags": [
+      "kiro sub-agents custom agents",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "SubAgents",
+      "AIagents"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

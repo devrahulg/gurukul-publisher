@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-17T2000_en_ig_ep213",
+  "account": "en_ig",
+  "publish_at": "2026-10-17T20:00:00+05:30",
+  "language": "en",
+  "episode": 213,
+  "video": {
+    "drive_file_id": "1JQGcGdKeVtSHQ2mmHDFJoM0V6hcJ1-5_",
+    "file_name": "Claude-Buzz213-EN.mp4"
+  },
+  "caption": "Claude custom visuals diagram: ask for a flowchart, a slider explainer, a chart or a side-by-side view. Beta, web, desktop.\n\nClaude custom visuals diagram: 4 things it draws, even free. Beta, on web and desktop only.\n\n1. Flowchart\n2. Interactive\n3. Chart\n4. Comparison\n\nSend this to a friend who still draws flowcharts by hand.\nWhich one will you draw first?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/13979539-custom-visuals-in-chat-and-cowork\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #DataVisualization #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

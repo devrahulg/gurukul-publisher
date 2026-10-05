@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-06T0930_en_yt_ep202",
+  "account": "en_yt",
+  "publish_at": "2026-10-06T09:30:00+05:30",
+  "language": "en",
+  "episode": 202,
+  "video": {
+    "drive_file_id": "1k3lyqsX6Kd_UJG_ke_G1suR-59hvAV_G",
+    "file_name": "Claude-Buzz202-EN.mp4"
+  },
+  "caption": "How to write better prompts for Claude: a 4-part checklist, with a before and after.\n\nSame Claude. Two prompts. Watch the difference. Copy the four-part prompt.\n\n1. Role\n2. Task\n3. Context\n4. Format\n\nSend this to a friend who keeps getting generic AI answers.\nWhich step do you skip?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #PromptEngineering #AItips #theAIgurukul",
+  "youtube": {
+    "title": "How to write better prompts for Claude: 4-part checklist (tutorial) #Shorts",
+    "description": "How to write better prompts for Claude: a 4-part checklist, with a before and after.\n\nSame Claude. Two prompts. Watch the difference. Copy the four-part prompt.\n\n1. Role - Tell Claude who to be, like a senior HR manager.\n2. Task - Say exactly what you want written.\n3. Context - Add who it is for and why it matters.\n4. Format - Ask for a limit, like under eighty words. Now read the answer.\n\nNeeds: All plans incl. Free\n\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nSend this to a friend who keeps getting generic AI answers.\nWhich step do you skip? Comment its number. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #PromptEngineering",
+    "tags": [
+      "how to write better prompts for claude",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "PromptEngineering",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

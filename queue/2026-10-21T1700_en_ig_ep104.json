@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-21T1700_en_ig_ep104",
+  "account": "en_ig",
+  "publish_at": "2026-10-21T17:00:00+05:30",
+  "language": "en",
+  "episode": 104,
+  "video": {
+    "drive_file_id": "1-ixl2IyfdFw0JQ1rznT4rJDzW1ugc5xO",
+    "file_name": "Kiro-Buzz104-EN.mp4"
+  },
+  "caption": "EARS notation in 4 steps: requirements Kiro can't misread\n\nFour steps to write requirements nobody can misread.\n\n1. Start with WHEN\n2. Add the response\n3. One behavior each\n4. Let Kiro draft them\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/specs/feature-specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #EARS #Requirements #SpecDrivenDevelopment #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

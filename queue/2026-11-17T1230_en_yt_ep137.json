@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-17T1230_en_yt_ep137",
+  "account": "en_yt",
+  "publish_at": "2026-11-17T12:30:00+05:30",
+  "language": "en",
+  "episode": 137,
+  "video": {
+    "drive_file_id": "1R4GO6rUTbbadJsMvO7NWreIGr0DtB0up",
+    "file_name": "Kiro-Buzz137-EN.mp4"
+  },
+  "caption": "What is Auto mode in Kiro? 3 facts about the model router\n\nWhat is Auto mode in Kiro? Three facts.\n\n1. A model router\n2. It is 1x\n3. Smart routing\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/models/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AIModels #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "What is Auto mode in Kiro? 3 facts about the model router #Shorts",
+    "description": "What is Auto mode in Kiro? 3 facts about the model router\n\nWhat is Auto mode in Kiro? Three facts.\n\n1. A model router - Auto picks a model for each request.\n2. It is 1x - Auto costs 1x credits.\n3. Smart routing - It balances quality, speed and cost.\n\nDocs: https://kiro.dev/docs/models/\n\nWhich step surprised you? Comment its number. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #AIModels",
+    "tags": [
+      "kiro auto mode",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "AIModels",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

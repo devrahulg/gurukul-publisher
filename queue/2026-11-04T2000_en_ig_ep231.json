@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-04T2000_en_ig_ep231",
+  "account": "en_ig",
+  "publish_at": "2026-11-04T20:00:00+05:30",
+  "language": "en",
+  "episode": 231,
+  "video": {
+    "drive_file_id": "1ho6ugCBXYmPpWSjcZl6gyvGWtEuDae97",
+    "file_name": "Claude-Buzz231-EN.mp4"
+  },
+  "caption": "Claude iPhone reminders: plan in chat, then say add these to my reminders. 3 steps, iPhone only.\n\nClaude iPhone reminders: 3 steps from chat to to-do list. Reminders work on iPhone only.\n\n1. Plan\n2. Ask\n3. Allow\n\nSend this to a friend who keeps forgetting small tasks\nHow many tasks did you add?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/11869619-use-claude-with-ios-apps\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #iPhoneTips #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

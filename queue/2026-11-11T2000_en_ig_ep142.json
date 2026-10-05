@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-11T2000_en_ig_ep142",
+  "account": "en_ig",
+  "publish_at": "2026-11-11T20:00:00+05:30",
+  "language": "en",
+  "episode": 142,
+  "video": {
+    "drive_file_id": "1l0p-MSnhmkz4MbewlmclT0yCENVStJw4",
+    "file_name": "Kiro-Buzz142-EN.mp4"
+  },
+  "caption": "Kiro setup: 5 things to do in your first hour\n\nFive things to do in your first hour with Kiro.\n\n1. Install\n2. Import your setup\n3. Write steering\n4. Pick a mode\n5. Start a spec\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/getting-started/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroTutorial #Kiro #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

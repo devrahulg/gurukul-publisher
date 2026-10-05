@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-15T1700_en_ig_ep139",
+  "account": "en_ig",
+  "publish_at": "2026-10-15T17:00:00+05:30",
+  "language": "en",
+  "episode": 139,
+  "video": {
+    "drive_file_id": "1hvGrsdlPApgXiRap_oDSLQC7WVuN6LxY",
+    "file_name": "Kiro-Buzz139-EN.mp4"
+  },
+  "caption": "Move from VS Code to Kiro in 4 steps (settings, themes, extensions)\n\nFour steps to move from VS Code to Kiro.\n\n1. It feels familiar\n2. Migrate your profile\n3. Check extensions\n4. Start a spec\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/upgrade-guides/migrating-from-vscode/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VSCode #Kiro #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

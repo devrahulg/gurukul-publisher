@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-10T2200_en_yt_ep237",
+  "account": "en_yt",
+  "publish_at": "2026-11-10T22:00:00+05:30",
+  "language": "en",
+  "episode": 237,
+  "video": {
+    "drive_file_id": "1g0YCvMZ5M8lUJBadXIvL_GnlbjLgph9T",
+    "file_name": "Claude-Buzz237-EN.mp4"
+  },
+  "caption": "Claude in Excel and PowerPoint: explain formulas, fix errors, update assumptions, edit your deck.\n\nClaude in Excel and PowerPoint does 4 things inside your files. Paid plans. Check status when installing.\n\n1. Explain\n2. Debug\n3. Update\n4. Deck\n\nSend this to a friend who lives in Excel and PowerPoint\nWhich one saves you most time?\nFollow for a Claude tip a day.\nOfficial docs: https://claude.com/claude-in-excel\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ExcelTips #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude in Excel and PowerPoint: 4 things it does inside your files #Shorts",
+    "description": "Claude in Excel and PowerPoint: explain formulas, fix errors, update assumptions, edit your deck.\n\nClaude in Excel and PowerPoint does 4 things inside your files. Paid plans. Check status when installing.\n\n1. Explain - Ask it to explain a nested formula with citations.\n2. Debug - Ask it to find broken and circular references.\n3. Update - Change an assumption and keep formulas and dependencies intact.\n4. Deck - In PowerPoint, edit your real deck and keep your template.\n\nNeeds: Pro, Max, Team\n\nOfficial docs: https://claude.com/claude-in-excel\n\nSend this to a friend who lives in Excel and PowerPoint\nWhich one saves you most time? Send it to a friend in Excel daily. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ExcelTips",
+    "tags": [
+      "claude in excel",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "ExcelTips",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

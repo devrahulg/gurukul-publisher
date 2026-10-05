@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-18T1230_en_yt_ep145",
+  "account": "en_yt",
+  "publish_at": "2026-10-18T12:30:00+05:30",
+  "language": "en",
+  "episode": 145,
+  "video": {
+    "drive_file_id": "1r_pE5Zfjn7H7QW0d_3OTSVlE7qwXzWw3",
+    "file_name": "Kiro-Buzz145-EN.mp4"
+  },
+  "caption": "Kiro in CI/CD: headless mode in 4 steps\n\nFour steps to run Kiro in your CI/CD pipeline.\n\n1. Get an API key\n2. Install the CLI\n3. Run headless\n4. Mind the plan\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/cli/headless/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroCLI #CICD #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro in CI/CD: headless mode in 4 steps #Shorts",
+    "description": "Kiro in CI/CD: headless mode in 4 steps\n\nFour steps to run Kiro in your CI/CD pipeline.\n\n1. Get an API key - Create a Kiro API key.\n2. Install the CLI - Install the Kiro CLI in your pipeline.\n3. Run headless - Run chat in non-interactive mode.\n4. Mind the plan - Headless needs a paid plan.\n\nDocs: https://kiro.dev/docs/cli/headless/\n\nWant this saved for later? Tap save. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #KiroCLI #CICD",
+    "tags": [
+      "kiro cli ci cd headless",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "KiroCLI",
+      "CICD",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

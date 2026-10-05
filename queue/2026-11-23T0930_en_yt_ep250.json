@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-23T0930_en_yt_ep250",
+  "account": "en_yt",
+  "publish_at": "2026-11-23T09:30:00+05:30",
+  "language": "en",
+  "episode": 250,
+  "video": {
+    "drive_file_id": "1C-lJ8oXQUFe-TG-kkr8Li64g-FsKRiQq",
+    "file_name": "Claude-Buzz250-EN.mp4"
+  },
+  "caption": "Claude Code mods: ask Claude Code to write a TypeScript mod, install it with /plugin, and only trust safe sources.\n\nClaude Code mods: customize it with TypeScript in 3 steps. Brand new, so check the official post.\n\n1. Ask\n2. Install\n3. Trust\n\nSend this to a friend who customizes their dev tools\nWhat would you mod first?\nFollow for a Claude tip a day.\nOfficial docs: https://claude.com/blog/claude-code-mods\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #TypeScript #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude Code mods explained: customize it with TypeScript in 3 steps (Oct 2026) #Shorts",
+    "description": "Claude Code mods: ask Claude Code to write a TypeScript mod, install it with /plugin, and only trust safe sources.\n\nClaude Code mods: customize it with TypeScript in 3 steps. Brand new, so check the official post.\n\n1. Ask - Ask Claude Code to write a mod in TypeScript.\n2. Install - Mods ship inside plugins, so install with slash plugin.\n3. Trust - Only install mods from sources you trust. Read the code first.\n\nNeeds: Claude Code\n\nOfficial docs: https://claude.com/blog/claude-code-mods\n\nSend this to a friend who customizes their dev tools\nWhat would you mod first? Send it to a Claude Code user. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #TypeScript",
+    "tags": [
+      "claude code mods",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "TypeScript",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

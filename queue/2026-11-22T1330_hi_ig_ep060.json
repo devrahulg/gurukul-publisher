@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-22T1330_hi_ig_ep060",
+  "account": "hi_ig",
+  "publish_at": "2026-11-22T13:30:00+05:30",
+  "language": "hi",
+  "episode": 60,
+  "video": {
+    "drive_file_id": "1goTwsyrU1iK1Uf-PlXptH6sYsg_unXxO",
+    "file_name": "Kiro-Ep060-HI.mp4"
+  },
+  "caption": "Kiro + Datadog: एडिटर छोड़े बिना मॉनिटरिंग\n\nअपना एडिटर छोड़े बिना प्रोडक्शन इश्यूज़ देखिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 60.\n\n#KiroDatadog #Monitoring #KiroHindi #theAIgurukul #getnoticed",
+  "status": "queued",
+  "attempts": 0
+}

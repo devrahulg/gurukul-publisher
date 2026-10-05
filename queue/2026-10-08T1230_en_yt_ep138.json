@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-08T1230_en_yt_ep138",
+  "account": "en_yt",
+  "publish_at": "2026-10-08T12:30:00+05:30",
+  "language": "en",
+  "episode": 138,
+  "video": {
+    "drive_file_id": "1c9Mc-9PmEUg3xtwMxPXg5zg2zUl8f4yW",
+    "file_name": "Kiro-Buzz138-EN.mp4"
+  },
+  "caption": "Kiro tutorial for beginners: install and build your first project in 6 steps\n\nSix steps to install Kiro and build your first project.\n\n1. Download Kiro\n2. Sign in\n3. Open a folder\n4. Describe your idea\n5. Review the spec\n6. Run the tasks\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/getting-started/first-project/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroTutorial #Kiro #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro tutorial for beginners: install and build your first project in 6 steps #Shorts",
+    "description": "Kiro tutorial for beginners: install and build your first project in 6 steps\n\nSix steps to install Kiro and build your first project.\n\n1. Download Kiro - Get it from kiro.dev.\n2. Sign in - Sign in to start.\n3. Open a folder - Open a project folder.\n4. Describe your idea - Tell Kiro what you want in chat.\n5. Review the spec - Kiro writes requirements, design and tasks.\n6. Run the tasks - Run them and review each change.\n\nDocs: https://kiro.dev/docs/getting-started/first-project/\n\nKnow a dev who needs this? Send it to them. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #KiroTutorial #Kiro",
+    "tags": [
+      "kiro first project tutorial",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "KiroTutorial",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

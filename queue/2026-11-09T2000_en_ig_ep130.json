@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-09T2000_en_ig_ep130",
+  "account": "en_ig",
+  "publish_at": "2026-11-09T20:00:00+05:30",
+  "language": "en",
+  "episode": 130,
+  "video": {
+    "drive_file_id": "1yE-Mvx12rktJ83zQG6sdqb3wFhZnVcMU",
+    "file_name": "Kiro-Buzz130-EN.mp4"
+  },
+  "caption": "Undo the AI: Kiro checkpoints and rewind in 4 steps\n\nFour steps to undo what the AI just did in Kiro.\n\n1. Let it work\n2. Spot a bad turn\n3. Rewind\n4. Know the catch\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/checkpoints/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #Checkpoints #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-15T2000_en_ig_ep211",
+  "account": "en_ig",
+  "publish_at": "2026-10-15T20:00:00+05:30",
+  "language": "en",
+  "episode": 211,
+  "video": {
+    "drive_file_id": "1u4GhAr63LCiqH14ENsYBlQyGigmd4z7R",
+    "file_name": "Claude-Buzz211-EN.mp4"
+  },
+  "caption": "Use Claude to learn anything: pick your level, get quizzed one question at a time, then re-learn what you missed.\n\nUse Claude to learn anything in 4 steps. Copy this tutor prompt.\n\n1. Level\n2. Quiz\n3. Answer\n4. Fix\n\nSend this to a friend who is studying for an exam.\nWhich topic will you learn first?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #LearnWithAI #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

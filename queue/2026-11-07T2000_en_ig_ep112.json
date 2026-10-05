@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-07T2000_en_ig_ep112",
+  "account": "en_ig",
+  "publish_at": "2026-11-07T20:00:00+05:30",
+  "language": "en",
+  "episode": 112,
+  "video": {
+    "drive_file_id": "1EWb_KHhztbr2lE1d-4rw0EVrYgQS5_k0",
+    "file_name": "Kiro-Buzz112-EN.mp4"
+  },
+  "caption": "AGENTS.md in Kiro: set it up in 4 steps (one file, many tools)\n\nFour steps to set up AGENTS.md for Kiro.\n\n1. Create the file\n2. Write your rules\n3. Kiro includes it\n4. Other tools read it\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AGENTSmd #Kiro #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

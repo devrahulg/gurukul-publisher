@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-09T1230_en_yt_ep102",
+  "account": "en_yt",
+  "publish_at": "2026-10-09T12:30:00+05:30",
+  "language": "en",
+  "episode": 102,
+  "video": {
+    "drive_file_id": "1tdgxc3RzpZQNUBAujeftExW-vypK9rBg",
+    "file_name": "Kiro-Buzz102-EN.mp4"
+  },
+  "caption": "Vibe coding vs spec-driven development: 5 differences (Kiro)\n\nVibe coding versus spec coding. Five differences that matter.\n\n1. The start\n2. The plan\n3. The progress\n4. The rules\n5. The handoff\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VibeCoding #SpecDrivenDevelopment #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Vibe coding vs spec-driven development: 5 differences (Kiro) #Shorts",
+    "description": "Vibe coding vs spec-driven development: 5 differences (Kiro)\n\nVibe coding versus spec coding. Five differences that matter.\n\n1. The start - A prompt, then code. Spec coding starts with requirements.\n2. The plan - The plan lives in your head. Spec coding writes it down in design.md.\n3. The progress - Progress is a long chat scroll. Spec coding tracks it in tasks.md.\n4. The rules - You retype the rules every prompt. Spec coding keeps them in steering files.\n5. The handoff - Only the author knows why. Spec coding leaves docs your team can read.\n\nDocs: https://kiro.dev/docs/specs/\n\nKnow a dev who needs this? Send it to them. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #VibeCoding #SpecDrivenDevelopment",
+    "tags": [
+      "vibe coding vs spec driven development",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "VibeCoding",
+      "SpecDrivenDevelopment",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

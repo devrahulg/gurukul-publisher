@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-23T2200_en_yt_ep219",
+  "account": "en_yt",
+  "publish_at": "2026-10-23T22:00:00+05:30",
+  "language": "en",
+  "episode": 219,
+  "video": {
+    "drive_file_id": "1FeJmO4C23Cw8VyNV2_TzB-ezYN45W7XL",
+    "file_name": "Claude-Buzz219-EN.mp4"
+  },
+  "caption": "Claude meeting notes action items: paste your notes, ask for decisions, owners and open questions, then draft the follow-up.\n\nClaude meeting notes to action items in 4 steps. Paste, ask, draft, check.\n\n1. Paste\n2. Ask\n3. Draft\n4. Check\n\nSend this to a friend who hates writing meeting minutes.\nHow many meetings this week?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #MeetingNotes #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude meeting notes action items: 4 steps from transcript to follow-up email #Shorts",
+    "description": "Claude meeting notes action items: paste your notes, ask for decisions, owners and open questions, then draft the follow-up.\n\nClaude meeting notes to action items in 4 steps. Paste, ask, draft, check.\n\n1. Paste - Paste the transcript or your messy notes.\n2. Ask - Ask for decisions, actions with owners, open questions.\n3. Draft - Ask for the follow-up email.\n4. Check - Check names and dates against the original. Never send it unchecked.\n\nNeeds: All plans\n\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nSend this to a friend who hates writing meeting minutes.\nHow many meetings this week? Send it to a friend in many meetings. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #MeetingNotes",
+    "tags": [
+      "claude meeting notes action items",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "MeetingNotes",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

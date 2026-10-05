@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-10T1230_en_yt_ep136",
+  "account": "en_yt",
+  "publish_at": "2026-11-10T12:30:00+05:30",
+  "language": "en",
+  "episode": 136,
+  "video": {
+    "drive_file_id": "1rU7qtpWsODsAGZOav4JvV01kZ1iIwxhM",
+    "file_name": "Kiro-Buzz136-EN.mp4"
+  },
+  "caption": "4 Kiro credit myths, busted (Oct 2026)\n\nFour Kiro credit myths, busted.\n\n1. Credits roll over\n2. Every model costs the same\n3. Autopilot picks the model\n4. Free means unlimited\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/pricing\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #Pricing #DeveloperTools #theAIgurukul",
+  "youtube": {
+    "title": "4 Kiro credit myths, busted (Oct 2026) #Shorts",
+    "description": "4 Kiro credit myths, busted (Oct 2026)\n\nFour Kiro credit myths, busted.\n\n1. Credits roll over - Nope. Unused credits don't roll over.\n2. Every model costs the same - Nope. It ranges from point zero five to over two times.\n3. Autopilot picks the model - Nope. Autopilot controls approvals. Auto picks the model.\n4. Free means unlimited - Nope. The free tier is 50 credits.\n\nDocs: https://kiro.dev/pricing\n\nLearning Kiro too? Say hi in the comments. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #Pricing",
+    "tags": [
+      "kiro credits myths",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "Pricing",
+      "DeveloperTools"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

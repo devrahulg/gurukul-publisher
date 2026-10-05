@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-31T2000_en_ig_ep227",
+  "account": "en_ig",
+  "publish_at": "2026-10-31T20:00:00+05:30",
+  "language": "en",
+  "episode": 227,
+  "video": {
+    "drive_file_id": "1XvfTda0UjKp3ck4q2F_C04wKti9RZfdL",
+    "file_name": "Claude-Buzz227-EN.mp4"
+  },
+  "caption": "Claude connectors to try first: Gmail, Calendar, Drive, Notion and Microsoft 365, from 800 plus in the directory.\n\n5 Claude connectors to try first, from 800 plus. Start with Gmail and Calendar.\n\n1. Gmail\n2. Google Calendar\n3. Google Drive\n4. Notion\n5. Microsoft 365\n\nSend this to a friend whose inbox and calendar are a mess.\nWhich connector will you add first?\nFollow for a Claude tip a day.\nOfficial docs: https://claude.com/marketplace/connectors-plugins\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Productivity #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

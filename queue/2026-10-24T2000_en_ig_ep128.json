@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-24T2000_en_ig_ep128",
+  "account": "en_ig",
+  "publish_at": "2026-10-24T20:00:00+05:30",
+  "language": "en",
+  "episode": 128,
+  "video": {
+    "drive_file_id": "1eUtQ4-4VErQAfRR1AwxwqvPBQ8jT9k1B",
+    "file_name": "Kiro-Buzz128-EN.mp4"
+  },
+  "caption": "Kiro cloud sessions in 5 steps: close your laptop, Kiro keeps working\n\nFive steps to let Kiro keep working after you close your laptop.\n\n1. Start a session\n2. Give it a goal\n3. Close your laptop\n4. Come back\n5. Know the limits\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/cloud-sessions/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #CloudSessions #Kiro #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

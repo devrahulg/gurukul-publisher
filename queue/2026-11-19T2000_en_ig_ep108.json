@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-19T2000_en_ig_ep108",
+  "account": "en_ig",
+  "publish_at": "2026-11-19T20:00:00+05:30",
+  "language": "en",
+  "episode": 108,
+  "video": {
+    "drive_file_id": "1HFaLis6foGbGfL6dRc7gQR9Pwoq0AF-7",
+    "file_name": "Kiro-Buzz108-EN.mp4"
+  },
+  "caption": "Kiro bugfix spec vs feature spec vs design-first: how to choose\n\nFour questions to pick the right type of Kiro spec.\n\n1. New feature?\n2. Fixing a bug?\n3. Know the design?\n4. Not sure?\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/blog/specs-bugfix-and-design-first/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

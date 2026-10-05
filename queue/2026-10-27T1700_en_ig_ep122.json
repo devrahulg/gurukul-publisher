@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-27T1700_en_ig_ep122",
+  "account": "en_ig",
+  "publish_at": "2026-10-27T17:00:00+05:30",
+  "language": "en",
+  "episode": 122,
+  "video": {
+    "drive_file_id": "1pzlm8lL_zIKYjSHpCmzQKCId3L6lesqb",
+    "file_name": "Kiro-Buzz122-EN.mp4"
+  },
+  "caption": "5 Kiro Powers worth installing (Figma, Postman, Supabase, Stripe, Datadog)\n\nFive Kiro powers worth installing right now.\n\n1. Figma\n2. Postman\n3. Supabase\n4. Stripe\n5. Datadog\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/powers/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroPowers #MCP #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

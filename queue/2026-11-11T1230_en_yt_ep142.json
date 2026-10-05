@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-11T1230_en_yt_ep142",
+  "account": "en_yt",
+  "publish_at": "2026-11-11T12:30:00+05:30",
+  "language": "en",
+  "episode": 142,
+  "video": {
+    "drive_file_id": "1l0p-MSnhmkz4MbewlmclT0yCENVStJw4",
+    "file_name": "Kiro-Buzz142-EN.mp4"
+  },
+  "caption": "Kiro setup: 5 things to do in your first hour\n\nFive things to do in your first hour with Kiro.\n\n1. Install\n2. Import your setup\n3. Write steering\n4. Pick a mode\n5. Start a spec\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/getting-started/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroTutorial #Kiro #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro setup: 5 things to do in your first hour #Shorts",
+    "description": "Kiro setup: 5 things to do in your first hour\n\nFive things to do in your first hour with Kiro.\n\n1. Install - Download and sign in.\n2. Import your setup - Migrate your VS Code profile.\n3. Write steering - Start with product, tech and structure.\n4. Pick a mode - Autopilot or Supervised. Your call.\n5. Start a spec - Describe a small feature and read the spec.\n\nDocs: https://kiro.dev/docs/getting-started/\n\nLearning Kiro too? Say hi in the comments. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #KiroTutorial #Kiro",
+    "tags": [
+      "kiro setup first hour",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "KiroTutorial",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

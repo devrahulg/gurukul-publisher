@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-22T1230_en_yt_ep115",
+  "account": "en_yt",
+  "publish_at": "2026-11-22T12:30:00+05:30",
+  "language": "en",
+  "episode": 115,
+  "video": {
+    "drive_file_id": "16SySjP8hsBnPb-gzYOH3wkABzWfN2-1m",
+    "file_name": "Kiro-Buzz115-EN.mp4"
+  },
+  "caption": "Kiro not following your steering file? 5 things to check\n\nKiro ignoring your steering? Run these five checks.\n\n1. Right folder\n2. Check the mode\n3. File match pattern\n4. Manual means manual\n5. Keep rules short\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #Troubleshooting #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro not following your steering file? 5 things to check #Shorts",
+    "description": "Kiro not following your steering file? 5 things to check\n\nKiro ignoring your steering? Run these five checks.\n\n1. Right folder - Workspace rules live in .kiro/steering.\n2. Check the mode - Is it always, file match, manual or auto?\n3. File match pattern - It loads only when matching files are in play.\n4. Manual means manual - Manual rules load only when you call them.\n5. Keep rules short - Short, specific rules are easier to follow.\n\nDocs: https://kiro.dev/docs/steering/\n\nWant this saved for later? Tap save. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #Troubleshooting",
+    "tags": [
+      "kiro not following steering",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "Troubleshooting",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

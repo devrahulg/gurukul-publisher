@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-31T1700_en_ig_ep111",
+  "account": "en_ig",
+  "publish_at": "2026-10-31T17:00:00+05:30",
+  "language": "en",
+  "episode": 111,
+  "video": {
+    "drive_file_id": "1xWGEJ4QY0EneQ_mC56ylRpA1j2DZO07S",
+    "file_name": "Kiro-Buzz111-EN.mp4"
+  },
+  "caption": "Kiro steering vs specs vs skills: the difference in 3 lines\n\nSteering, specs and skills. Three things people mix up in Kiro.\n\n1. Steering\n2. Specs\n3. Skills\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AgentSkills #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

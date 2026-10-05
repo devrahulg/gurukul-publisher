@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-07T2000_en_ig_ep203",
+  "account": "en_ig",
+  "publish_at": "2026-10-07T20:00:00+05:30",
+  "language": "en",
+  "episode": 203,
+  "video": {
+    "drive_file_id": "1-XHY2_0FNfLu263hxWbdL6siemj920kE",
+    "file_name": "Claude-Buzz203-EN.mp4"
+  },
+  "caption": "Build an app with Claude, no code: describe it in one sentence, then publish a link anyone can open.\n\nBuild an app with Claude, no code, in 4 steps. Free plan. One sentence is enough.\n\n1. Describe\n2. Use It\n3. Change It\n4. Share\n\nSend this to a friend who says they cannot code.\nWhat app would you build?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #NoCode #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

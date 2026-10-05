@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-17T0930_en_yt_ep244",
+  "account": "en_yt",
+  "publish_at": "2026-11-17T09:30:00+05:30",
+  "language": "en",
+  "episode": 244,
+  "video": {
+    "drive_file_id": "1DIRAHBfEf2k9wvR--lpu66psQ8ZPVShB",
+    "file_name": "Claude-Buzz244-EN.mp4"
+  },
+  "caption": "Claude scheduled tasks: set a recurring task once and let Claude run it in the cloud. 3 steps, paid plans only.\n\nClaude scheduled tasks: set it once, it runs every week. Here is how, in three steps.\n\n1. Open\n2. Describe\n3. Relax\n\nSend this to a friend who repeats the same task every week\nDaily or weekly for you?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Automation #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude scheduled tasks tutorial: run a weekly task in the cloud (paid plans) #Shorts",
+    "description": "Claude scheduled tasks: set a recurring task once and let Claude run it in the cloud. 3 steps, paid plans only.\n\nClaude scheduled tasks: set it once, it runs every week. Here is how, in three steps.\n\n1. Open - Open Scheduled in the sidebar.\n2. Describe - Choose Create with Claude, then set the task and frequency.\n3. Relax - It runs in the cloud, even with your laptop off. Cloud tasks cannot use local folders.\n\nNeeds: Pro, Max, Team, Ent.\n\nOfficial docs: https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork\n\nSend this to a friend who repeats the same task every week\nDaily or weekly for you? Send it to a friend who loves automation. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Automation",
+    "tags": [
+      "claude scheduled tasks",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "Automation",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

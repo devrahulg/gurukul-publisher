@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-05T0930_en_yt_ep232",
+  "account": "en_yt",
+  "publish_at": "2026-11-05T09:30:00+05:30",
+  "language": "en",
+  "episode": 232,
+  "video": {
+    "drive_file_id": "1uk8KnLwi65364avOic0M2-_1V-QFHzTL",
+    "file_name": "Claude-Buzz232-EN.mp4"
+  },
+  "caption": "Claude Code shortcuts: Shift+Tab, Esc Esc, @ file, /resume and /compact. Save this cheat sheet.\n\n5 Claude Code shortcuts that save you time. Number two undoes mistakes.\n\n1. Shift+Tab\n2. Esc Esc\n3. @ File\n4. /Resume\n5. /Compact\n\nSend this to a friend who just started Claude Code\nWhich shortcut was new to you?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/permission-modes\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #CodingTips #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude Code shortcuts: 5 keys and commands that save time (tutorial) #Shorts",
+    "description": "Claude Code shortcuts: Shift+Tab, Esc Esc, @ file, /resume and /compact. Save this cheat sheet.\n\n5 Claude Code shortcuts that save you time. Number two undoes mistakes.\n\n1. Shift+Tab - Press Shift+Tab to cycle permission modes, including plan.\n2. Esc Esc - Press Escape twice on an empty prompt to rewind.\n3. @ File - Type the at sign, then a file or folder.\n4. /Resume - Run /resume to pick up an earlier conversation.\n5. /Compact - Run /compact to summarize and free up context.\n\nNeeds: Pro, Max or Console\n\nOfficial docs: https://code.claude.com/docs/en/permission-modes\n\nSend this to a friend who just started Claude Code\nWhich shortcut was new to you? Send it to a coding friend. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #CodingTips",
+    "tags": [
+      "claude code shortcuts",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "CodingTips",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

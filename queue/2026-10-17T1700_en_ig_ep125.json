@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-17T1700_en_ig_ep125",
+  "account": "en_ig",
+  "publish_at": "2026-10-17T17:00:00+05:30",
+  "language": "en",
+  "episode": 125,
+  "video": {
+    "drive_file_id": "1uj7_hGUEIjiYqaQSLpTJQbNL88FZp6Vq",
+    "file_name": "Kiro-Buzz125-EN.mp4"
+  },
+  "caption": "Kiro Autopilot vs Supervised mode: 4 differences\n\nAutopilot versus Supervised in Kiro. Four differences.\n\n1. The default\n2. The approvals\n3. The best fit\n4. The catch\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/ide/chat/autopilot/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #Autopilot #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

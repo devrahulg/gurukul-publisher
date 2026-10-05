@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-18T2200_en_yt_ep245",
+  "account": "en_yt",
+  "publish_at": "2026-11-18T22:00:00+05:30",
+  "language": "en",
+  "episode": 245,
+  "video": {
+    "drive_file_id": "11Vny3yiBpvQY4HGPicjGtfzlw84Whyf-",
+    "file_name": "Claude-Buzz245-EN.mp4"
+  },
+  "caption": "Claude API Python quickstart: create a key, install the SDK, send a message, print the reply. 4 steps.\n\nClaude API Python quickstart: your first call in 4 steps. You need a Console account.\n\n1. Key\n2. Install\n3. Send\n4. Print\n\nSend this to a friend who wants to build with the Claude API\nPython or JavaScript for you?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/get-started\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Python #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude API Python quickstart: 4 steps to your first message in the Console #Shorts",
+    "description": "Claude API Python quickstart: create a key, install the SDK, send a message, print the reply. 4 steps.\n\nClaude API Python quickstart: your first call in 4 steps. You need a Console account.\n\n1. Key - Create an API key in the Claude Console.\n2. Install - Run pip install anthropic, in a virtual environment.\n3. Send - Call client.messages.create with a model and a prompt.\n4. Print - Loop over message.content and print the text.\n\nNeeds: API, not chat plans\n\nOfficial docs: https://platform.claude.com/docs/en/get-started\n\nSend this to a friend who wants to build with the Claude API\nPython or JavaScript for you? Send it to a friend learning APIs. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Python",
+    "tags": [
+      "claude api python quickstart",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "Python",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

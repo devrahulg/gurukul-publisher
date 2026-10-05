@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-04T1700_en_ig_ep141",
+  "account": "en_ig",
+  "publish_at": "2026-11-04T17:00:00+05:30",
+  "language": "en",
+  "episode": 141,
+  "video": {
+    "drive_file_id": "10Xl_XnpOEnK6f9Gb9vvaTLk2IADYLVXY",
+    "file_name": "Kiro-Buzz141-EN.mp4"
+  },
+  "caption": "Kiro IDE tour: the 5 panels you'll use every day\n\nFive panels in the Kiro IDE you will use every day.\n\n1. Explorer\n2. Chat\n3. Specs\n4. Agent hooks\n5. Steering\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/getting-started/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroTutorial #Kiro #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

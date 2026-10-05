@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-08T2000_en_ig_ep235",
+  "account": "en_ig",
+  "publish_at": "2026-11-08T20:00:00+05:30",
+  "language": "en",
+  "episode": 235,
+  "video": {
+    "drive_file_id": "17mVhpdrYEnzRMNdtK1VaL08bjUHyUqY_",
+    "file_name": "Claude-Buzz235-EN.mp4"
+  },
+  "caption": "Claude in Chrome: install the extension, open the side panel, ask about any page. 4 steps, paid plans.\n\nClaude in Chrome: 4 steps to let it use your browser. Paid plans only. Use trusted sites.\n\n1. Install\n2. Sign In\n3. Ask\n4. Watch\n\nSend this to a friend who reads long web pages all day\nWhich page would you try first?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #BrowserAI #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

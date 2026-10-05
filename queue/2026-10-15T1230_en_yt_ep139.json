@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-15T1230_en_yt_ep139",
+  "account": "en_yt",
+  "publish_at": "2026-10-15T12:30:00+05:30",
+  "language": "en",
+  "episode": 139,
+  "video": {
+    "drive_file_id": "1hvGrsdlPApgXiRap_oDSLQC7WVuN6LxY",
+    "file_name": "Kiro-Buzz139-EN.mp4"
+  },
+  "caption": "Move from VS Code to Kiro in 4 steps (settings, themes, extensions)\n\nFour steps to move from VS Code to Kiro.\n\n1. It feels familiar\n2. Migrate your profile\n3. Check extensions\n4. Start a spec\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/upgrade-guides/migrating-from-vscode/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VSCode #Kiro #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Move from VS Code to Kiro in 4 steps (settings, themes, extensions) #Shorts",
+    "description": "Move from VS Code to Kiro in 4 steps (settings, themes, extensions)\n\nFour steps to move from VS Code to Kiro.\n\n1. It feels familiar - Kiro is built on Code OSS.\n2. Migrate your profile - Bring your settings and themes over.\n3. Check extensions - Extensions come from Open VSX.\n4. Start a spec - Then add what VS Code never had.\n\nDocs: https://kiro.dev/docs/upgrade-guides/migrating-from-vscode/\n\nWant this saved for later? Tap save. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #VSCode #Kiro",
+    "tags": [
+      "migrate vs code to kiro",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "VSCode",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

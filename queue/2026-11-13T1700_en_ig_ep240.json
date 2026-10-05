@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-13T1700_en_ig_ep240",
+  "account": "en_ig",
+  "publish_at": "2026-11-13T17:00:00+05:30",
+  "language": "en",
+  "episode": 240,
+  "video": {
+    "drive_file_id": "17LDqHbprczA3ON0KGm2pN_ciWjAxPHKx",
+    "file_name": "Claude-Buzz240-EN.mp4"
+  },
+  "caption": "Claude Code rewind checkpoints: press Esc twice or run /rewind, pick a prompt, restore. Not a git replacement.\n\nClaude Code rewind checkpoints: undo a change in 3 steps. Not a replacement for git.\n\n1. Open\n2. Pick\n3. Restore\n\nSend this to a friend whose AI broke their code once\nHas AI broken your code? Yes or no?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/checkpointing\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #CodingTips #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

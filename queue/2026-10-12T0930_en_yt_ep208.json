@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-12T0930_en_yt_ep208",
+  "account": "en_yt",
+  "publish_at": "2026-10-12T09:30:00+05:30",
+  "language": "en",
+  "episode": 208,
+  "video": {
+    "drive_file_id": "15wDmZkQgSdpmnXaGIFXsSyIw4DLBQBS2",
+    "file_name": "Claude-Buzz208-EN.mp4"
+  },
+  "caption": "Make a game with Claude: one prompt gives you a playable cat-and-mango game right in the chat, free plan.\n\nMake a game with Claude in 3 steps, one prompt. Free plan. No coding.\n\n1. Describe\n2. Play\n3. Upgrade\n\nSend this to a friend who wants to make a game.\nWhat game would you build?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #GameDev #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Make a game with Claude in 3 steps: one prompt, playable in the chat #Shorts",
+    "description": "Make a game with Claude: one prompt gives you a playable cat-and-mango game right in the chat, free plan.\n\nMake a game with Claude in 3 steps, one prompt. Free plan. No coding.\n\n1. Describe - Ask for a cat catching falling mangoes, with a score.\n2. Play - Play it right in the chat window.\n3. Upgrade - Ask for levels, sound, or three lives. Then beat your own score.\n\nNeeds: Free, Pro and Max\n\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nSend this to a friend who wants to make a game.\nWhat game would you build? Send it to a friend who loves games. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #GameDev",
+    "tags": [
+      "make a game with claude",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "GameDev",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

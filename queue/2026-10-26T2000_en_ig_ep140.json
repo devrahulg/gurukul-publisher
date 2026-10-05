@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-26T2000_en_ig_ep140",
+  "account": "en_ig",
+  "publish_at": "2026-10-26T20:00:00+05:30",
+  "language": "en",
+  "episode": 140,
+  "video": {
+    "drive_file_id": "1jkahUh21WaQaqwj98LoTn8171EjnqiG9",
+    "file_name": "Kiro-Buzz140-EN.mp4"
+  },
+  "caption": "Is Kiro just a VS Code fork? 4 facts (Code OSS, Open VSX)\n\nIs Kiro just a VS Code fork? Four facts.\n\n1. Code OSS base\n2. Open VSX\n3. Familiar feel\n4. Plus more\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/upgrade-guides/migrating-from-vscode/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VSCode #Kiro #CodeOSS #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-14T2000_en_ig_ep133",
+  "account": "en_ig",
+  "publish_at": "2026-10-14T20:00:00+05:30",
+  "language": "en",
+  "episode": 133,
+  "video": {
+    "drive_file_id": "1jFV1vLsOtTWEQMR884x7CQZfJePM6v7O",
+    "file_name": "Kiro-Buzz133-EN.mp4"
+  },
+  "caption": "Kiro models ranked by credit cost (Oct 2026 credit multipliers)\n\nKiro models ranked by credit cost. Cheapest to priciest.\n\n1. Qwen3 Coder Next\n2. DeepSeek and MiniMax\n3. Haiku 4.5\n4. Auto\n5. Sonnet 5.5\n6. Opus 5.5\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/models/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AIcoding #DeveloperTools #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

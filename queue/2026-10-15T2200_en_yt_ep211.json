@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-15T2200_en_yt_ep211",
+  "account": "en_yt",
+  "publish_at": "2026-10-15T22:00:00+05:30",
+  "language": "en",
+  "episode": 211,
+  "video": {
+    "drive_file_id": "1u4GhAr63LCiqH14ENsYBlQyGigmd4z7R",
+    "file_name": "Claude-Buzz211-EN.mp4"
+  },
+  "caption": "Use Claude to learn anything: pick your level, get quizzed one question at a time, then re-learn what you missed.\n\nUse Claude to learn anything in 4 steps. Copy this tutor prompt.\n\n1. Level\n2. Quiz\n3. Answer\n4. Fix\n\nSend this to a friend who is studying for an exam.\nWhich topic will you learn first?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #LearnWithAI #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Use Claude to learn anything: 4 steps from explanation to quiz #Shorts",
+    "description": "Use Claude to learn anything: pick your level, get quizzed one question at a time, then re-learn what you missed.\n\nUse Claude to learn anything in 4 steps. Copy this tutor prompt.\n\n1. Level - Set your level first: explain it like I am twelve.\n2. Quiz - Then ask for three questions, one at a time.\n3. Answer - Reply to each one. Claude checks your answer.\n4. Fix - Ask it to re-teach whatever you missed. Then quiz again.\n\nNeeds: All plans\n\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nSend this to a friend who is studying for an exam.\nWhich topic will you learn first? Send it to a friend who studies. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #LearnWithAI",
+    "tags": [
+      "use claude to learn anything",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "LearnWithAI",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

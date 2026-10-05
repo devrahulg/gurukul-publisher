@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-19T2000_en_ig_ep215",
+  "account": "en_ig",
+  "publish_at": "2026-10-19T20:00:00+05:30",
+  "language": "en",
+  "episode": 215,
+  "video": {
+    "drive_file_id": "1U92wwncKLtlqq9Bv3nlUAivRwwcCExem",
+    "file_name": "Claude-Buzz215-EN.mp4"
+  },
+  "caption": "Tailor your resume to a job description with Claude: upload, compare, rewrite. Add the rule: do not invent anything.\n\nTailor resume to job description with Claude in 3 steps. And never invent a skill.\n\n1. Upload\n2. Compare\n3. Rewrite\n\nSend this to a friend who is applying for jobs this month.\nHow many jobs are you applying to?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ResumeTips #AItips #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

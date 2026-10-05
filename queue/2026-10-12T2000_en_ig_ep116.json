@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-12T2000_en_ig_ep116",
+  "account": "en_ig",
+  "publish_at": "2026-10-12T20:00:00+05:30",
+  "language": "en",
+  "episode": 116,
+  "video": {
+    "drive_file_id": "1SvtTCfEMbzBx8t2uP5oiKBS-DuSVRzeE",
+    "file_name": "Kiro-Buzz116-EN.mp4"
+  },
+  "caption": "Your first Kiro agent hook in 4 steps\n\nFour steps to create your first Kiro agent hook.\n\n1. Open agent hooks\n2. Pick a trigger\n3. Describe the action\n4. Let the agent run it\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/hooks/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

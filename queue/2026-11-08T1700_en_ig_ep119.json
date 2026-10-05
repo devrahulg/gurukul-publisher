@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-08T1700_en_ig_ep119",
+  "account": "en_ig",
+  "publish_at": "2026-11-08T17:00:00+05:30",
+  "language": "en",
+  "episode": 119,
+  "video": {
+    "drive_file_id": "172X2aD9sRtYpsa3BeqMCBP2L-fUj3pTJ",
+    "file_name": "Kiro-Buzz119-EN.mp4"
+  },
+  "caption": "5 Kiro agent hook ideas to steal (examples)\n\nFive Kiro hook ideas to steal today.\n\n1. Update tests\n2. Refresh docs\n3. Lint and format\n4. Review checklist\n5. Guard secrets\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/hooks/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-22T1230_en_yt_ep110",
+  "account": "en_yt",
+  "publish_at": "2026-10-22T12:30:00+05:30",
+  "language": "en",
+  "episode": 110,
+  "video": {
+    "drive_file_id": "1L7y8wyZRsLmYViHZvYF2rB-oRVIxMaXQ",
+    "file_name": "Kiro-Buzz110-EN.mp4"
+  },
+  "caption": "Kiro steering modes explained: Always, FileMatch, Manual, Auto\n\nFour ways Kiro loads your steering rules.\n\n1. Always\n2. File match\n3. Manual\n4. Auto\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SteeringFiles #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Kiro steering modes explained: Always, FileMatch, Manual, Auto #Shorts",
+    "description": "Kiro steering modes explained: Always, FileMatch, Manual, Auto\n\nFour ways Kiro loads your steering rules.\n\n1. Always - Included in every request.\n2. File match - Loads when matching files are in play.\n3. Manual - Loads only when you call it.\n4. Auto - Kiro picks it when it fits the task.\n\nDocs: https://kiro.dev/docs/steering/\n\nGot a Kiro question? Ask it below. I reply. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #SteeringFiles",
+    "tags": [
+      "kiro steering inclusion modes",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "SteeringFiles",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

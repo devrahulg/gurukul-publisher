@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-09T1700_en_ig_ep102",
+  "account": "en_ig",
+  "publish_at": "2026-10-09T17:00:00+05:30",
+  "language": "en",
+  "episode": 102,
+  "video": {
+    "drive_file_id": "1tdgxc3RzpZQNUBAujeftExW-vypK9rBg",
+    "file_name": "Kiro-Buzz102-EN.mp4"
+  },
+  "caption": "Vibe coding vs spec-driven development: 5 differences (Kiro)\n\nVibe coding versus spec coding. Five differences that matter.\n\n1. The start\n2. The plan\n3. The progress\n4. The rules\n5. The handoff\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VibeCoding #SpecDrivenDevelopment #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

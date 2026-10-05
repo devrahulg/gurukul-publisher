@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-09T2200_en_yt_ep205",
+  "account": "en_yt",
+  "publish_at": "2026-10-09T22:00:00+05:30",
+  "language": "en",
+  "episode": 205,
+  "video": {
+    "drive_file_id": "1WxxaildWeOfDjeMnR92g6E8H34PYZq0v",
+    "file_name": "Claude-Buzz205-EN.mp4"
+  },
+  "caption": "Claude prompt trick: add one line so Claude asks you 3 questions before it answers, and the plan fits you.\n\nClaude prompt trick: make it ask you 3 questions first. Copy the line. Works on every plan.\n\n1. Goal\n2. Add\n3. Answer\n4. Result\n\nSend this to a friend who gets generic answers from AI.\nHow many questions would you ask?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #PromptEngineering #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude prompt trick: make Claude ask you questions first (4 steps) #Shorts",
+    "description": "Claude prompt trick: add one line so Claude asks you 3 questions before it answers, and the plan fits you.\n\nClaude prompt trick: make it ask you 3 questions first. Copy the line. Works on every plan.\n\n1. Goal - State your goal, like starting a YouTube channel.\n2. Add - Add: before you start, ask me three questions.\n3. Answer - Reply with your budget, audience, and deadline.\n4. Result - Get a plan that fits you, not a generic one.\n\nNeeds: All plans\n\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nSend this to a friend who gets generic answers from AI.\nHow many questions would you ask? Send it to a friend with generic answers. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #PromptEngineering",
+    "tags": [
+      "claude prompt trick",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "PromptEngineering",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

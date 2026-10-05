@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-09T0930_en_yt_ep236",
+  "account": "en_yt",
+  "publish_at": "2026-11-09T09:30:00+05:30",
+  "language": "en",
+  "episode": 236,
+  "video": {
+    "drive_file_id": "1k32mzXmgTqaJbXpn2lLauizk2R_8w7uj",
+    "file_name": "Claude-Buzz236-EN.mp4"
+  },
+  "caption": "Claude Code init creates your CLAUDE.md. Run /init, review the file, add your rules. 3 steps.\n\nClaude Code init writes CLAUDE.md in 3 steps. Teach it your project once.\n\n1. Run /Init\n2. Review\n3. Add Rules\n\nSend this to a friend who repeats the same rules to Claude Code\nWhich rule goes in first?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/commands\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #DevTools #AItips #theAIgurukul",
+  "youtube": {
+    "title": "Claude Code init and CLAUDE.md explained: teach it your project in 3 steps #Shorts",
+    "description": "Claude Code init creates your CLAUDE.md. Run /init, review the file, add your rules. 3 steps.\n\nClaude Code init writes CLAUDE.md in 3 steps. Teach it your project once.\n\n1. Run /Init - In your project folder, type /init.\n2. Review - Read the CLAUDE.md that Claude writes.\n3. Add Rules - Add your build, test, and style rules. Keep it short.\n\nNeeds: Pro, Max or Console\n\nOfficial docs: https://code.claude.com/docs/en/commands\n\nSend this to a friend who repeats the same rules to Claude Code\nWhich rule goes in first? Send it to a friend using Claude Code. theAIgurukul posts a Claude tip every day - subscribe.\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #DevTools",
+    "tags": [
+      "claude code init claude.md",
+      "Claude",
+      "Claude AI",
+      "Claude tutorial",
+      "Anthropic Claude",
+      "AI tips",
+      "theAIgurukul",
+      "ClaudeAI",
+      "DevTools",
+      "AItips"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}

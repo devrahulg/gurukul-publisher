@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-05T1700_en_ig_ep101",
+  "account": "en_ig",
+  "publish_at": "2026-10-05T17:00:00+05:30",
+  "language": "en",
+  "episode": 101,
+  "video": {
+    "drive_file_id": "1ON_KABNuF0zrjTliEVD16EJD6KfAzdpU",
+    "file_name": "Kiro-Buzz101-EN.mp4"
+  },
+  "caption": "Idea to shipped feature with Kiro in 6 steps (spec-driven development)\n\nSix steps to take a feature from idea to shipped with Kiro.\n\n1. Describe it\n2. Get requirements\n3. Review like a contract\n4. Check the design\n5. Get the task list\n6. Run and review\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SpecDrivenDevelopment #AIcoding #theAIgurukul",
+  "status": "queued",
+  "attempts": 0
+}

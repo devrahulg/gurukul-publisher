@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-09T1230_en_yt_ep130",
+  "account": "en_yt",
+  "publish_at": "2026-11-09T12:30:00+05:30",
+  "language": "en",
+  "episode": 130,
+  "video": {
+    "drive_file_id": "1yE-Mvx12rktJ83zQG6sdqb3wFhZnVcMU",
+    "file_name": "Kiro-Buzz130-EN.mp4"
+  },
+  "caption": "Undo the AI: Kiro checkpoints and rewind in 4 steps\n\nFour steps to undo what the AI just did in Kiro.\n\n1. Let it work\n2. Spot a bad turn\n3. Rewind\n4. Know the catch\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/checkpoints/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #Checkpoints #AIcoding #theAIgurukul",
+  "youtube": {
+    "title": "Undo the AI: Kiro checkpoints and rewind in 4 steps #Shorts",
+    "description": "Undo the AI: Kiro checkpoints and rewind in 4 steps\n\nFour steps to undo what the AI just did in Kiro.\n\n1. Let it work - Kiro tracks what the agent changes.\n2. Spot a bad turn - Find the point where it went wrong.\n3. Rewind - Go back to an earlier checkpoint.\n4. Know the catch - Your manual edits are not tracked.\n\nDocs: https://kiro.dev/docs/checkpoints/\n\nLearning Kiro too? Say hi in the comments. theAIgurukul posts a Kiro tip every day - subscribe.\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev #BuildWithKiro\n\n#BuildWithKiro #Kiro #Checkpoints",
+    "tags": [
+      "kiro checkpoints rewind",
+      "Kiro",
+      "AWS Kiro",
+      "Kiro tutorial",
+      "Kiro IDE",
+      "agentic IDE",
+      "AI coding",
+      "theAIgurukul",
+      "BuildWithKiro",
+      "Checkpoints",
+      "AIcoding"
+    ],
+    "category_id": "27",
+    "made_for_kids": false
+  },
+  "status": "queued",
+  "attempts": 0
+}
