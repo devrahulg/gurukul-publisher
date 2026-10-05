@@ -1,22 +1,23 @@
 {
-  "ran_at": "2026-10-05T02:19:02Z",
+  "ran_at": "2026-10-05T09:35:15Z",
   "missed": 0,
-  "youtube_done": 0,
+  "youtube_done": 4,
   "youtube_errors": 0,
-  "instagram_done": 0,
+  "instagram_done": 2,
   "instagram_errors": 0,
   "accounts": {
     "hi_ig": "ready",
     "hi_yt": "ready",
     "en_ig": "ready",
-    "en_yt": "ready"
+    "en_yt": "ready",
+    "li_page": "secret LINKEDIN_TOKEN not set"
   },
   "queue": {
     "en_yt": {
-      "published": 1,
+      "published": 2,
       "missed": 1,
-      "scheduled": 7,
-      "queued": 67
+      "scheduled": 10,
+      "queued": 163
     },
     "hi_yt": {
       "published": 1,
@@ -25,12 +26,15 @@
       "queued": 67
     },
     "en_ig": {
-      "published": 7,
-      "queued": 68
+      "published": 9,
+      "queued": 166
     },
     "hi_ig": {
       "published": 7,
       "queued": 68
+    },
+    "li_page": {
+      "queued": 1
     }
   }
 }

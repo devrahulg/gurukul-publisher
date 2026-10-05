@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz201-EN.mp4"
   },
   "caption": "Claude free plan features: 5 things you get without paying, checked in October 2026.\n\n5 Claude free plan features you get without paying. Checked in October 2026.\n\n1. Web, Code\n2. Memory\n3. Artifacts\n4. Projects\n5. Skills, Apps\n\nSend this to a friend who thinks Claude needs a paid plan.\nWhich one is new to you?\nFollow for a Claude tip a day.\nOfficial docs: https://claude.com/pricing\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #FreeAITools #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119272807877618",
+    "media_id": "18140224903717427",
+    "url": "https://www.instagram.com/reel/DeG5g3OiDOA/"
+  },
+  "history": [
+    {
+      "at": "2026-10-05T09:34:27Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-05T09:35:15Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-05T09:35:15Z"
 }
