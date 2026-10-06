@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz144-EN.mp4"
   },
   "caption": "New in Kiro: 5 updates (Sept-Oct 2026)\n\nFive new things in Kiro. October 2026 update.\n\n1. Cloud sessions\n2. Agent artifacts\n3. Opus 5.5\n4. Workflows\n5. Sonnet 5.5\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/changelog\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AINews #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119560753877618",
+    "media_id": "17939909826364255",
+    "url": "https://www.instagram.com/reel/DeJPz8QitPx/"
+  },
+  "history": [
+    {
+      "at": "2026-10-06T07:27:47Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-06T07:28:32Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-06T07:28:32Z"
 }

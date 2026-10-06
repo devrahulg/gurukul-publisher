@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz202-EN.mp4"
   },
   "caption": "How to write better prompts for Claude: a 4-part checklist, with a before and after.\n\nSame Claude. Two prompts. Watch the difference. Copy the four-part prompt.\n\n1. Role\n2. Task\n3. Context\n4. Format\n\nSend this to a friend who keeps getting generic AI answers.\nWhich step do you skip?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #PromptEngineering #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119560456877618",
+    "media_id": "18566683777075475",
+    "url": "https://www.instagram.com/reel/DeJPuOXlRVJ/"
+  },
+  "history": [
+    {
+      "at": "2026-10-06T07:26:40Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-06T07:27:46Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-06T07:27:46Z"
 }
