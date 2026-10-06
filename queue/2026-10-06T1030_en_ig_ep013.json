@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep013-EN.mp4"
   },
   "caption": "Importing an Existing VS Code Setup Into Kiro\n\nDon't rebuild your setup. Import it.\n\nOne Kiro tip a day. Episode 13.\n\n#VSCodeMigration #OpenVSX #KiroSetup #theAIgurukul #explorepage",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119475868877618",
+    "media_id": "18128922943696698",
+    "url": "https://www.instagram.com/reel/DeIhkqLDgGq/"
+  },
+  "history": [
+    {
+      "at": "2026-10-06T00:43:47Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-06T00:44:13Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-06T00:44:13Z"
 }
