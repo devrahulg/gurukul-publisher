@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep014-EN.mp4"
   },
   "caption": "The Kiro Interface: A Quick Tour\n\nHere's every panel in Kiro, in 30 seconds.\n\nOne Kiro tip a day. Episode 14.\n\n#KiroInterface #KiroTour #IDEWalkthrough #theAIgurukul #trending",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119788192877618",
+    "media_id": "17989539158867322",
+    "url": "https://www.instagram.com/reel/DeK_jDcHJ8F/"
+  },
+  "history": [
+    {
+      "at": "2026-10-06T23:43:43Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-06T23:44:54Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-06T23:44:54Z"
 }
