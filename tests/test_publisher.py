@@ -263,3 +263,16 @@ def test_publish_only_prefixes_pauses_other_series_without_marking_missed(qdir):
     assert json.loads((qdir / "kiro_old.json").read_text())["status"] == "queued"
     # resume: remove the setting and the paused posts are eligible again
     assert sorted(p["id"] for p in run.select(q.load_all(), "instagram", now, S, ACCTS)) == ["claude", "kiro"]
+
+
+def test_instagram_only_claude_but_youtube_posts_everything(qdir):
+    for pid, acct, name in (("ig_claude", "hi_ig", "Claude-Buzz201-EN.mp4"), ("ig_kiro", "hi_ig", "Kiro-Buzz101-EN.mp4"),
+                            ("yt_kiro", "hi_yt", "Kiro-Buzz101-EN.mp4"), ("yt_claude", "hi_yt", "Claude-Buzz201-EN.mp4")):
+        put(qdir, pid, acct, "2026-10-02T10:30:00+05:30")
+        f = qdir / f"{pid}.json"
+        d = json.loads(f.read_text()); d["video"]["file_name"] = name; f.write_text(json.dumps(d))
+    s = {**S, "publish_only_prefixes": {"instagram": ["Claude-Buzz"]}}
+    now = now_at("2026-10-02T10:20:00+05:30")
+    posts = q.load_all()
+    assert [p["id"] for p in run.select(posts, "instagram", now, s, ACCTS)] == ["ig_claude"]
+    assert sorted(p["id"] for p in run.select(posts, "youtube", now, s, ACCTS)) == ["yt_claude", "yt_kiro"]

@@ -44,11 +44,15 @@ def account_ready(name: str, acct: dict) -> tuple[bool, str]:
     return True, ""
 
 
-def is_paused(p: Post, s: dict) -> bool:
-    """Reversible pause: when settings.json has a non-empty "publish_only_prefixes" list, only posts whose
-    video file name starts with one of those prefixes are published; every other queued post is left
-    untouched (never marked missed, never deleted). Remove the key (or set []) to resume everything."""
+def is_paused(p: Post, s: dict, accts: dict | None = None) -> bool:
+    """Reversible pause. settings.json "publish_only_prefixes" is either a list (applies to every platform)
+    or a dict per platform, e.g. {"instagram": ["Claude-Buzz"]}: on a platform with a non-empty list, only
+    posts whose video file name starts with one of the prefixes are published; every other queued post is
+    left untouched (never marked missed, never deleted). Remove the key (or set it to {} / []) to resume."""
     only = s.get("publish_only_prefixes") or []
+    if isinstance(only, dict):
+        platform = ((accts or {}).get(p.get("account")) or {}).get("platform")
+        only = only.get(platform) or []
     if not only:
         return False
     name = (p.get("video") or {}).get("file_name", "")
@@ -61,7 +65,7 @@ def select(posts: list[Post], platform: str, now: dt.datetime, s: dict, accts: d
         acct = accts.get(p.get("account"), {})
         if acct.get("platform") != platform or p["status"] != "queued":
             continue
-        if is_paused(p, s):
+        if is_paused(p, s, accts):
             continue
         if not account_ready(p["account"], acct)[0]:
             continue
@@ -75,10 +79,10 @@ def select(posts: list[Post], platform: str, now: dt.datetime, s: dict, accts: d
     return sorted(out, key=lambda p: p.publish_at)
 
 
-def mark_missed(posts: list[Post], now: dt.datetime, s: dict) -> int:
+def mark_missed(posts: list[Post], now: dt.datetime, s: dict, accts: dict | None = None) -> int:
     n = 0
     for p in posts:
-        if p["status"] == "queued" and not is_paused(p, s) and p.publish_at < now - dt.timedelta(minutes=s["max_late_minutes"]):
+        if p["status"] == "queued" and not is_paused(p, s, accts) and p.publish_at < now - dt.timedelta(minutes=s["max_late_minutes"]):
             p["status"] = "missed"
             p.note(f"missed: more than {s['max_late_minutes']} min past its time")
             p.save()
@@ -313,7 +317,7 @@ def do_instagram(posts: list[Post], manifest: dict, s: dict, accts: dict) -> dic
 def cmd_run(site: pathlib.Path) -> int:
     s, accts, now = settings(), accounts(), now_utc()
     posts = load_all()
-    missed = mark_missed(posts, now, s)
+    missed = mark_missed(posts, now, s, accts)
     resume_open_instagram(posts, accts, s)
     manifest = load_json(site.parent / MANIFEST, {"items": []}) or {"items": []}
     with tempfile.TemporaryDirectory() as tmp:
