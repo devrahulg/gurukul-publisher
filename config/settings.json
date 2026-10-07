@@ -5,5 +5,6 @@
   "youtube_lead_hours": 36,
   "max_attempts": 3,
   "max_youtube_uploads_per_run": 6,
-  "ig_api_version": "v25.0"
+  "ig_api_version": "v25.0",
+  "publish_only_prefixes": ["Claude-Buzz"]
 }

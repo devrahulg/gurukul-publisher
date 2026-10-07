@@ -44,11 +44,24 @@ def account_ready(name: str, acct: dict) -> tuple[bool, str]:
     return True, ""
 
 
+def is_paused(p: Post, s: dict) -> bool:
+    """Reversible pause: when settings.json has a non-empty "publish_only_prefixes" list, only posts whose
+    video file name starts with one of those prefixes are published; every other queued post is left
+    untouched (never marked missed, never deleted). Remove the key (or set []) to resume everything."""
+    only = s.get("publish_only_prefixes") or []
+    if not only:
+        return False
+    name = (p.get("video") or {}).get("file_name", "")
+    return not any(name.startswith(x) for x in only)
+
+
 def select(posts: list[Post], platform: str, now: dt.datetime, s: dict, accts: dict) -> list[Post]:
     out = []
     for p in posts:
         acct = accts.get(p.get("account"), {})
         if acct.get("platform") != platform or p["status"] != "queued":
+            continue
+        if is_paused(p, s):
             continue
         if not account_ready(p["account"], acct)[0]:
             continue
@@ -65,7 +78,7 @@ def select(posts: list[Post], platform: str, now: dt.datetime, s: dict, accts: d
 def mark_missed(posts: list[Post], now: dt.datetime, s: dict) -> int:
     n = 0
     for p in posts:
-        if p["status"] == "queued" and p.publish_at < now - dt.timedelta(minutes=s["max_late_minutes"]):
+        if p["status"] == "queued" and not is_paused(p, s) and p.publish_at < now - dt.timedelta(minutes=s["max_late_minutes"]):
             p["status"] = "missed"
             p.note(f"missed: more than {s['max_late_minutes']} min past its time")
             p.save()

@@ -210,6 +210,7 @@ def test_staged_media_names_are_unguessable(qdir, monkeypatch, tmp_path):
     put(qdir, "2026-10-02T1030_hi_ig_ep008", "hi_ig", "2026-10-02T10:30:00+05:30")
     monkeypatch.setenv("PUBLISHER_NOW", "2026-10-02T10:20:00+05:30")
     monkeypatch.setattr(run, "accounts", lambda: ACCTS)
+    monkeypatch.setattr(run, "settings", lambda: S)  # independent of the live pause setting
     monkeypatch.setattr(run, "drive_token", lambda a: "AT")
     monkeypatch.setattr(run, "fetch_video", lambda p, dest, tok: dest.write_bytes(b"x") or dest)
     site = tmp_path / "site"
@@ -245,3 +246,20 @@ def test_hindi_channel_ready_with_only_its_own_client(qdir, monkeypatch):
     assert run.account_ready("hi_yt", acct)[0] is False
     monkeypatch.setenv("GOOGLE_CLIENT_ID_HI", "hi"); monkeypatch.setenv("GOOGLE_CLIENT_SECRET_HI", "h")
     assert run.account_ready("hi_yt", acct) == (True, "")
+
+
+def test_publish_only_prefixes_pauses_other_series_without_marking_missed(qdir):
+    put(qdir, "claude", "hi_ig", "2026-10-02T10:30:00+05:30")
+    put(qdir, "kiro", "hi_ig", "2026-10-02T10:30:00+05:30")
+    put(qdir, "kiro_old", "hi_ig", "2026-10-02T05:00:00+05:30")  # past due while paused
+    for pid, name in (("claude", "Claude-Buzz201-EN.mp4"), ("kiro", "Kiro-Buzz101-EN.mp4"), ("kiro_old", "Kiro-Ep014-EN.mp4")):
+        f = qdir / f"{pid}.json"
+        d = json.loads(f.read_text()); d["video"]["file_name"] = name; f.write_text(json.dumps(d))
+    s = {**S, "publish_only_prefixes": ["Claude-Buzz"]}
+    now = now_at("2026-10-02T10:20:00+05:30")
+    posts = q.load_all()
+    assert [p["id"] for p in run.select(posts, "instagram", now, s, ACCTS)] == ["claude"]
+    assert run.mark_missed(posts, now, s) == 0
+    assert json.loads((qdir / "kiro_old.json").read_text())["status"] == "queued"
+    # resume: remove the setting and the paused posts are eligible again
+    assert sorted(p["id"] for p in run.select(q.load_all(), "instagram", now, S, ACCTS)) == ["claude", "kiro"]
