@@ -29,6 +29,24 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "scheduled",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-10-07T05:34:25Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-10-07T05:34:28Z",
+      "event": "YouTube scheduled: SYT4NAplHDw"
+    }
+  ],
+  "updated_at": "2026-10-07T05:34:28Z",
+  "result": {
+    "video_id": "SYT4NAplHDw",
+    "url": "https://www.youtube.com/shorts/SYT4NAplHDw",
+    "privacy": "private",
+    "publish_at": "2026-10-08T13:30:00Z",
+    "upload_status": "uploaded"
+  }
 }

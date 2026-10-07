@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz132-EN.mp4"
   },
   "caption": "5 ways to stretch Kiro's free credits (credit multipliers explained)\n\nFive ways to stretch Kiro's free credits.\n\n1. Start on Auto\n2. Cheap for routine\n3. Mid-priced models\n4. Save Opus for hard bugs\n5. Plan before building\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/pricing\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AIcoding #DeveloperTools #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18119864284877618",
+    "media_id": "18254922874308773",
+    "url": "https://www.instagram.com/reel/DeLnw99jwzK/"
+  },
+  "history": [
+    {
+      "at": "2026-10-07T05:35:36Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-07T05:36:24Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-07T05:36:24Z"
 }
