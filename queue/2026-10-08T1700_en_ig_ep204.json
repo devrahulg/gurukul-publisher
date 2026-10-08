@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz204-EN.mp4"
   },
   "caption": "Claude spreadsheet analysis: 5 jobs it does for you, from CSV charts to real .xlsx files with formulas.\n\nClaude spreadsheet analysis: 5 jobs it does for free. Even real Excel files.\n\n1. Analyze\n2. Chart\n3. Build\n4. Screenshot\n5. Receipts\n\nSend this to a friend who lives in Excel.\nWhich job saves you time?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ExcelTips #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18120212749877618",
+    "media_id": "18027451760880745",
+    "url": "https://www.instagram.com/reel/DeOtLjDEdKe/"
+  },
+  "history": [
+    {
+      "at": "2026-10-08T10:20:38Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-08T10:21:26Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-08T10:21:26Z"
 }

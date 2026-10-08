@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz138-EN.mp4"
   },
   "caption": "Kiro tutorial for beginners: install and build your first project in 6 steps\n\nSix steps to install Kiro and build your first project.\n\n1. Download Kiro\n2. Sign in\n3. Open a folder\n4. Describe your idea\n5. Review the spec\n6. Run the tasks\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/getting-started/first-project/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroTutorial #Kiro #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18120213052877618",
+    "media_id": "18112453055028772",
+    "url": "https://www.instagram.com/reel/DeOtR5fgivC/"
+  },
+  "history": [
+    {
+      "at": "2026-10-08T10:21:27Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-08T10:22:17Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-08T10:22:17Z"
 }
