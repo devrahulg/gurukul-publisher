@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep015-HI.mp4"
   },
   "caption": "Kiro में अपनी पहली प्रॉम्प्ट लिखना\n\nKiro को प्रॉम्प्ट करने का तरीका अलग है — वजह जानिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 15.\n\n#KiroPrompting #FirstPrompt #PromptTips #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18120143587877618",
+    "media_id": "17913650403535534",
+    "url": "https://www.instagram.com/reel/DeN527Eme2m/"
+  },
+  "history": [
+    {
+      "at": "2026-10-08T02:52:12Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-08T02:52:40Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-08T02:52:40Z"
 }
