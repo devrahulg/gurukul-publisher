@@ -9,6 +9,14 @@
     "file_name": "Kiro-Buzz102-EN.mp4"
   },
   "caption": "Vibe coding vs spec-driven development: 5 differences (Kiro)\n\nVibe coding versus spec coding. Five differences that matter.\n\n1. The start\n2. The plan\n3. The progress\n4. The rules\n5. The handoff\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VibeCoding #SpecDrivenDevelopment #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "failed",
+  "attempts": 1,
+  "last_error": "Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A8NiYLvO0lb41dY_tgvfd2Q\"}}",
+  "history": [
+    {
+      "at": "2026-10-09T09:31:12Z",
+      "event": "failed: Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Fac"
+    }
+  ],
+  "updated_at": "2026-10-09T09:31:12Z"
 }

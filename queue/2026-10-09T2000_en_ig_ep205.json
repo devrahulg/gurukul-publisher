@@ -9,6 +9,14 @@
     "file_name": "Claude-Buzz205-EN.mp4"
   },
   "caption": "Claude prompt trick: add one line so Claude asks you 3 questions before it answers, and the plan fits you.\n\nClaude prompt trick: make it ask you 3 questions first. Copy the line. Works on every plan.\n\n1. Goal\n2. Add\n3. Answer\n4. Result\n\nSend this to a friend who gets generic answers from AI.\nHow many questions would you ask?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #PromptEngineering #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "failed",
+  "attempts": 1,
+  "last_error": "Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ArurX257fFh902HunDiyxBd\"}}",
+  "history": [
+    {
+      "at": "2026-10-09T09:31:13Z",
+      "event": "failed: Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Fac"
+    }
+  ],
+  "updated_at": "2026-10-09T09:31:13Z"
 }
