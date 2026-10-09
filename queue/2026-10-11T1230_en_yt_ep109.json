@@ -28,6 +28,24 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "scheduled",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-10-09T21:09:55Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-10-09T21:09:58Z",
+      "event": "YouTube scheduled: NebexOYKdGY"
+    }
+  ],
+  "updated_at": "2026-10-09T21:09:58Z",
+  "result": {
+    "video_id": "NebexOYKdGY",
+    "url": "https://www.youtube.com/shorts/NebexOYKdGY",
+    "privacy": "private",
+    "publish_at": "2026-10-11T07:00:00Z",
+    "upload_status": "uploaded"
+  }
 }

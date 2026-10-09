@@ -9,6 +9,14 @@
     "file_name": "Kiro-Ep017-EN.mp4"
   },
   "caption": "Reviewing a Kiro-Generated Spec Before Coding Starts\n\nNever skip this step. Ever.\n\nOne Kiro tip a day. Episode 17.\n\n#SpecReview #KiroBestPractice #QualityControl #theAIgurukul #foryourpage",
-  "status": "queued",
-  "attempts": 0
+  "status": "failed",
+  "attempts": 1,
+  "last_error": "Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"An68aLJwlo-xU3Xtnd37Z5v\"}}",
+  "history": [
+    {
+      "at": "2026-10-09T21:09:59Z",
+      "event": "failed: Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Fac"
+    }
+  ],
+  "updated_at": "2026-10-09T21:09:59Z"
 }
