@@ -9,6 +9,14 @@
     "file_name": "Kiro-Ep018-EN.mp4"
   },
   "caption": "Kiro's Open VSX Extension Support Explained\n\nYour favorite VS Code extensions? Probably still work.\n\nOne Kiro tip a day. Episode 18.\n\n#OpenVSX #Extensions #KiroSetup #theAIgurukul #explorepage",
-  "status": "queued",
-  "attempts": 0
+  "status": "failed",
+  "attempts": 1,
+  "last_error": "Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A2IGMAedyqWLWnO05rvY5ms\"}}",
+  "history": [
+    {
+      "at": "2026-10-10T22:23:32Z",
+      "event": "failed: Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Fac"
+    }
+  ],
+  "updated_at": "2026-10-10T22:23:32Z"
 }
