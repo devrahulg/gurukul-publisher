@@ -1,7 +1,7 @@
 {
-  "ran_at": "2026-10-10T14:24:27Z",
+  "ran_at": "2026-10-10T18:47:44Z",
   "missed": 0,
-  "youtube_done": 0,
+  "youtube_done": 1,
   "youtube_errors": 0,
   "instagram_done": 0,
   "instagram_errors": 0,
@@ -16,8 +16,8 @@
     "en_yt": {
       "published": 2,
       "missed": 1,
-      "scheduled": 25,
-      "queued": 148
+      "scheduled": 26,
+      "queued": 147
     },
     "hi_yt": {
       "published": 1,
