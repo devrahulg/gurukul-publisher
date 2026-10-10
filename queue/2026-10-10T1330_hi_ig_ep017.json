@@ -9,6 +9,14 @@
     "file_name": "Kiro-Ep017-HI.mp4"
   },
   "caption": "कोडिंग शुरू होने से पहले Kiro के बनाए स्पेक को रिव्यू करना\n\nयह स्टेप कभी मत छोड़िए। कभी नहीं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 17.\n\n#SpecReview #KiroBestPractice #QualityControl #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "failed",
+  "attempts": 1,
+  "last_error": "Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"APEXcjpyfPZLO3IMbOlxXrc\"}}",
+  "history": [
+    {
+      "at": "2026-10-10T01:09:49Z",
+      "event": "failed: Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Fac"
+    }
+  ],
+  "updated_at": "2026-10-10T01:09:49Z"
 }
