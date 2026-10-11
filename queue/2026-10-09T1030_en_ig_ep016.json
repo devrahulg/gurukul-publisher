@@ -9,7 +9,7 @@
     "file_name": "Kiro-Ep016-EN.mp4"
   },
   "caption": "From Prompt to Spec: What Happens Next\n\nYou hit enter. Here's what Kiro does behind the scenes.\n\nOne Kiro tip a day. Episode 16.\n\n#PromptToSpec #EARS #KiroWorkflow #theAIgurukul #sharethis",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-09T10:30:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:51:34Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:52:21Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:52:21Z",
+  "result": {
+    "container_id": "18121052068877618",
+    "media_id": "18089321918307501",
+    "url": "https://www.instagram.com/reel/DeW6kdejuHF/"
+  }
 }

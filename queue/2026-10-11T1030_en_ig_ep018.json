@@ -9,7 +9,7 @@
     "file_name": "Kiro-Ep018-EN.mp4"
   },
   "caption": "Kiro's Open VSX Extension Support Explained\n\nYour favorite VS Code extensions? Probably still work.\n\nOne Kiro tip a day. Episode 18.\n\n#OpenVSX #Extensions #KiroSetup #theAIgurukul #explorepage",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-11T10:30:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:58:53Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:59:39Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:59:39Z",
+  "result": {
+    "container_id": "18121054708877618",
+    "media_id": "18056520506593680",
+    "url": "https://www.instagram.com/reel/DeW7Z-SgKvr/"
+  }
 }

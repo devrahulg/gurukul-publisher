@@ -9,7 +9,7 @@
     "file_name": "Kiro-Buzz103-EN.mp4"
   },
   "caption": "5 reasons AI-built prototypes never reach production (and the Kiro fix)\n\nFive reasons your AI prototype never reaches production.\n\n1. No docs\n2. No design decisions\n3. No validated requirements\n4. No task plan\n5. No guardrails\n\nWant this saved for later? Tap save.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AIcoding #VibeCoding #SoftwareEngineering #theAIgurukul",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-10T20:00:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:58:06Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:58:52Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:58:52Z",
+  "result": {
+    "container_id": "18121054501877618",
+    "media_id": "17904406071604343",
+    "url": "https://www.instagram.com/reel/DeW7Ue-CnFm/"
+  }
 }

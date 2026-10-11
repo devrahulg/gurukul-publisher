@@ -9,7 +9,7 @@
     "file_name": "Kiro-Ep017-HI.mp4"
   },
   "caption": "कोडिंग शुरू होने से पहले Kiro के बनाए स्पेक को रिव्यू करना\n\nयह स्टेप कभी मत छोड़िए। कभी नहीं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 17.\n\n#SpecReview #KiroBestPractice #QualityControl #KiroHindi #theAIgurukul",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-10T13:30:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:56:11Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:57:18Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:57:18Z",
+  "result": {
+    "container_id": "18121053847877618",
+    "media_id": "18100018811166932",
+    "url": "https://www.instagram.com/reel/DeW7JoPAWYZ/"
+  }
 }

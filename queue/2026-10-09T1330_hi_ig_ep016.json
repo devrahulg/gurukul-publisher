@@ -9,7 +9,7 @@
     "file_name": "Kiro-Ep016-HI.mp4"
   },
   "caption": "प्रॉम्प्ट से स्पेक तक: आगे क्या होता है\n\nआप एंटर दबाते हैं। यहां देखिए Kiro पर्दे के पीछे क्या करता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 16.\n\n#PromptToSpec #EARS #KiroWorkflow #KiroHindi #theAIgurukul",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-09T13:30:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:52:22Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:53:07Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:53:07Z",
+  "result": {
+    "container_id": "18121052605877618",
+    "media_id": "18102407357204726",
+    "url": "https://www.instagram.com/reel/DeW6qSRkbK1/"
+  }
 }

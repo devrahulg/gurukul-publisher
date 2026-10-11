@@ -9,7 +9,7 @@
     "file_name": "Kiro-Buzz102-EN.mp4"
   },
   "caption": "Vibe coding vs spec-driven development: 5 differences (Kiro)\n\nVibe coding versus spec coding. Five differences that matter.\n\n1. The start\n2. The plan\n3. The progress\n4. The rules\n5. The handoff\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #VibeCoding #SpecDrivenDevelopment #AIcoding #theAIgurukul",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-09T17:00:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:53:08Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:54:16Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:54:16Z",
+  "result": {
+    "container_id": "18121052998877618",
+    "media_id": "18103695791193642",
+    "url": "https://www.instagram.com/reel/DeW6wWGAthx/"
+  }
 }

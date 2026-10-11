@@ -9,7 +9,7 @@
     "file_name": "Kiro-Ep017-EN.mp4"
   },
   "caption": "Reviewing a Kiro-Generated Spec Before Coding Starts\n\nNever skip this step. Ever.\n\nOne Kiro tip a day. Episode 17.\n\n#SpecReview #KiroBestPractice #QualityControl #theAIgurukul #foryourpage",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-10T10:30:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:55:03Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:56:10Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:56:10Z",
+  "result": {
+    "container_id": "18121053574877618",
+    "media_id": "17916618483462279",
+    "url": "https://www.instagram.com/reel/DeW7A5lgEfr/"
+  }
 }

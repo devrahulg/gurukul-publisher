@@ -9,7 +9,7 @@
     "file_name": "Claude-Buzz206-EN.mp4"
   },
   "caption": "Import ChatGPT memory to Claude in 3 steps: export, Start import, paste. Experimental, so review the result.\n\nImport ChatGPT memory to Claude in 3 steps. Free, Pro, Max and Team plans.\n\n1. Export\n2. Start\n3. Paste\n\nSend this to a friend who is switching from ChatGPT.\nSwitching from ChatGPT? Yes or no?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ChatGPTtoClaude #AItips #theAIgurukul",
-  "status": "queued",
+  "status": "published",
   "attempts": 0,
   "last_error": null,
   "history": [
@@ -20,7 +20,20 @@
     {
       "at": "2026-10-11T12:54:05Z",
       "event": "requeued after Instagram token renewal (was 2026-10-10T17:00:00+05:30)"
+    },
+    {
+      "at": "2026-10-11T14:57:19Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T14:58:05Z",
+      "event": "published on Instagram"
     }
   ],
-  "updated_at": "2026-10-11T12:54:05Z"
+  "updated_at": "2026-10-11T14:58:05Z",
+  "result": {
+    "container_id": "18121054264877618",
+    "media_id": "17992963746052623",
+    "url": "https://www.instagram.com/reel/DeW7Ol3ASGK/"
+  }
 }
