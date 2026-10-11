@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep019-EN.mp4"
   },
   "caption": "Setting Up Your First Kiro Hook\n\nThis one automation saves hours every week.\n\nOne Kiro tip a day. Episode 19.\n\n#AgentHooks #Automation #FirstHook #theAIgurukul #reachyourgoals",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18121151554877618",
+    "media_id": "18098883839181434",
+    "url": "https://www.instagram.com/reel/DeXzO3_Eobx/"
+  },
+  "history": [
+    {
+      "at": "2026-10-11T23:06:41Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-11T23:07:29Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-11T23:07:29Z"
 }
