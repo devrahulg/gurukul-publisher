@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:05:44Z",
+  "generated_at": "2026-10-12T09:28:53Z",
   "accounts": {
     "hi_ig": {
       "same_as": "en_ig"
@@ -8,14 +8,24 @@
       "same_as": "en_yt"
     },
     "en_ig": {
-      "error": "Instagram profile: HTTP 400: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ahg43eyISAnajzb37KNx"
+      "username": "theai_gurukul",
+      "account_type": "MEDIA_CREATOR",
+      "followers": 7,
+      "posts": 59,
+      "publishing_quota": {
+        "quota_usage": 14,
+        "config": {
+          "quota_total": 100,
+          "quota_duration": 86400
+        }
+      }
     },
     "en_yt": {
       "channel_id": "UCG8Hpy65F63otVdaM6Klynw",
       "title": "The AI Gurukul",
       "subscribers": 2,
-      "views": 1724,
-      "videos": 55
+      "views": 1898,
+      "videos": 60
     },
     "li_page": {
       "status": "secret LINKEDIN_TOKEN not set"
@@ -25,24 +35,22 @@
     "en_yt": {
       "published": 2,
       "missed": 1,
-      "scheduled": 28,
-      "queued": 145
+      "scheduled": 30,
+      "queued": 143
     },
     "hi_yt": {
       "published": 1,
       "missed": 1,
-      "scheduled": 13,
-      "queued": 61
+      "scheduled": 14,
+      "queued": 60
     },
     "en_ig": {
-      "published": 18,
-      "failed": 9,
-      "queued": 148
+      "published": 28,
+      "queued": 147
     },
     "hi_ig": {
-      "published": 10,
-      "failed": 3,
-      "queued": 62
+      "published": 14,
+      "queued": 61
     },
     "li_page": {
       "published": 1
