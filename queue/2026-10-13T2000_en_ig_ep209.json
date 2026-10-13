@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz209-EN.mp4"
   },
   "caption": "Claude usage limit tips: 5 habits that make your free plan last longer. Limits reset every five hours.\n\nClaude usage limit tips: 5 habits for free plan users. Limits reset every five hours.\n\n1. Plan First\n2. Batch\n3. Be Specific\n4. Use Projects\n5. Pick The Model\n\nSend this to a friend who keeps hitting the Claude limit.\nHow often do you hit the limit?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/9797557-usage-limit-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ProductivityTips #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18121467004877618",
+    "media_id": "18104438015304409",
+    "url": "https://www.instagram.com/reel/DebdwSAjPRU/"
+  },
+  "history": [
+    {
+      "at": "2026-10-13T09:15:58Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-13T09:16:45Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-13T09:16:45Z"
 }
