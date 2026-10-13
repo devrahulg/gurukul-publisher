@@ -1,0 +1,31 @@
+{
+  "_help": "Reel scout settings. hashtags: where to look for reels in our niche. accounts: creators to always include (usernames, no @). exclude: never analyse these. Budget: Apify free plan is $5/month (about 1,900 results); one run with these limits uses roughly 700 results.",
+  "hashtags": [
+    "claudeai",
+    "claude",
+    "anthropic",
+    "claudecode",
+    "kiro",
+    "aicoding",
+    "vibecoding",
+    "cursorai",
+    "aitools",
+    "aiagents",
+    "chatgpttips",
+    "aitoolsforwork"
+  ],
+  "accounts": [],
+  "exclude": ["theai_gurukul"],
+  "per_hashtag": 30,
+  "creators_to_profile": 15,
+  "reels_per_creator": 20,
+  "lookback_days": 60,
+  "baseline_days": 90,
+  "min_reels_for_baseline": 5,
+  "outlier_multiplier": 3.0,
+  "min_views": 10000,
+  "analyse_top": 10,
+  "max_video_mb": 19,
+  "gemini_models": ["gemini-2.5-flash", "gemini-flash-latest"],
+  "our_series": "The AI Gurukul posts fast 'buzz' reels (numbered steps, high energy, AI host Vidya) teaching AWS Kiro (agentic IDE) and Claude features, in English and Hindi/Hinglish, for Indian developers and AI-curious professionals."
+}
