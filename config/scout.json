@@ -1,31 +1,53 @@
 {
-  "_help": "Reel scout settings. hashtags: where to look for reels in our niche. accounts: creators to always include (usernames, no @). exclude: never analyse these. Budget: Apify free plan is $5/month (about 1,900 results); one run with these limits uses roughly 700 results.",
-  "hashtags": [
-    "claudeai",
-    "claude",
-    "anthropic",
-    "claudecode",
-    "kiro",
-    "aicoding",
-    "vibecoding",
-    "cursorai",
-    "aitools",
-    "aiagents",
-    "chatgpttips",
-    "aitoolsforwork"
-  ],
-  "accounts": [],
+  "_help": "Reel scout settings. Each series has its own hashtags, creators to always include, and the kind of idea we want back. Budget: Apify free plan is $5/month (about 1,900 results). Each run spends up to max_results_per_run, scouting the series that were scouted longest ago first, so all series rotate through.",
   "exclude": ["theai_gurukul"],
-  "per_hashtag": 30,
-  "creators_to_profile": 15,
-  "reels_per_creator": 20,
+  "max_results_per_run": 900,
+  "per_hashtag": 20,
+  "creators_to_profile": 8,
+  "reels_per_creator": 15,
   "lookback_days": 60,
   "baseline_days": 90,
   "min_reels_for_baseline": 5,
   "outlier_multiplier": 3.0,
   "min_views": 10000,
-  "analyse_top": 10,
+  "analyse_top": 5,
   "max_video_mb": 19,
   "gemini_models": ["gemini-2.5-flash", "gemini-flash-latest"],
-  "our_series": "The AI Gurukul posts fast 'buzz' reels (numbered steps, high energy, AI host Vidya) teaching AWS Kiro (agentic IDE) and Claude features, in English and Hindi/Hinglish, for Indian developers and AI-curious professionals."
+  "series": {
+    "kiro": {
+      "name": "Kiro buzz reels",
+      "hashtags": ["kiro", "kiroide", "aicoding", "vibecoding", "cursorai", "agenticai"],
+      "accounts": [],
+      "about": "The AI Gurukul: fast 'buzz' reels with numbered steps teaching AWS Kiro (an agentic IDE: specs, hooks, steering, agent chat) to Indian developers, in English and Hinglish.",
+      "idea": "a Kiro buzz reel: hook line (max 12 words), on-screen text, 3 beats"
+    },
+    "claude": {
+      "name": "Claude buzz reels",
+      "hashtags": ["claudeai", "claude", "anthropic", "claudecode", "aitools", "chatgpttips"],
+      "accounts": [],
+      "about": "The AI Gurukul: fast 'buzz' reels showing one Claude feature each (Projects, Artifacts, Memory, Skills, Research, Claude Code), screen-recorded, for Indian professionals, in English.",
+      "idea": "a Claude feature reel: hook line (max 12 words), on-screen text, 3 beats"
+    },
+    "vidya": {
+      "name": "Vidya daily reels",
+      "hashtags": ["aitips", "aihacks", "aiforbeginners", "chatgpthindi", "techtipshindi", "productivityhacks"],
+      "accounts": [],
+      "about": "Vidya: a friendly, openly AI-generated Indian woman host (teal blazer, round teal glasses, bright home office) who shows everyday people one practical AI trick a day (decode a bill, fix an email, plan a week), alternating natural English and polished Hinglish, 15-20 seconds, made from 6-second Veo clips plus screen cards.",
+      "idea": "a Vidya reel: her first spoken line (max 12 words), the everyday problem, the Claude trick, on-screen text"
+    },
+    "mira": {
+      "name": "WTF Claude (Mira)",
+      "hashtags": ["aihumor", "aimemes", "techhumor", "aiexplained", "chatgptfunny", "claudeai"],
+      "accounts": [],
+      "about": "WTF Claude: a sister channel where Mira, an openly AI host with a sharp, deadpan, slightly sarcastic style (leather jacket, neon studio), explains one Claude feature in 20-30 seconds with a 'WTF' hook in the first 3 seconds and a real screen demo. English with light Hinglish punch lines.",
+      "idea": "a Mira 'WTF' reel: deadpan first line (max 10 words), on-screen hook (4-7 words), the WTF analogy, the payoff line"
+    },
+    "mishti": {
+      "name": "Mishti emotions",
+      "hashtags": ["relatablereels", "cartoonreels", "moodreels", "relatablememes", "doodleart", "girlymood"],
+      "accounts": ["mittsy_tiny_world", "doodle.and.drama"],
+      "about": "Mishti: a silent, original chibi cartoon girl (pastel pink kurta crop top, pigtail buns with yellow scrunchies, small green parrot) in 6-8 second loopable reels, one relatable feeling each, with hook text in the first 2 seconds (Hinglish or English) and a famous Hindi song picked to match the mood.",
+      "idea": "a Mishti reel: the emotion, hook text (3-8 words), the one-action scene, the loop ending, and the song mood (describe the vibe; don't name a specific song unless it is in the reel)"
+    }
+  }
 }

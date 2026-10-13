@@ -1,0 +1,3 @@
+# For the no-API scout on your own PC (python -m scout.local ...). Also needs ffmpeg.
+requests==2.32.3
+faster-whisper==1.1.1

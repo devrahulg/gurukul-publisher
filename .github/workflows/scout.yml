@@ -1,7 +1,7 @@
 name: scout
 
 # Reel scout: outlier reels in our niche + hook breakdowns -> research/reports/<date>.md
-# Runs on the 1st and 15th at 08:15 IST (fits the free $5/month Apify credit), on demand (Run workflow), or when research/request.json changes.
+# Runs on the 1st and 15th at 08:15 IST (rotates through the series inside the free $5/month Apify credit), on demand, or when research/request.json changes.
 on:
   schedule:
     - cron: "45 2 1,15 * *"
