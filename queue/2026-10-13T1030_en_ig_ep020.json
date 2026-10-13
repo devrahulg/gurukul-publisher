@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep020-EN.mp4"
   },
   "caption": "5 Kiro Settings to Change on Day One\n\nChange these 5 settings before your first real project.\n\nOne Kiro tip a day. Episode 20.\n\n#KiroSettings #DayOneSetup #Module2 #theAIgurukul #explorepage",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18121407805877618",
+    "media_id": "18114528884028746",
+    "url": "https://www.instagram.com/reel/Dearje5CTw5/"
+  },
+  "history": [
+    {
+      "at": "2026-10-13T01:57:20Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-13T01:58:08Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-13T01:58:08Z"
 }
