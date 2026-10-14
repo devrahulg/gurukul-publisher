@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep022-EN.mp4"
   },
   "caption": "requirements.md Explained in 30 Seconds\n\nThis one file decides if your feature gets built right.\n\nOne Kiro tip a day. Episode 22.\n\n#RequirementsMD #EARSNotation #theAIgurukul #doubletap #fyp",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18121831249877618",
+    "media_id": "18110409488334629",
+    "url": "https://www.instagram.com/reel/Defh8OEgsph/"
+  },
+  "history": [
+    {
+      "at": "2026-10-14T23:09:26Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-14T23:10:14Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-14T23:10:14Z"
 }
