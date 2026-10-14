@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep021-HI.mp4"
   },
   "caption": "Kiro में \"स्पेक\" का मतलब क्या है?\n\n'स्पेक' शब्द का Kiro में एक खास मतलब है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 21.\n\n#KiroSpecs #SpecDriven #AIWorkflow #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18121621177877618",
+    "media_id": "18107521172608713",
+    "url": "https://www.instagram.com/reel/DedKh4ZAS4U/"
+  },
+  "history": [
+    {
+      "at": "2026-10-14T01:06:27Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-14T01:06:55Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-14T01:06:55Z"
 }
