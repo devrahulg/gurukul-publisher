@@ -1,0 +1,8 @@
+{
+  "ran_at": "2026-10-15T07:44:51Z",
+  "mode": "api",
+  "series": {},
+  "error": "secret(s) not set: APIFY_TOKEN, GEMINI_API_KEY",
+  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/gurukul-publisher/gurukul-publisher/scout/run.py\", line 240, in main\n    raise RuntimeError(\"secret(s) not set: \" + \", \".join(missing))\nRuntimeError: secret(s) not set: APIFY_TOKEN, GEMINI_API_KEY\n",
+  "ok": false
+}
