@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep022-HI.mp4"
   },
   "caption": "requirements.md, 30 सेकंड में समझाया गया\n\nयह एक फाइल तय करती है कि आपका फीचर सही बनेगा या नहीं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 22.\n\n#RequirementsMd #EARS #SpecDriven #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18121849948877618",
+    "media_id": "17896087680674625",
+    "url": "https://www.instagram.com/reel/DefzpQeiRK2/"
+  },
+  "history": [
+    {
+      "at": "2026-10-15T01:44:12Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-15T01:44:37Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-15T01:44:37Z"
 }
