@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep024-EN.mp4"
   },
   "caption": "design.md: Kiro's Technical Blueprint File\n\nThis is where Kiro shows its work.\n\nOne Kiro tip a day. Episode 24.\n\n#DesignMD #TechnicalDesign #KiroSpecs #theAIgurukul #explorepage",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122290585877618",
+    "media_id": "18427185664146975",
+    "url": "https://www.instagram.com/reel/Dekg6UoACFp/"
+  },
+  "history": [
+    {
+      "at": "2026-10-16T21:36:45Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-16T21:37:30Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-16T21:37:30Z"
 }
