@@ -32,6 +32,24 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "scheduled",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-10-16T04:12:10Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-10-16T04:12:14Z",
+      "event": "YouTube scheduled: METGTQ3djro"
+    }
+  ],
+  "updated_at": "2026-10-16T04:12:14Z",
+  "result": {
+    "video_id": "METGTQ3djro",
+    "url": "https://www.youtube.com/shorts/METGTQ3djro",
+    "privacy": "private",
+    "publish_at": "2026-10-17T13:30:00Z",
+    "upload_status": "uploaded"
+  }
 }

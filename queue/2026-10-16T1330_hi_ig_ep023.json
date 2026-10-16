@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep023-HI.mp4"
   },
   "caption": "EARS नोटेशन: Kiro रिक्वायरमेंट्स कैसे लिखता है\n\nEARS कोई टाइपो नहीं है — यह Kiro के रूल्स लिखने का तरीका है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 23.\n\n#EARSNotation #Requirements #KiroSpecs #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122105731877618",
+    "media_id": "18342035788286274",
+    "url": "https://www.instagram.com/reel/DeipYdxkfS1/"
+  },
+  "history": [
+    {
+      "at": "2026-10-16T04:12:16Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-16T04:12:45Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-16T04:12:45Z"
 }
