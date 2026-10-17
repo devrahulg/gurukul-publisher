@@ -31,6 +31,24 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "scheduled",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-10-17T23:00:14Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-10-17T23:00:17Z",
+      "event": "YouTube scheduled: GV_ssAPg-xk"
+    }
+  ],
+  "updated_at": "2026-10-17T23:00:17Z",
+  "result": {
+    "video_id": "GV_ssAPg-xk",
+    "url": "https://www.youtube.com/shorts/GV_ssAPg-xk",
+    "privacy": "private",
+    "publish_at": "2026-10-19T10:30:00Z",
+    "upload_status": "uploaded"
+  }
 }

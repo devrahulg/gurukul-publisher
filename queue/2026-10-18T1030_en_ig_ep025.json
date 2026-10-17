@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep025-EN.mp4"
   },
   "caption": "How Kiro Reads Your Codebase Before Designing\n\nKiro doesn't design in a vacuum.\n\nOne Kiro tip a day. Episode 25.\n\n#CodebaseAnalysis #KiroDesign #theAIgurukul #successmindset #engagementboost",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122565289877618",
+    "media_id": "18355634308170301",
+    "url": "https://www.instagram.com/reel/DenPR66iTtX/"
+  },
+  "history": [
+    {
+      "at": "2026-10-17T23:00:19Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-17T23:00:46Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-17T23:00:46Z"
 }
