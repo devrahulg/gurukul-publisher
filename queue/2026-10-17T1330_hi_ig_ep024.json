@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep024-HI.mp4"
   },
   "caption": "design.md: Kiro की टेक्निकल ब्लूप्रिंट फाइल\n\nयहीं Kiro अपना काम दिखाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 24.\n\n#DesignMd #TechnicalBlueprint #KiroSpecs #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122348392877618",
+    "media_id": "17925530748205871",
+    "url": "https://www.instagram.com/reel/DelNBAgjTHT/"
+  },
+  "history": [
+    {
+      "at": "2026-10-17T04:02:07Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-17T04:02:54Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-17T04:02:54Z"
 }
