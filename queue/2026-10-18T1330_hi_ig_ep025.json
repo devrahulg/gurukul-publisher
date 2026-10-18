@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep025-HI.mp4"
   },
   "caption": "डिज़ाइन से पहले Kiro आपका कोडबेस कैसे पढ़ता है\n\nKiro खालीपन में डिज़ाइन नहीं करता।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 25.\n\n#CodebaseAnalysis #KiroDesign #AIEngineering #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122580214877618",
+    "media_id": "17953120809336943",
+    "url": "https://www.instagram.com/reel/DenbrkyglFK/"
+  },
+  "history": [
+    {
+      "at": "2026-10-18T00:48:43Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-18T00:49:30Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-18T00:49:30Z"
 }
