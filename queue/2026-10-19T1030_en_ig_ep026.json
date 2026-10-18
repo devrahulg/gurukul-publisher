@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep026-EN.mp4"
   },
   "caption": "tasks.md: Turning Design Into Do-able Steps\n\nDesign docs are useless without this next file.\n\nOne Kiro tip a day. Episode 26.\n\n#TasksMD #ImplementationPlan #theAIgurukul #getnoticed #foryourpage",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122812381877618",
+    "media_id": "18106951196628434",
+    "url": "https://www.instagram.com/reel/DeprvX1GC34/"
+  },
+  "history": [
+    {
+      "at": "2026-10-18T21:47:09Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-18T21:47:55Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-18T21:47:55Z"
 }
