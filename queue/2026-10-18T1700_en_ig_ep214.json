@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz214-EN.mp4"
   },
   "caption": "Claude image upload analysis: 5 things to show Claude instead of typing. Fridge, bill, error, table, diagram.\n\nClaude image upload analysis: show it, don't type, 5 ideas. Upload a photo, then ask.\n\n1. Fridge\n2. Bill\n3. Error\n4. Table\n5. Diagram\n\nSend this to a friend who types out error messages by hand.\nWhich photo would you upload first?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/8241126-uploading-files-to-claude\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AIVision #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122626996877618",
+    "media_id": "18109287800234726",
+    "url": "https://www.instagram.com/reel/Den9GQ0D5MY/"
+  },
+  "history": [
+    {
+      "at": "2026-10-18T05:40:45Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-18T05:41:32Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-18T05:41:32Z"
 }
