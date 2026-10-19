@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz147-EN.mp4"
   },
   "caption": "5 safe AI coding agent habits (Kiro permissions explained)\n\nFive habits that keep AI coding agents from hurting you.\n\n1. Supervise risky work\n2. Read every diff\n3. Careful with trust all\n4. Distrust new repos\n5. Keep secrets out\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/ide/chat/autopilot/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AIsafety #Kiro #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122869357877618",
+    "media_id": "18108536066264022",
+    "url": "https://www.instagram.com/reel/DeqZqiVjqrL/"
+  },
+  "history": [
+    {
+      "at": "2026-10-19T04:28:27Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-19T04:29:34Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-19T04:29:34Z"
 }
