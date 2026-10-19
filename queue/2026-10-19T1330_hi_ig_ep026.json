@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep026-HI.mp4"
   },
   "caption": "tasks.md: डिज़ाइन को करने-लायक स्टेप्स में बदलना\n\nइस अगली फाइल के बिना डिज़ाइन डॉक्स बेकार हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 26.\n\n#TasksMd #SpecDriven #KiroWorkflow #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18122827840877618",
+    "media_id": "18096707015124253",
+    "url": "https://www.instagram.com/reel/Dep7hqaGiXm/"
+  },
+  "history": [
+    {
+      "at": "2026-10-19T00:05:17Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-19T00:06:06Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-19T00:06:06Z"
 }
