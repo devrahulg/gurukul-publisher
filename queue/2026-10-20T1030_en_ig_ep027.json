@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep027-EN.mp4"
   },
   "caption": "How Kiro Sequences Tasks Automatically\n\nKiro decides what to build first — and it's usually right.\n\nOne Kiro tip a day. Episode 27.\n\n#TaskSequencing #KiroTasks #theAIgurukul #engagementboost #growwithus",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123063085877618",
+    "media_id": "17896807209415328",
+    "url": "https://www.instagram.com/reel/DesQBgFj-uB/"
+  },
+  "history": [
+    {
+      "at": "2026-10-19T21:43:05Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-19T21:43:53Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-19T21:43:53Z"
 }
