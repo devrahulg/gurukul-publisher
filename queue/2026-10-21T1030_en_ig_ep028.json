@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep028-EN.mp4"
   },
   "caption": "Automated Reasoning: Kiro Catches Contradictions Early\n\nKiro can catch a bad requirement before you waste a day on it.\n\nOne Kiro tip a day. Episode 28.\n\n#AutomatedReasoning #QualityControl #KiroSpecs #theAIgurukul #reachmore",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123316570877618",
+    "media_id": "18090467690251964",
+    "url": "https://www.instagram.com/reel/Deu-VfAARr5/"
+  },
+  "history": [
+    {
+      "at": "2026-10-20T23:06:14Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-20T23:07:03Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-20T23:07:03Z"
 }
