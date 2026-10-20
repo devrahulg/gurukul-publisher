@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep027-HI.mp4"
   },
   "caption": "Kiro टास्क्स को अपने आप कैसे सीक्वेंस करता है\n\nKiro तय करता है क्या पहले बनाना है — और यह अक्सर सही होता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 27.\n\n#TaskSequencing #KiroWorkflow #SpecDriven #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123089857877618",
+    "media_id": "18153498682536974",
+    "url": "https://www.instagram.com/reel/DesmvB0AmLl/"
+  },
+  "history": [
+    {
+      "at": "2026-10-20T01:01:31Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-20T01:02:17Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-20T01:02:17Z"
 }
