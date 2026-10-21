@@ -28,6 +28,24 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "scheduled",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-10-21T20:51:54Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-10-21T20:51:59Z",
+      "event": "YouTube scheduled: 1wo9pHUIdkU"
+    }
+  ],
+  "updated_at": "2026-10-21T20:51:59Z",
+  "result": {
+    "video_id": "1wo9pHUIdkU",
+    "url": "https://www.youtube.com/shorts/1wo9pHUIdkU",
+    "privacy": "private",
+    "publish_at": "2026-10-23T07:00:00Z",
+    "upload_status": "uploaded"
+  }
 }
