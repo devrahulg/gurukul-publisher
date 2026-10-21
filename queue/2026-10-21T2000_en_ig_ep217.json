@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz217-EN.mp4"
   },
   "caption": "Connect Gmail to Claude in 4 steps: open Connectors, sign in, ask which emails need a reply, approve before sending.\n\nConnect Gmail to Claude in 4 steps, even on Free. Use a test inbox first.\n\n1. Open\n2. Connect\n3. Ask\n4. Approve\n\nSend this to a friend whose inbox is out of control.\nHow many unread emails do you have?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/11176164-use-connectors-to-extend-claude-s-capabilities\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #GmailTips #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123428008877618",
+    "media_id": "18412114363094554",
+    "url": "https://www.instagram.com/reel/DewYr32kqMM/"
+  },
+  "history": [
+    {
+      "at": "2026-10-21T12:15:43Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-21T12:16:30Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-21T12:16:30Z"
 }
