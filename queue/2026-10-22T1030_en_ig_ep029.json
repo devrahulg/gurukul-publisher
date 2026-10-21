@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep029-EN.mp4"
   },
   "caption": "Spec Synchronization: Keeping Docs and Code Aligned\n\nYour docs are only useful if they stay true.\n\nOne Kiro tip a day. Episode 29.\n\n#SpecSync #LivingDocs #theAIgurukul #successmindset #trending",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123553612877618",
+    "media_id": "18130299466886997",
+    "url": "https://www.instagram.com/reel/DexpFMwmd0k/"
+  },
+  "history": [
+    {
+      "at": "2026-10-21T23:58:15Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-21T23:59:03Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-21T23:59:03Z"
 }
