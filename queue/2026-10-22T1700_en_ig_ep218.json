@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz218-EN.mp4"
   },
   "caption": "Claude flashcards from notes: upload or paste your notes, ask for flashcards and a ten-question quiz, then study in the chat.\n\nClaude flashcards from notes: 4 steps to a quiz app. Works on the Free plan.\n\n1. Upload\n2. Ask\n3. Study\n4. Tune\n\nSend this to a friend with exams coming up.\nWhich subject will you quiz yourself on?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #StudyTips #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123591247877618",
+    "media_id": "17926371843221998",
+    "url": "https://www.instagram.com/reel/DeyHRFIDOKL/"
+  },
+  "history": [
+    {
+      "at": "2026-10-22T04:22:00Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-22T04:22:46Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-22T04:22:46Z"
 }
