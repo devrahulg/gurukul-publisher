@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz110-EN.mp4"
   },
   "caption": "Kiro steering modes explained: Always, FileMatch, Manual, Auto\n\nFour ways Kiro loads your steering rules.\n\n1. Always\n2. File match\n3. Manual\n4. Auto\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SteeringFiles #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123635791877618",
+    "media_id": "18129119296764651",
+    "url": "https://www.instagram.com/reel/DeyrDkQEtTI/"
+  },
+  "history": [
+    {
+      "at": "2026-10-22T09:34:44Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-22T09:35:31Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-22T09:35:31Z"
 }
