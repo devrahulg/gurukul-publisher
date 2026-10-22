@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep030-EN.mp4"
   },
   "caption": "What Happens When Your Codebase Changes Mid-Spec\n\nSomeone else pushed code while you were mid-spec. Now what?\n\nOne Kiro tip a day. Episode 30.\n\n#SpecUpdates #KiroWorkflow #theAIgurukul #doubletap #reels",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123780916877618",
+    "media_id": "17999287262824763",
+    "url": "https://www.instagram.com/reel/De0E_23DntX/"
+  },
+  "history": [
+    {
+      "at": "2026-10-22T22:40:03Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-22T22:41:11Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-22T22:41:11Z"
 }
