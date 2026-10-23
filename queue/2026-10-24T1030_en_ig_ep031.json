@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep031-EN.mp4"
   },
   "caption": "Editing a Spec by Hand vs Letting Kiro Redraft It\n\nShould you ever hand-edit a Kiro spec? Yes — here's when.\n\nOne Kiro tip a day. Episode 31.\n\n#EditingSpecs #KiroTips #theAIgurukul #keepgrowing #fyp",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18124013380877618",
+    "media_id": "18116214203088888",
+    "url": "https://www.instagram.com/reel/De2u0b4jfF1/"
+  },
+  "history": [
+    {
+      "at": "2026-10-23T23:23:53Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-23T23:25:24Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-23T23:25:24Z"
 }
