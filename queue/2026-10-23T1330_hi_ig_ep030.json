@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep030-HI.mp4"
   },
   "caption": "जब स्पेक के बीच में आपका कोडबेस बदल जाए तो क्या होता है\n\nआपके स्पेक के बीच में किसी और ने कोड पुश कर दिया। अब क्या?\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 30.\n\n#SpecSync #CodeChanges #KiroWorkflow #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123801250877618",
+    "media_id": "17901673668606093",
+    "url": "https://www.instagram.com/reel/De0XsaSDZ4E/"
+  },
+  "history": [
+    {
+      "at": "2026-10-23T01:24:02Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-23T01:24:30Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-23T01:24:30Z"
 }
