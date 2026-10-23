@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz219-EN.mp4"
   },
   "caption": "Claude meeting notes action items: paste your notes, ask for decisions, owners and open questions, then draft the follow-up.\n\nClaude meeting notes to action items in 4 steps. Paste, ask, draft, check.\n\n1. Paste\n2. Ask\n3. Draft\n4. Check\n\nSend this to a friend who hates writing meeting minutes.\nHow many meetings this week?\nFollow for a Claude tip a day.\nOfficial docs: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #MeetingNotes #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18123895498877618",
+    "media_id": "18098398970203247",
+    "url": "https://www.instagram.com/reel/De1gbMmDkqa/"
+  },
+  "history": [
+    {
+      "at": "2026-10-23T11:58:57Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-23T12:00:07Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-23T12:00:07Z"
 }
