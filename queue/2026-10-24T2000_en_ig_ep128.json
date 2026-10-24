@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz128-EN.mp4"
   },
   "caption": "Kiro cloud sessions in 5 steps: close your laptop, Kiro keeps working\n\nFive steps to let Kiro keep working after you close your laptop.\n\n1. Start a session\n2. Give it a goal\n3. Close your laptop\n4. Come back\n5. Know the limits\n\nGot a Kiro question? Ask it below. I reply.\nDocs: https://kiro.dev/docs/cloud-sessions/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #CloudSessions #Kiro #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18124092481877618",
+    "media_id": "18269214076306779",
+    "url": "https://www.instagram.com/reel/De3j8UqD3Ww/"
+  },
+  "history": [
+    {
+      "at": "2026-10-24T07:08:46Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-24T07:09:34Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-24T07:09:34Z"
 }
