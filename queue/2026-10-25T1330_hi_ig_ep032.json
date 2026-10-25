@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep032-HI.mp4"
   },
   "caption": "प्रॉपर्टी-बेस्ड टेस्टिंग: Kiro का सीक्रेट हथियार\n\nयह टेस्टिंग मेथड वो बग्स पकड़ता है जो आपके यूनिट टेस्ट्स कभी नहीं पकड़ेंगे।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 32.\n\n#PropertyTesting #KiroTesting #QualityAssurance #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18124289914877618",
+    "media_id": "17995698542840311",
+    "url": "https://www.instagram.com/reel/De5iOtxDo3x/"
+  },
+  "history": [
+    {
+      "at": "2026-10-25T01:32:18Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-25T01:33:06Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-25T01:33:06Z"
 }
