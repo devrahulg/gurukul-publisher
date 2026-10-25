@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz221-EN.mp4"
   },
   "caption": "How to create a Claude skill: do a task once, ask Claude to save it, switch it on, then reuse it in 4 steps.\n\nHow to create a Claude skill in 4 steps. Do it once, reuse it every week.\n\n1. Do It Once\n2. Ask\n3. Enable\n4. Reuse\n\nSend this to a friend who writes the same report every week.\nWhich task will you save first?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/12512180-use-skills-in-claude\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AIWorkflow #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18124346200877618",
+    "media_id": "18375295783208115",
+    "url": "https://www.instagram.com/reel/De6FsvKAaYO/"
+  },
+  "history": [
+    {
+      "at": "2026-10-25T06:42:14Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-25T06:42:42Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-25T06:42:42Z"
 }
