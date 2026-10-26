@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz222-EN.mp4"
   },
   "caption": "Build a landing page with Claude in 4 steps: describe your business, build, edit in plain words, publish a link.\n\nBuild a landing page with Claude in 4 steps. No code, no developer.\n\n1. Brief\n2. Build\n3. Edit\n4. Publish\n\nSend this to a friend who runs a small business.\nWhat would your page sell?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #NoCode #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18124627567877618",
+    "media_id": "18106620683340862",
+    "url": "https://www.instagram.com/reel/De8bVBzFCea/"
+  },
+  "history": [
+    {
+      "at": "2026-10-26T04:29:42Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-26T04:30:30Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-26T04:30:30Z"
 }
