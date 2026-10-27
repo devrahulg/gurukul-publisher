@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep034-HI.mp4"
   },
   "caption": "डेटा फ्लो डायग्राम्स: Kiro आपके लिए क्या बनाता है\n\nआपके एक शब्द कोड लिखने से पहले ही Kiro आपका आर्किटेक्चर बना देता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 34.\n\n#DataFlowDiagrams #DesignMd #KiroSpecs #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18124857262877618",
+    "media_id": "17955964866263921",
+    "url": "https://www.instagram.com/reel/De-mN8wCDc3/"
+  },
+  "history": [
+    {
+      "at": "2026-10-27T00:43:19Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-27T00:44:06Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-27T00:44:06Z"
 }
