@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep035-EN.mp4"
   },
   "caption": "Specs Recap: The Full Requirements-to-Tasks Pipeline\n\nThe entire spec pipeline, in 30 seconds.\n\nOne Kiro tip a day. Episode 35.\n\n#SpecsRecap #Module3 #SpecDrivenDevelopment #theAIgurukul #likeforlikes",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18125077357877618",
+    "media_id": "17977567836148274",
+    "url": "https://www.instagram.com/reel/DfA8K8GCmMJ/"
+  },
+  "history": [
+    {
+      "at": "2026-10-27T22:33:39Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-27T22:34:29Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-27T22:34:29Z"
 }
