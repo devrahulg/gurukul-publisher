@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep036-EN.mp4"
   },
   "caption": "What Is a Kiro Agent Hook?\n\nThis feature runs Kiro without you even asking.\n\nOne Kiro tip a day. Episode 36.\n\n#AgentHooks #KiroAutomation #theAIgurukul #goalsetter #growwithus",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18125341381877618",
+    "media_id": "18124619903295117",
+    "url": "https://www.instagram.com/reel/DfDqo35CAhf/"
+  },
+  "history": [
+    {
+      "at": "2026-10-28T23:58:11Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-28T23:58:59Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-28T23:58:59Z"
 }
