@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz224-EN.mp4"
   },
   "caption": "Claude settings to change first: 5 memory and privacy controls to check on day one, from instructions to import.\n\n5 Claude settings to change before your next chat. Memory and privacy, in order.\n\n1. Instructions\n2. Memory\n3. Sensitive\n4. Pause\n5. Import\n\nSend this to a friend who just started using Claude.\nWhich setting have you never opened?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/10185728-understanding-claude-s-personalization-features\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #PrivacyTips #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18125149186877618",
+    "media_id": "18107313095239096",
+    "url": "https://www.instagram.com/reel/DfB4XhVlCSs/"
+  },
+  "history": [
+    {
+      "at": "2026-10-28T07:19:39Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-28T07:20:28Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-28T07:20:28Z"
 }
