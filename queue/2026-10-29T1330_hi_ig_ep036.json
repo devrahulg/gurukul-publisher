@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep036-HI.mp4"
   },
   "caption": "Kiro एजेंट हुक क्या है?\n\nयह फीचर आपके पूछे बिना भी Kiro को चला देता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 36.\n\n#AgentHooks #KiroAutomation #Module4 #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18125395750877618",
+    "media_id": "18135960517680508",
+    "url": "https://www.instagram.com/reel/DfEQSUZlLOT/"
+  },
+  "history": [
+    {
+      "at": "2026-10-29T05:26:47Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-29T05:27:53Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-29T05:27:53Z"
 }
