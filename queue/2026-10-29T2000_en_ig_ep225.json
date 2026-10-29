@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz225-EN.mp4"
   },
   "caption": "Claude voice mode: 4 steps to talk to Claude AI hands-free, from the sound wave icon to your saved transcript.\n\nClaude voice mode: 4 steps to talk, not type. It works on the free plan.\n\n1. Tap\n2. Talk\n3. Connect\n4. Read\n\nSend this to a friend who would rather talk than type.\nWhat would you ask first?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/11101966-use-voice-mode\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #VoiceAI #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18125454277877618",
+    "media_id": "18000878361102385",
+    "url": "https://www.instagram.com/reel/DfE7PLMDosS/"
+  },
+  "history": [
+    {
+      "at": "2026-10-29T11:41:44Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-29T11:43:12Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-29T11:43:12Z"
 }
