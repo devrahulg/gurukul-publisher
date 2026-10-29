@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep037-EN.mp4"
   },
   "caption": "Hooks That Trigger on File Save\n\nEvery time you hit save, this can run automatically.\n\nOne Kiro tip a day. Episode 37.\n\n#SaveHooks #Automation #theAIgurukul #explorepage #growth",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18125592202877618",
+    "media_id": "17996164559843772",
+    "url": "https://www.instagram.com/reel/DfGITa_lpqJ/"
+  },
+  "history": [
+    {
+      "at": "2026-10-29T22:55:53Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-10-29T22:56:40Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-10-29T22:56:40Z"
 }
