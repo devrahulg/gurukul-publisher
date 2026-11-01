@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz118-EN.mp4"
   },
   "caption": "6 Kiro hook triggers beyond file save\n\nSix Kiro hook triggers you are probably not using.\n\n1. Prompt submit\n2. Agent stop\n3. Session start\n4. Pre tool use\n5. Post tool use\n6. Task execution\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/hooks/types/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentHooks #Kiro #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126211969877618",
+    "media_id": "18104321615561149",
+    "url": "https://www.instagram.com/reel/DfMzFvsgpwl/"
+  },
+  "history": [
+    {
+      "at": "2026-11-01T13:05:09Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-01T13:05:59Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-01T13:05:59Z"
 }
