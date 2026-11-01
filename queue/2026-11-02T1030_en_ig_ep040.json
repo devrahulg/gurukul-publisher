@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep040-EN.mp4"
   },
   "caption": "3 Hook Ideas to Steal for Your Project\n\nSteal these 3 hooks — they'll save you real time.\n\nOne Kiro tip a day. Episode 40.\n\n#HookIdeas #AutomationTips #KiroHacks #theAIgurukul #reels",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126316978877618",
+    "media_id": "17867645370678290",
+    "url": "https://www.instagram.com/reel/DfNySTPjfHW/"
+  },
+  "history": [
+    {
+      "at": "2026-11-01T22:17:25Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-01T22:17:53Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-01T22:17:53Z"
 }
