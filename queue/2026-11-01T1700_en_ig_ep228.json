@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz228-EN.mp4"
   },
   "caption": "AI powered artifacts in Claude: build an app that uses Claude inside it in 3 steps, then share it with a link.\n\nAI powered artifacts in Claude: build an app in 3 steps. The AI runs inside your app.\n\n1. Ask\n2. Test\n3. Share\n\nSend this to a friend who has an app idea.\nWhat app would you build?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #BuildWithAI #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126138760877618",
+    "media_id": "18014051630985194",
+    "url": "https://www.instagram.com/reel/DfMAV7sDoYY/"
+  },
+  "history": [
+    {
+      "at": "2026-11-01T05:41:45Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-01T05:42:33Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-01T05:42:33Z"
 }
