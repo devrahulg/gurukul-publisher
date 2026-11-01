@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-10-15T07:44:51Z",
+  "ran_at": "2026-11-01T09:46:39Z",
   "mode": "api",
   "series": {},
   "error": "secret(s) not set: APIFY_TOKEN, GEMINI_API_KEY",
