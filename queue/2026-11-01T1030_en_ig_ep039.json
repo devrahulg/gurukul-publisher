@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep039-EN.mp4"
   },
   "caption": "Manual Hooks: Running a Task On Demand\n\nNot every automation should run automatically.\n\nOne Kiro tip a day. Episode 39.\n\n#ManualHooks #OnDemandAutomation #theAIgurukul #trending #successmindset",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126084190877618",
+    "media_id": "18100165865096027",
+    "url": "https://www.instagram.com/reel/DfLZQnlFB4z/"
+  },
+  "history": [
+    {
+      "at": "2026-11-01T00:00:15Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-01T00:00:43Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-01T00:00:43Z"
 }
