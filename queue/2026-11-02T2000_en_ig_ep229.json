@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz229-EN.mp4"
   },
   "caption": "Make Claude write like me: paste 3 of your own posts, ask it to list your style, then draft. Works on the free plan.\n\nMake Claude write like me: 3 steps, no Styles. Use three posts you wrote.\n\n1. Paste\n2. Learn\n3. Draft\n\nSend this to a friend who posts on LinkedIn.\nWhich platform do you write on?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/de/articles/10181068-stile-werden-zu-skills\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #WritingTips #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126401098877618",
+    "media_id": "18133577368682613",
+    "url": "https://www.instagram.com/reel/DfO90Z5FIjg/"
+  },
+  "history": [
+    {
+      "at": "2026-11-02T09:17:25Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-02T09:17:52Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-02T09:17:52Z"
 }

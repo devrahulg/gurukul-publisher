@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz129-EN.mp4"
   },
   "caption": "Kiro Web + GitHub: issue to pull request in 4 steps\n\nFour steps to turn a GitHub issue into a pull request with Kiro.\n\n1. Connect GitHub\n2. Label the issue\n3. Or comment\n4. Review the PR\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/web/github/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #KiroWeb #GitHub #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126400801877618",
+    "media_id": "18097467404652512",
+    "url": "https://www.instagram.com/reel/DfO9u-UjvAM/"
+  },
+  "history": [
+    {
+      "at": "2026-11-02T09:16:36Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-02T09:17:24Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-02T09:17:24Z"
 }
