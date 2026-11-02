@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep040-HI.mp4"
   },
   "caption": "आपके प्रोजेक्ट के लिए 3 हुक आइडियाज़\n\nये 3 हुक्स चुरा लीजिए — ये आपका असली समय बचाएंगे।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 40.\n\n#HookIdeas #KiroTips #Automation #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126342154877618",
+    "media_id": "18119132884814202",
+    "url": "https://www.instagram.com/reel/DfOKGNzAXMk/"
+  },
+  "history": [
+    {
+      "at": "2026-11-02T01:44:55Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-02T01:46:07Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-02T01:46:07Z"
 }
