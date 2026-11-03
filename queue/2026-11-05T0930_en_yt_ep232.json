@@ -27,6 +27,13 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "uploading",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-03T17:40:20Z",
+      "event": "uploading to YouTube"
+    }
+  ],
+  "updated_at": "2026-11-03T17:40:20Z"
 }
