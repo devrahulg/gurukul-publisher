@@ -9,6 +9,22 @@
     "file_name": "Kiro-Ep042-EN.mp4"
   },
   "caption": "Automating Docs Updates With a Kiro Hook\n\nYour docs never go stale again.\n\nOne Kiro tip a day. Episode 42.\n\n#DocsAutomation #KiroHooks #theAIgurukul #foryourpage #commentbelow",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18126723058877618",
+    "media_id": "18119024783106279",
+    "url": "https://www.instagram.com/reel/DfTB0zIAu9I/"
+  },
+  "history": [
+    {
+      "at": "2026-11-03T23:09:23Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-03T23:10:13Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-03T23:10:13Z"
 }
