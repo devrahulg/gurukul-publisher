@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep043-HI.mp4"
   },
   "caption": "कई हुक्स को एक साथ चेन करना\n\nएक इवेंट, कई ऑटोमेटेड स्टेप्स। यहां देखिए कैसे।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 43.\n\n#HookChaining #KiroAutomation #Workflow #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-05T21:53:06Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-05T21:53:06Z"
 }
