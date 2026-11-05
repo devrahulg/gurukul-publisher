@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz123-EN.mp4"
   },
   "caption": "What is MCP? 4 facts for Kiro users\n\nMCP in thirty seconds. Four facts.\n\n1. A shared standard\n2. Direct calls\n3. No glue code\n4. Powers\n\nWhich one did you not know? Comment its number.\nDocs: https://kiro.dev/docs/mcp/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #MCP #Kiro #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18127003375877618",
+    "media_id": "18110352968346135",
+    "url": "https://www.instagram.com/reel/DfWedoSji6T/"
+  },
+  "history": [
+    {
+      "at": "2026-11-05T07:17:21Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-05T07:18:10Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-05T07:18:10Z"
 }
