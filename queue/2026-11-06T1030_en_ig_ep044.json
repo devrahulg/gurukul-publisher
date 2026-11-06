@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep044-EN.mp4"
   },
   "caption": "Debugging a Hook That Isn't Firing\n\nYour hook isn't running? Check these first.\n\nOne Kiro tip a day. Episode 44.\n\n#HookDebugging #Troubleshooting #theAIgurukul #growth #trending",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-06T17:20:48Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-06T17:20:48Z"
 }
