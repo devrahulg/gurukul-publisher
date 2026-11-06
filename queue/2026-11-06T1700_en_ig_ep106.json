@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz106-EN.mp4"
   },
   "caption": "Catch bad requirements before coding: Kiro requirements analysis in 4 steps\n\nFour steps to catch bad requirements before you write any code.\n\n1. Write requirements\n2. Run the analysis\n3. Answer its questions\n4. Fix, then build\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/specs/analyze-requirements/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #Requirements #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18127241758877618",
+    "media_id": "17943088230369243",
+    "url": "https://www.instagram.com/reel/DfZUQMIAply/"
+  },
+  "history": [
+    {
+      "at": "2026-11-06T09:45:50Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-06T09:46:40Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-06T09:46:40Z"
 }
