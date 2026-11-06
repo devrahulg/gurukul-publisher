@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:40:03Z",
+  "generated_at": "2026-11-06T09:33:57Z",
   "accounts": {
     "hi_ig": {
       "same_as": "en_ig"
@@ -13,7 +13,7 @@
       "followers": 13,
       "posts": 155,
       "publishing_quota": {
-        "quota_usage": 4,
+        "quota_usage": 0,
         "config": {
           "quota_total": 100,
           "quota_duration": 86400
@@ -24,8 +24,8 @@
       "channel_id": "UCG8Hpy65F63otVdaM6Klynw",
       "title": "The AI Gurukul",
       "subscribers": 9,
-      "views": 5007,
-      "videos": 163
+      "views": 5198,
+      "videos": 165
     },
     "li_page": {
       "status": "secret LINKEDIN_TOKEN not set"
@@ -35,26 +35,27 @@
     "en_yt": {
       "published": 2,
       "missed": 1,
-      "scheduled": 101,
+      "scheduled": 103,
       "uploading": 1,
-      "failed": 1,
-      "queued": 70
+      "failed": 2,
+      "queued": 67
     },
     "hi_yt": {
       "published": 1,
       "missed": 1,
       "scheduled": 36,
-      "failed": 2,
-      "queued": 36
+      "failed": 3,
+      "queued": 35
     },
     "en_ig": {
       "published": 101,
-      "queued": 74
+      "missed": 1,
+      "queued": 73
     },
     "hi_ig": {
       "published": 36,
-      "missed": 1,
-      "queued": 38
+      "missed": 2,
+      "queued": 37
     },
     "li_page": {
       "published": 1
