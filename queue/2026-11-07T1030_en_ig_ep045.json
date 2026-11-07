@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep045-EN.mp4"
   },
   "caption": "Hooks Recap: Background Automation in Kiro\n\nEverything hooks can do, in 30 seconds.\n\nOne Kiro tip a day. Episode 45.\n\n#HooksRecap #Module4 #KiroAutomation #theAIgurukul #successmindset",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-07T15:52:08Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-07T15:52:08Z"
 }
