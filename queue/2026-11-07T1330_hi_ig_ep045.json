@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep045-HI.mp4"
   },
   "caption": "हुक्स रीकैप: Kiro में बैकग्राउंड ऑटोमेशन\n\n30 सेकंड में हुक्स जो कुछ भी कर सकते हैं।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 45.\n\n#HooksRecap #KiroAutomation #Module4 #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-07T20:06:22Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-07T20:06:22Z"
 }
