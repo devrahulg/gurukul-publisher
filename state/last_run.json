@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-11-07T23:36:53Z",
+  "ran_at": "2026-11-08T02:40:40Z",
   "missed": 0,
   "youtube_done": 0,
   "youtube_errors": 1,
@@ -25,8 +25,8 @@
       "published": 1,
       "missed": 1,
       "scheduled": 36,
-      "failed": 4,
-      "queued": 34
+      "failed": 5,
+      "queued": 33
     },
     "en_ig": {
       "published": 105,
