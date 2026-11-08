@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep046-EN.mp4"
   },
   "caption": "What Are Steering Rules in Kiro?\n\nThis is how you make Kiro sound like your team.\n\nOne Kiro tip a day. Episode 46.\n\n#SteeringRules #KiroCustomization #theAIgurukul #fyp #sharethis",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-08T16:37:50Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-08T16:37:50Z"
 }
