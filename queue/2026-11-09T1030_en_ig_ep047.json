@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep047-EN.mp4"
   },
   "caption": "Writing Your First Steering File\n\nYour first steering file takes under 2 minutes.\n\nOne Kiro tip a day. Episode 47.\n\n#SteeringFile #GettingStarted #theAIgurukul #reachmore #viral",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-09T18:38:13Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-09T18:38:13Z"
 }

@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep047-HI.mp4"
   },
   "caption": "अपनी पहली स्टीयरिंग फाइल लिखना\n\nआपकी पहली स्टीयरिंग फाइल 2 मिनट से भी कम में बन जाती है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 47.\n\n#SteeringFile #KiroCustomization #KiroHindi #theAIgurukul #goalsetter",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-09T18:38:13Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-09T18:38:13Z"
 }
