@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-09T10:21:04Z",
+  "checked_at": "2026-11-10T10:24:58Z",
   "active": true,
-  "days_left": 25.0,
+  "days_left": 24.0,
   "scope": "openid,profile,w_member_social",
   "status": "active"
 }
