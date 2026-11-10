@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz237-EN.mp4"
   },
   "caption": "Claude in Excel and PowerPoint: explain formulas, fix errors, update assumptions, edit your deck.\n\nClaude in Excel and PowerPoint does 4 things inside your files. Paid plans. Check status when installing.\n\n1. Explain\n2. Debug\n3. Update\n4. Deck\n\nSend this to a friend who lives in Excel and PowerPoint\nWhich one saves you most time?\nFollow for a Claude tip a day.\nOfficial docs: https://claude.com/claude-in-excel\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ExcelTips #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18128188078877618",
+    "media_id": "17913761934482598",
+    "url": "https://www.instagram.com/reel/Dfjm6Y2CDSP/"
+  },
+  "history": [
+    {
+      "at": "2026-11-10T09:41:03Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-10T09:42:11Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-10T09:42:11Z"
 }
