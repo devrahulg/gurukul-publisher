@@ -29,6 +29,18 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "failed",
+  "attempts": 1,
+  "history": [
+    {
+      "at": "2026-11-11T02:08:48Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-11-11T02:08:49Z",
+      "event": "failed: Could not download Drive file 1wOpuSr3RvLl3F0rF6vfW-9-rUA3lPAys: Drive download: HTTP 404: {   \"error\": {     \"code\": 404,     \"message\": \"File not found: 1wOpu"
+    }
+  ],
+  "updated_at": "2026-11-11T02:08:49Z",
+  "last_error": "Could not download Drive file 1wOpuSr3RvLl3F0rF6vfW-9-rUA3lPAys: Drive download: HTTP 404: {   \"error\": {     \"code\": 404,     \"message\": \"File not found: 1wOpuSr3RvLl3F0rF6vfW-9-rUA3lPAys.\",     \"errors\": [       {         \"message\": \"File not found: 1wOpuSr3RvLl3F0rF6vfW-9-rUA3lPAys.\",         \"domain\": \"global\",         \"reason\": \"notFound\",         \"location\": \"fileId\",         \"locationType\": \"parameter\"       }     ]   } } "
 }
