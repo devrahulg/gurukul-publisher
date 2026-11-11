@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep049-EN.mp4"
   },
   "caption": "Steering Across an Entire Team's Kiro Setup\n\nGet your whole team's Kiro agents on the same page.\n\nOne Kiro tip a day. Episode 49.\n\n#TeamSteering #KiroForTeams #theAIgurukul #doubletap #foryourpage",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-11T17:49:58Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-11T17:49:58Z"
 }
