@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz238-EN.mp4"
   },
   "caption": "Claude Code plan mode: Claude explores and proposes a plan, you approve, then it builds. 3 steps.\n\nClaude Code plan mode: 3 steps before any code changes. Stop it from rushing in.\n\n1. Switch\n2. Review\n3. Approve\n\nSend this to a friend whose AI edits files too fast\nPlan first, always or sometimes?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/permission-modes\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AICoding #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18128443750877618",
+    "media_id": "18169850038517678",
+    "url": "https://www.instagram.com/reel/DfmMW_pCQZk/"
+  },
+  "history": [
+    {
+      "at": "2026-11-11T09:46:58Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-11T09:47:47Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-11T09:47:47Z"
 }
