@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep050-EN.mp4"
   },
   "caption": "AGENTS.md: The Open Standard Kiro Supports\n\nThis file works across more than just Kiro.\n\nOne Kiro tip a day. Episode 50.\n\n#AGENTSmd #OpenStandard #theAIgurukul #keepgrowing #doubletap",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-12T16:11:09Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-12T16:11:09Z"
 }
