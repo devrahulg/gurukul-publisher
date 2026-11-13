@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz107-EN.mp4"
   },
   "caption": "Property-based testing in Kiro: 5 steps (find bugs unit tests miss)\n\nFive steps to bug-hunt with property-based testing in Kiro.\n\n1. Write EARS requirements\n2. Kiro extracts properties\n3. Hundreds of inputs\n4. Failures shrink\n5. Fix the bug\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/specs/correctness/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #PropertyBasedTesting #Testing #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18128956552877618",
+    "media_id": "18115865282333112",
+    "url": "https://www.instagram.com/reel/Dfrc_SRDghw/"
+  },
+  "history": [
+    {
+      "at": "2026-11-13T10:48:31Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-13T10:49:18Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-13T10:49:18Z"
 }
