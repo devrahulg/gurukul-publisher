@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep051-EN.mp4"
   },
   "caption": "Skills.md: Teaching Kiro Custom Capabilities\n\nGive Kiro a brand new skill it didn't ship with.\n\nOne Kiro tip a day. Episode 51.\n\n#SkillsMD #KiroCustomization #theAIgurukul #growthmindset #reachmore",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-13T18:28:11Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-13T18:28:11Z"
 }
