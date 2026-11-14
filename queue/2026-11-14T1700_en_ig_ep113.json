@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz113-EN.mp4"
   },
   "caption": "Build a Kiro skill in 5 steps (SKILL.md, Agent Skills)\n\nFive steps to build your own Kiro skill.\n\n1. Make a folder\n2. Add SKILL.md\n3. Say when to use it\n4. Write instructions\n5. Call it by name\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/skills/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #AgentSkills #Kiro #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18129165490877618",
+    "media_id": "18015195191907056",
+    "url": "https://www.instagram.com/reel/DftgmPXiFrn/"
+  },
+  "history": [
+    {
+      "at": "2026-11-14T05:57:36Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-14T05:59:43Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-14T05:59:43Z"
 }
