@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz241-EN.mp4"
   },
   "caption": "Claude Design tutorial: make a poster, edit it, share it and export it in 4 steps. Beta, on paid plans only.\n\nClaude Design tutorial: a poster in 4 steps. Copy my prompt, try it today.\n\n1. Ask\n2. Edit\n3. Share\n4. Export\n\nSend this to a friend who makes posters for events\nPoster, slides, or docs first?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/14604416-get-started-with-claude-design\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #ClaudeDesign #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18129245752877618",
+    "media_id": "18641917192049321",
+    "url": "https://www.instagram.com/reel/DfuTU3GDknS/"
+  },
+  "history": [
+    {
+      "at": "2026-11-14T13:21:49Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-14T13:22:37Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-14T13:22:37Z"
 }
