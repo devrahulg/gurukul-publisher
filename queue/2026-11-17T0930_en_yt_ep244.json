@@ -27,6 +27,24 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "scheduled",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-15T16:55:26Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-11-15T16:55:30Z",
+      "event": "YouTube scheduled: GoJKxRrwiak"
+    }
+  ],
+  "updated_at": "2026-11-15T16:55:30Z",
+  "result": {
+    "video_id": "GoJKxRrwiak",
+    "url": "https://www.youtube.com/shorts/GoJKxRrwiak",
+    "privacy": "private",
+    "publish_at": "2026-11-17T04:00:00Z",
+    "upload_status": "uploaded"
+  }
 }
