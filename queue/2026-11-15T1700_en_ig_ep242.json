@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz242-EN.mp4"
   },
   "caption": "Claude Code subagents let you split a big job into parallel helpers. Here are 3 steps, with a prompt to copy.\n\nClaude Code subagents run jobs in parallel, not one by one. Here are the three steps.\n\n1. Describe\n2. Delegate\n3. Merge\n\nSend this to a friend who uses Claude Code every day\nTests or README first?\nFollow for a Claude tip a day.\nOfficial docs: https://code.claude.com/docs/en/sub-agents\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #AIAgents #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18129471391877618",
+    "media_id": "18018395549750453",
+    "url": "https://www.instagram.com/reel/DfwfuVCk4XX/"
+  },
+  "history": [
+    {
+      "at": "2026-11-15T09:48:37Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-15T09:49:45Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-15T09:49:45Z"
 }
