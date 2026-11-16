@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz131-EN.mp4"
   },
   "caption": "Kiro sub-agents explained: 4 facts\n\nFour facts about Kiro sub-agents.\n\n1. Built in\n2. General purpose\n3. In parallel\n4. Make your own\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/custom-agents/subagents/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #SubAgents #Kiro #AIagents #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18129762790877618",
+    "media_id": "17917762560498932",
+    "url": "https://www.instagram.com/reel/DfzBl65kVKS/"
+  },
+  "history": [
+    {
+      "at": "2026-11-16T09:23:03Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-16T09:23:52Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-16T09:23:52Z"
 }
