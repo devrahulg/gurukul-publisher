@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep054-HI.mp4"
   },
   "caption": "स्टीयरिंग बनाम स्पेक्स: क्या फर्क है?\n\nलोग इन्हें अक्सर मिला देते हैं। असली फर्क यह है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 54.\n\n#SteeringVsSpecs #KiroCustomization #KiroHindi #theAIgurukul #explorepage",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-16T19:47:34Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-16T19:47:34Z"
 }

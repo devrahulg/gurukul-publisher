@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep054-EN.mp4"
   },
   "caption": "Steering vs Specs: What's the Difference?\n\nPeople mix these up constantly. Here's the real difference.\n\nOne Kiro tip a day. Episode 54.\n\n#SteeringVsSpecs #KiroConcepts #theAIgurukul #reels #goalsetter",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-16T19:47:34Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-16T19:47:34Z"
 }
