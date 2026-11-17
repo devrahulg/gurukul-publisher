@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz244-EN.mp4"
   },
   "caption": "Claude scheduled tasks: set a recurring task once and let Claude run it in the cloud. 3 steps, paid plans only.\n\nClaude scheduled tasks: set it once, it runs every week. Here is how, in three steps.\n\n1. Open\n2. Describe\n3. Relax\n\nSend this to a friend who repeats the same task every week\nDaily or weekly for you?\nFollow for a Claude tip a day.\nOfficial docs: https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #Automation #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18130099147877618",
+    "media_id": "18034801844681350",
+    "url": "https://www.instagram.com/reel/Df12GHcCfhe/"
+  },
+  "history": [
+    {
+      "at": "2026-11-17T11:40:20Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-17T11:41:09Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-17T11:41:09Z"
 }

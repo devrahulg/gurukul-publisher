@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz137-EN.mp4"
   },
   "caption": "What is Auto mode in Kiro? 3 facts about the model router\n\nWhat is Auto mode in Kiro? Three facts.\n\n1. A model router\n2. It is 1x\n3. Smart routing\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/models/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #AIModels #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18130099396877618",
+    "media_id": "17998347695843371",
+    "url": "https://www.instagram.com/reel/Df12McLCuRx/"
+  },
+  "history": [
+    {
+      "at": "2026-11-17T11:41:09Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-17T11:41:58Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-17T11:41:58Z"
 }
