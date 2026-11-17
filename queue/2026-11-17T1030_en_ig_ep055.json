@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep055-EN.mp4"
   },
   "caption": "Steering Recap: Shaping How Kiro Behaves\n\nSteering, AGENTS.md, and Skills.md — in 30 seconds.\n\nOne Kiro tip a day. Episode 55.\n\n#SteeringRecap #Module5 #theAIgurukul #reachmore #doubletap",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-17T20:44:09Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-17T20:44:09Z"
 }
