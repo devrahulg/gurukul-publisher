@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz143-EN.mp4"
   },
   "caption": "Kiro for teams: 4 things to commit to your repo\n\nFour things to commit so your whole team shares Kiro's brain.\n\n1. Steering files\n2. Specs\n3. AGENTS.md\n4. Skills\n\nWhich step surprised you? Comment its number.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #TeamWork #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18130282333877618",
+    "media_id": "17941267692123028",
+    "url": "https://www.instagram.com/reel/Df4ZYUSoakh/"
+  },
+  "history": [
+    {
+      "at": "2026-11-18T11:27:07Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-18T11:27:56Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-18T11:27:56Z"
 }

@@ -1,9 +1,9 @@
 {
-  "ran_at": "2026-11-18T02:49:35Z",
+  "ran_at": "2026-11-18T11:28:24Z",
   "missed": 0,
   "youtube_done": 0,
-  "youtube_errors": 2,
-  "instagram_done": 0,
+  "youtube_errors": 0,
+  "instagram_done": 2,
   "instagram_errors": 0,
   "accounts": {
     "hi_ig": "ready",
@@ -29,9 +29,9 @@
       "queued": 23
     },
     "en_ig": {
-      "published": 125,
+      "published": 127,
       "missed": 13,
-      "queued": 37
+      "queued": 35
     },
     "hi_ig": {
       "published": 36,
