@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep056-HI.mp4"
   },
   "caption": "MCP क्या है और Kiro इसे क्यों इस्तेमाल करता है\n\nयही प्रोटोकॉल है जिससे Kiro लगभग किसी भी टूल से बात कर पाता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 56.\n\n#MCP #ModelContextProtocol #KiroIntegrations #KiroHindi #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-18T19:30:51Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-18T19:30:51Z"
 }
