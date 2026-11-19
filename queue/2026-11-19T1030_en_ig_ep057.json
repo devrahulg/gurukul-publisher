@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep057-EN.mp4"
   },
   "caption": "Connecting Kiro to an External Tool via MCP\n\nConnecting a new tool to Kiro takes minutes, not hours.\n\nOne Kiro tip a day. Episode 57.\n\n#MCPSetup #ToolIntegration #theAIgurukul #reachyourgoals #doubletap",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-19T18:34:48Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-19T18:34:48Z"
 }
