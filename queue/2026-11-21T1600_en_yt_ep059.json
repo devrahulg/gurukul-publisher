@@ -30,6 +30,18 @@
     "category_id": "27",
     "made_for_kids": false
   },
-  "status": "queued",
-  "attempts": 0
+  "status": "failed",
+  "attempts": 1,
+  "history": [
+    {
+      "at": "2026-11-20T00:52:05Z",
+      "event": "uploading to YouTube"
+    },
+    {
+      "at": "2026-11-20T00:52:05Z",
+      "event": "failed: Could not download Drive file 1-X2byI2nEOHpkSg9FvRzmkyz3dXnohAY: Drive download: HTTP 404: {   \"error\": {     \"code\": 404,     \"message\": \"File not found: 1-X2b"
+    }
+  ],
+  "updated_at": "2026-11-20T00:52:05Z",
+  "last_error": "Could not download Drive file 1-X2byI2nEOHpkSg9FvRzmkyz3dXnohAY: Drive download: HTTP 404: {   \"error\": {     \"code\": 404,     \"message\": \"File not found: 1-X2byI2nEOHpkSg9FvRzmkyz3dXnohAY.\",     \"errors\": [       {         \"message\": \"File not found: 1-X2byI2nEOHpkSg9FvRzmkyz3dXnohAY.\",         \"domain\": \"global\",         \"reason\": \"notFound\",         \"location\": \"fileId\",         \"locationType\": \"parameter\"       }     ]   } } "
 }
