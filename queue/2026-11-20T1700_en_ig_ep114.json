@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz114-EN.mp4"
   },
   "caption": "4 Kiro steering rules to steal (stop repeating yourself in prompts)\n\nFour steering rules so you never repeat yourself to Kiro again.\n\n1. Naming\n2. Errors\n3. Libraries\n4. Tests\n\nKnow a dev who needs this? Send it to them.\nDocs: https://kiro.dev/docs/steering/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #SteeringFiles #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18130628353877618",
+    "media_id": "17990966753878884",
+    "url": "https://www.instagram.com/reel/Df9NbRADJsl/"
+  },
+  "history": [
+    {
+      "at": "2026-11-20T08:18:52Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-20T08:19:42Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-20T08:19:42Z"
 }
