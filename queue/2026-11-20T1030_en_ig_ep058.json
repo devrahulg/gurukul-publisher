@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep058-EN.mp4"
   },
   "caption": "Kiro + Figma: Designs Into Code\n\nYour Figma file just became a starting point for real code.\n\nOne Kiro tip a day. Episode 58.\n\n#KiroFigma #DesignToCode #theAIgurukul #engagementboost #commentbelow",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-20T17:10:22Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-20T17:10:22Z"
 }
