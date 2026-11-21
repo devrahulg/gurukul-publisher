@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep059-HI.mp4"
   },
   "caption": "Kiro + Postman: आपके IDE के अंदर API टेस्टिंग\n\nAPI टेस्ट करने के लिए टैब बदलना बंद कीजिए।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 59.\n\n#KiroPostman #APITesting #KiroHindi #theAIgurukul #goalsetter",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-21T20:00:21Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-21T20:00:21Z"
 }

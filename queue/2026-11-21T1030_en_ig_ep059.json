@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep059-EN.mp4"
   },
   "caption": "Kiro + Postman: API Testing Inside Your IDE\n\nStop tab-switching to test your API.\n\nOne Kiro tip a day. Episode 59.\n\n#KiroPostman #APITesting #theAIgurukul #keepgrowing #reachmore",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-21T20:00:21Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-21T20:00:21Z"
 }
