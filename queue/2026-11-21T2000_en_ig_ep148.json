@@ -9,6 +9,22 @@
     "file_name": "Kiro-Buzz148-EN.mp4"
   },
   "caption": "5 prompts to start a Kiro spec (copy and paste)\n\nFive prompts to start a Kiro spec with.\n\n1. New feature\n2. Bug report\n3. Refactor\n4. Add tests\n5. Explain first\n\nLearning Kiro too? Say hi in the comments.\nDocs: https://kiro.dev/docs/specs/\n\nIndependent creator, not affiliated with AWS or Kiro. Credit: @kirodotdev\n\n#BuildWithKiro #Kiro #PromptEngineering #AIcoding #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18130859131877618",
+    "media_id": "17919977751538232",
+    "url": "https://www.instagram.com/reel/DgASFWMk6iR/"
+  },
+  "history": [
+    {
+      "at": "2026-11-21T12:56:39Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-21T12:57:48Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-21T12:57:48Z"
 }
