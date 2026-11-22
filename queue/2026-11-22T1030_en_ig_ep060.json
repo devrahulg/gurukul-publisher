@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep060-EN.mp4"
   },
   "caption": "Kiro + Datadog: Monitoring Without Leaving Kiro\n\nSee production issues without leaving your editor.\n\nOne Kiro tip a day. Episode 60.\n\n#KiroDatadog #Monitoring #theAIgurukul #growthmindset #reachmore",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-22T15:35:34Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-22T15:35:34Z"
 }
