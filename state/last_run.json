@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-11-22T15:35:34Z",
+  "ran_at": "2026-11-22T21:11:58Z",
   "missed": 1,
   "youtube_done": 0,
   "youtube_errors": 0,
@@ -35,8 +35,8 @@
     },
     "hi_ig": {
       "published": 36,
-      "missed": 18,
-      "queued": 21
+      "missed": 19,
+      "queued": 20
     },
     "li_page": {
       "published": 1
