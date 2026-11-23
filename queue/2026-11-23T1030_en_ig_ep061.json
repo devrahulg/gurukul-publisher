@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep061-EN.mp4"
   },
   "caption": "Kiro + Miro: Whiteboards Into Specs\n\nThat whiteboard session can become a real spec.\n\nOne Kiro tip a day. Episode 61.\n\n#KiroMiro #WhiteboardToSpec #theAIgurukul #getnoticed #reachyourgoals",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-23T22:12:12Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-23T22:12:12Z"
 }

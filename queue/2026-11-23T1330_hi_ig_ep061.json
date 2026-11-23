@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep061-HI.mp4"
   },
   "caption": "Kiro + Miro: व्हाइटबोर्ड से स्पेक तक\n\nवह व्हाइटबोर्ड सेशन अब एक असली स्पेक बन सकता है।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 61.\n\n#KiroMiro #WhiteboardToSpec #KiroHindi #theAIgurukul #reels",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-23T22:12:12Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-23T22:12:12Z"
 }
