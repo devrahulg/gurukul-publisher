@@ -9,6 +9,22 @@
     "file_name": "Claude-Buzz250-EN.mp4"
   },
   "caption": "Claude Code mods: ask Claude Code to write a TypeScript mod, install it with /plugin, and only trust safe sources.\n\nClaude Code mods: customize it with TypeScript in 3 steps. Brand new, so check the official post.\n\n1. Ask\n2. Install\n3. Trust\n\nSend this to a friend who customizes their dev tools\nWhat would you mod first?\nFollow for a Claude tip a day.\nOfficial docs: https://claude.com/blog/claude-code-mods\n\nIndependent creator, not affiliated with Anthropic. Claude is a trademark of Anthropic.\n\n#ClaudeAI #Claude #TypeScript #AItips #theAIgurukul",
-  "status": "queued",
-  "attempts": 0
+  "status": "published",
+  "attempts": 0,
+  "result": {
+    "container_id": "18131205007877618",
+    "media_id": "18028457768940762",
+    "url": "https://www.instagram.com/reel/DgFLbcTnXbK/"
+  },
+  "history": [
+    {
+      "at": "2026-11-23T10:35:20Z",
+      "event": "Instagram container created"
+    },
+    {
+      "at": "2026-11-23T10:36:07Z",
+      "event": "published on Instagram"
+    }
+  ],
+  "updated_at": "2026-11-23T10:36:07Z"
 }
