@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep063-EN.mp4"
   },
   "caption": "Kiro + Supabase: Backend in Minutes\n\nA working backend, before your coffee gets cold.\n\nOne Kiro tip a day. Episode 63.\n\n#KiroSupabase #BackendDev #theAIgurukul #explorepage #sharethis",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-25T21:56:37Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-25T21:56:37Z"
 }

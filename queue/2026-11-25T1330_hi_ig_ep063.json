@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep063-HI.mp4"
   },
   "caption": "Kiro + Supabase: मिनटों में बैकएंड\n\nआपकी कॉफ़ी ठंडी होने से पहले एक चलता-फिरता बैकएंड।\n\nरोज़ एक Kiro टिप, हिंदी में। Episode 63.\n\n#KiroSupabase #BackendDev #KiroHindi #theAIgurukul #reachmore",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-25T21:56:37Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-25T21:56:37Z"
 }
