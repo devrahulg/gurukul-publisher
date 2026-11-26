@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep064-EN.mp4"
   },
   "caption": "Kiro + ElevenLabs: Voice Features, No Extra Setup\n\nAdding voice to your app just got a lot easier.\n\nOne Kiro tip a day. Episode 64.\n\n#KiroElevenLabs #VoiceAI #theAIgurukul #reachyourgoals #successmindset",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-26T22:54:23Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-26T22:54:23Z"
 }
