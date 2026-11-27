@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:11:13Z",
+  "generated_at": "2026-11-27T11:03:04Z",
   "accounts": {
     "hi_ig": {
       "same_as": "en_ig"
@@ -24,7 +24,7 @@
       "channel_id": "UCG8Hpy65F63otVdaM6Klynw",
       "title": "The AI Gurukul",
       "subscribers": 42,
-      "views": 7908,
+      "views": 8082,
       "videos": 226
     },
     "li_page": {
@@ -37,25 +37,25 @@
       "missed": 1,
       "scheduled": 135,
       "uploading": 1,
-      "failed": 22,
-      "queued": 15
+      "failed": 23,
+      "queued": 14
     },
     "hi_yt": {
       "published": 1,
       "missed": 1,
       "scheduled": 36,
-      "failed": 23,
-      "queued": 15
+      "failed": 24,
+      "queued": 14
     },
     "en_ig": {
       "published": 137,
-      "missed": 21,
-      "queued": 17
+      "missed": 22,
+      "queued": 16
     },
     "hi_ig": {
       "published": 36,
-      "missed": 22,
-      "queued": 17
+      "missed": 23,
+      "queued": 16
     },
     "li_page": {
       "published": 1
