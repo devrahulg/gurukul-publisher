@@ -9,6 +9,13 @@
     "file_name": "Kiro-Ep065-EN.mp4"
   },
   "caption": "Kiro + Google Firebase: Shipping Mobile Backends\n\nYour mobile backend, wired up by Kiro.\n\nOne Kiro tip a day. Episode 65.\n\n#KiroFirebase #MobileBackend #theAIgurukul #doubletap #sharethis",
-  "status": "queued",
-  "attempts": 0
+  "status": "missed",
+  "attempts": 0,
+  "history": [
+    {
+      "at": "2026-11-27T23:20:15Z",
+      "event": "missed: more than 600 min past its time"
+    }
+  ],
+  "updated_at": "2026-11-27T23:20:15Z"
 }
